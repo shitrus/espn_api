@@ -20,13 +20,13 @@ def main():
                 except IndexError:
                     i = i + 1
                     continue
-                slug = "\"" + teamReq.json()["team"]["slug"] + "\""
-                location = "\"" + teamReq.json()["team"]["location"] + "\""
-                name = "\"" + teamReq.json()["team"]["name"] + "\""
-                nickname = "\"" + teamReq.json()["team"]["nickname"] + "\""
-                abbreviation = "\"" + teamReq.json()["team"]["abbreviation"] + "\""
-                displayName = "\"" + teamReq.json()["team"]["displayName"] + "\""
-                shortDisplayName = "\"" + teamReq.json()["team"]["shortDisplayName"] + "\""
+                slug = '\"' + teamReq.json()["team"]["slug"] + '\"'
+                location = '\"' + teamReq.json()["team"]["location"] + '\"'
+                name = '\"' + teamReq.json()["team"]["name"] + '\"'
+                nickname = '\"' + teamReq.json()["team"]["nickname"] + '\"'
+                abbreviation = '\"' + teamReq.json()["team"]["abbreviation"] + '\"'
+                displayName = '\"' + teamReq.json()["team"]["displayName"] + '\"'
+                shortDisplayName = '\"' + teamReq.json()["team"]["shortDisplayName"] + '\"'
                 try:
                     color = teamReq.json()["team"]["color"]
                 except KeyError:
