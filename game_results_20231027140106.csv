@@ -1,0 +1,651 @@
+gameId,homeTeamId,homeTeamName ,awayTeamId,awayTeamName,homeTeamScore,awayTeamScore
+401520270,245,Texas A&M Aggies,2,Auburn Tigers,27,10
+401549761,,Southwestern University Pirates,,Birmingham-Southern Panthers,43,20
+401520252,61,Georgia Bulldogs,5,UAB Blazers,49,21
+401531876,6,South Alabama Jaguars,2117,Central Michigan Chippewas,30,34
+401550302,,Amherst College Mammoths,,Hamilton Continentals,17,14
+401520258,99,LSU Tigers,8,Arkansas Razorbacks,34,31
+401524014,9,Arizona State Sun Devils,30,USC Trojans,28,42
+401545975,,Colorado Mesa Mavericks,,Black Hills State Yellow Jackets,23,25
+401524016,24,Stanford Cardinal,12,Arizona Wildcats,20,21
+401540227,,Portland State Vikings,,Cal Poly Mustangs,59,21
+401547197,,Husson Eagles,,Anna Maria College Amcats,50,49
+401540245,,Idaho Vandals,,Sacramento State Hornets,36,27
+401550342,,Claremont Mudd Scripps College Stags,,California Lutheran Kingsmen,49,28
+401552468,,Bridgewater State (MA) Bears,,Western Connecticut State Wolves,35,28
+401532583,21,San Diego State Aztecs,68,Boise State Broncos,31,34
+401532584,23,San José State Spartans,2005,Air Force Falcons,20,45
+401524016,24,Stanford Cardinal,12,Arizona Wildcats,20,21
+401524018,264,Washington Huskies,25,California Golden Bears,59,32
+401524017,254,Utah Utes,26,UCLA Bruins,14,7
+401544146,,Chapman University Panthers,,Redlands Bulldogs,21,38
+401524014,9,Arizona State Sun Devils,30,USC Trojans,28,42
+401547215,,Carroll (WI) Pioneers,,Illinois Wesleyan Titans,70,23
+401552874,,Colby College White Mules,,Trinity (CT) Bantams,7,48
+401520262,2393,Middle Tennessee Blue Raiders,36,Colorado State Rams,23,31
+401524015,2483,Oregon Ducks,38,Colorado Buffaloes,42,6
+401544054,,Utica Pioneers,,Curry College Colonels,31,7
+401520272,41,UConn Huskies,150,Duke Blue Devils,7,41
+401540307,,Yale Bulldogs,,Cornell Big Red,21,23
+401540058,,Columbia Lions,,Georgetown Hoyas,30,0
+401534852,,Robert Morris Colonials,,Howard Bison,10,35
+401540324,,Delaware Fightin' Blue Hens,,New Hampshire Wildcats,29,25
+401547109,,Dubuque Spartans,,Loras College Duhawks,35,23
+401540117,,Florida A&M Rattlers,,Alabama State Hornets,23,10
+401525507,228,Clemson Tigers,52,Florida State Seminoles,24,31
+401520257,55,Jacksonville State Gamecocks,2199,Eastern Michigan Eagles,21,0
+401540567,,Stetson Hatters,,Butler Bulldogs,18,28
+401520251,57,Florida Gators,2429,Charlotte 49ers,22,7
+401531423,58,South Florida Bulls,242,Rice Owls,42,29
+401525508,154,Wake Forest Demon Deacons,59,Georgia Tech Yellow Jackets,16,30
+401547034,,Edward Waters Tigers,,Morehouse College Maroon Tigers,44,13
+401520252,61,Georgia Bulldogs,5,UAB Blazers,49,21
+401520253,62,Hawai'i Rainbow Warriors,166,New Mexico State Aggies,20,17
+401547083,,Buena Vista Beavers,,Simpson College (IA) Storm,28,55
+401544080,,Grinnell Pioneers,,Lawrence University Vikings,34,16
+401525846,66,Iowa State Cyclones,197,Oklahoma State Cowboys,34,27
+401547093,,Luther Norse,,Central College Dutch,16,41
+401532583,21,San Diego State Aztecs,68,Boise State Broncos,31,34
+401540245,,Idaho Vandals,,Sacramento State Hornets,36,27
+401550043,,Elmhurst Bluejays,,North Central Cardinals,6,59
+401544947,,North Park Vikings,,Millikin Big Blue,38,0
+401544947,,North Park Vikings,,Millikin Big Blue,38,0
+401520264,77,Northwestern Wildcats,135,Minnesota Golden Gophers,37,34
+401540347,,Southern Illinois Salukis,,Missouri State Bears,33,20
+401549652,,Beloit College Buccaneers,,Chicago Maroons,7,48
+401541104,,Springfield Pride,,Coast Guard Bears,63,14
+401541085,,DePauw Tigers,,Ohio Wesleyan Battling Bishops,28,7
+401520256,84,Indiana Hoosiers,2006,Akron Zips,29,27
+401550097,,Rose-Hulman Fightin' Engineers,,Anderson (IN) Ravens,64,3
+401521330,87,Notre Dame Fighting Irish,194,Ohio State Buckeyes,14,17
+401550279,,Wabash College Little Giants,,Oberlin Yeomen,59,6
+401541974,,Pittsburg State Gorillas,,Nebraska-Kearney Lopers,33,14
+401540300,,Murray State Racers,,Indiana State Sycamores,30,28
+401520274,238,Vanderbilt Commodores,96,Kentucky Wildcats,28,45
+401525506,97,Louisville Cardinals,103,Boston College Eagles,56,28
+401520271,2653,Troy Trojans,98,Western Kentucky Hilltoppers,27,24
+401520258,99,LSU Tigers,8,Arkansas Razorbacks,34,31
+401550236,,Eureka College Red Devils,,St. Norbert Green Knights,21,17
+401525506,97,Louisville Cardinals,103,Boston College Eagles,56,28
+401540067,,Holy Cross Crusaders,,Colgate Raiders,47,7
+401540291,,Harvard Crimson,,Brown Bears,34,31
+401549739,,MIT Engineers,,Salve Regina Seahawks,7,34
+401550122,,Mass Maritime Buccaneers,,Fitchburg State Falcons,21,3
+401550295,,Tufts University Jumbos,,Bates College Bobcats,44,16
+401526835,113,Massachusetts Minutemen,167,New Mexico Lobos,31,34
+401550122,,Mass Maritime Buccaneers,,Fitchburg State Falcons,21,3
+401547188,,Rowan Owls,,Johns Hopkins Blue Jays,20,55
+401539988,,Towson Tigers,,Norfolk State Spartans,14,21
+401520261,127,Michigan State Spartans,120,Maryland Terrapins,9,31
+401550295,,Tufts University Jumbos,,Bates College Bobcats,44,16
+401550154,,Gustavus Adolphus Golden Gusties,,Augsburg Auggies,31,33
+401540748,,Saginaw Valley State Cardinals,,Grand Valley State Lakers,14,55
+401550141,,Albion Britons,,Kalamazoo Hornets,44,17
+401520261,127,Michigan State Spartans,120,Maryland Terrapins,9,31
+401549692,,Quincy Hawks,,Northern Michigan Wildcats,45,27
+401540700,,Saginaw Valley State Cardinals,,Indianapolis Greyhounds,10,35
+401520260,130,Michigan Wolverines,164,Rutgers Scarlet Knights,31,7
+401540740,,Wayne State (MI) Warriors,,Truman State Bulldogs,7,41
+401545813,,University of Mary Marauders,,Bemidji State Beavers,10,41
+401550185,,St. Olaf Oles,,Macalester Scots,38,13
+401545829,,Southwest Minnesota State Mustangs,,Minnesota Duluth Bulldogs,0,33
+401520264,77,Northwestern Wildcats,135,Minnesota Golden Gophers,37,34
+401541952,,Missouri Western Griffons,,Fort Hays State Tigers,28,7
+401544878,,Northwest Missouri State Bearcats,,Lincoln (MO) Blue Tigers,59,0
+401520259,142,Missouri Tigers,235,Memphis Tigers,34,27
+401549640,,Washington University (St. Louis) Bears,,Carthage Redmen,38,7
+401520250,333,Alabama Crimson Tide,145,Ole Miss Rebels,24,10
+401550375,,Grove City College Wolverines,,Carnegie Mellon Tartans,21,14
+401540268,,Weber State Wildcats,,Montana State Bobcats,0,40
+401540260,,Northern Arizona Lumberjacks,,Montana Grizzlies,28,14
+401520272,41,UConn Huskies,150,Duke Blue Devils,7,41
+401531413,,East Carolina Pirates,,Gardner-Webb Runnin' Bulldogs,44,0
+401525505,258,Virginia Cavaliers,152,NC State Wolfpack,21,24
+401525510,221,Pittsburgh Panthers,153,North Carolina Tar Heels,24,41
+401525508,154,Wake Forest Demon Deacons,59,Georgia Tech Yellow Jackets,16,30
+401540370,,South Dakota State Jackrabbits,,North Dakota Fighting Hawks,42,21
+401520263,158,Nebraska Cornhuskers,2348,Louisiana Tech Bulldogs,28,14
+401540081,,Dartmouth Big Green,,Lehigh Mountain Hawks,34,17
+401540324,,Delaware Fightin' Blue Hens,,New Hampshire Wildcats,29,25
+401541075,,Carleton College Knights,,Hamline Pipers,31,27
+401540422,,Princeton Tigers,,Bryant Bulldogs,13,16
+401520260,130,Michigan Wolverines,164,Rutgers Scarlet Knights,31,7
+401520253,62,Hawai'i Rainbow Warriors,166,New Mexico State Aggies,20,17
+401526835,113,Massachusetts Minutemen,167,New Mexico Lobos,31,34
+401540058,,Columbia Lions,,Georgetown Hoyas,30,0
+401540307,,Yale Bulldogs,,Cornell Big Red,21,23
+401551512,,Nichols Bison,,Hartwick Hawks,52,3
+401549581,,Hobart Statesmen,,Keystone Giants,43,10
+401549582,,Ithaca Bombers,,Hobart Statesmen,24,14
+401520268,183,Syracuse Orange,349,Army Black Knights,29,16
+401547207,,University of New England Nor'easters,,University of Rochester (NY) Yellow Jackets,27,29
+401550249,,Ohio Northern Polar Bears,,Baldwin Wallace Yellow Jackets,21,31
+401532405,189,Bowling Green Falcons,195,Ohio Bobcats,7,38
+401550069,,Hanover Panthers,,Defiance Yellow Jackets,21,27
+401550277,,Heidelberg Student Princes,,John Carroll Blue Streaks,7,34
+401532408,,Miami (OH) RedHawks,,Delaware State Hornets,62,20
+401521330,87,Notre Dame Fighting Irish,194,Ohio State Buckeyes,14,17
+401532405,189,Bowling Green Falcons,195,Ohio Bobcats,7,38
+401541961,,Missouri Southern State Lions,,Northeastern State River Hawks,42,0
+401525846,66,Iowa State Cyclones,197,Oklahoma State Cowboys,34,27
+401541770,,Southeastern Oklahoma State Savage Storm,,Northwestern Oklahoma State Rangers,41,2
+401541794,,Southern Nazarene Crimson Storm,,Southwestern Oklahoma State Bulldogs,41,7
+401525845,2132,Cincinnati Bearcats,201,Oklahoma Sooners,6,20
+401531338,2459,Northern Illinois Huskies,202,Tulsa Golden Hurricane,14,22
+401550464,,Linfield Wildcats,,Willamette Bearcats,70,14
+401524019,265,Washington State Cougars,204,Oregon State Beavers,38,35
+401568380,,Pacific (OR) Boxers,,Puget Sound Loggers,28,14
+401541026,,Lock Haven Bald Eagles,,East Stroudsburg Warriors,21,35
+401545886,,Millersville Marauders,,West Chester Golden Rams,23,14
+401520265,213,Penn State Nittany Lions,2294,Iowa Hawkeyes,31,0
+401545968,,Seton Hill Griffins,,Slippery Rock The Rock,14,35
+401549820,,Susquehanna University River Hawks,,Western New England Golden Bears,26,18
+401525509,218,Temple Owls,2390,Miami Hurricanes,7,41
+401540048,,Bucknell Bison,,Pennsylvania Quakers,21,37
+401525510,221,Pittsburgh Panthers,153,North Carolina Tar Heels,24,41
+401540549,,Villanova Wildcats,,Rhode Island Rams,35,9
+401545886,,Millersville Marauders,,West Chester Golden Rams,23,14
+401540291,,Harvard Crimson,,Brown Bears,34,31
+401540549,,Villanova Wildcats,,Rhode Island Rams,35,9
+401525507,228,Clemson Tigers,52,Florida State Seminoles,24,31
+401540599,,Furman Paladins,,Mercer Bears,38,14
+401540384,,North Dakota State Bison,,South Dakota Coyotes,19,24
+401520259,142,Missouri Tigers,235,Memphis Tigers,34,27
+401540583,,Samford Bulldogs,,Chattanooga Mocs,24,47
+401549573,,Union (NY) Dutchmen,,Montclair State Red Hawks,43,7
+401520274,238,Vanderbilt Commodores,96,Kentucky Wildcats,28,45
+401525844,239,Baylor Bears,251,Texas Longhorns,6,38
+401547171,,Mary Hardin-Baylor Crusaders,,McMurry Indians,50,9
+401531423,58,South Florida Bulls,242,Rice Owls,42,29
+401520270,245,Texas A&M Aggies,2,Auburn Tigers,27,10
+401550347,,Shenandoah Hornets,,Juniata Eagles,48,7
+401558400,,Delaware Valley Aggies,,Kings College (PA) Monarchs,28,0
+401520254,248,Houston Cougars,2534,Sam Houston Bearkats,38,7
+401531436,,North Texas Mean Green,,Abilene Christian Wildcats,45,31
+401525844,239,Baylor Bears,251,Texas Longhorns,6,38
+401525847,2305,Kansas Jayhawks,252,BYU Cougars,38,27
+401540207,,Southern Utah Thunderbirds,,Western Illinois Leathernecks,37,17
+401524017,254,Utah Utes,26,UCLA Bruins,14,7
+401549668,,Knox College Prairie Fire,,Lake Forest Foresters,0,50
+401531872,328,Utah State Aggies,256,James Madison Dukes,38,45
+401540573,,Stony Brook Seawolves,,Richmond Spiders,19,20
+401525505,258,Virginia Cavaliers,152,NC State Wolfpack,21,24
+401525511,276,Marshall Thundering Herd,259,Virginia Tech Hokies,24,17
+401549668,,Knox College Prairie Fire,,Lake Forest Foresters,0,50
+401547109,,Dubuque Spartans,,Loras College Duhawks,35,23
+401524018,264,Washington Huskies,25,California Golden Bears,59,32
+401524019,265,Washington State Cougars,204,Oregon State Beavers,38,35
+401549652,,Beloit College Buccaneers,,Chicago Maroons,7,48
+401550203,,Lawrence University Vikings,,Minnesota Morris Cougars,22,38
+401541132,,Wisconsin-Oshkosh Titans,,Wisconsin-Whitewater Warhawks,21,37
+401550421,,Wisconsin-River Falls Falcons,,Wisconsin-Platteville Pioneers,27,16
+401520266,2509,Purdue Boilermakers,275,Wisconsin Badgers,17,38
+401525511,276,Marshall Thundering Herd,259,Virginia Tech Hokies,24,17
+401525850,277,West Virginia Mountaineers,2641,Texas Tech Red Raiders,20,13
+401532407,278,Fresno State Bulldogs,2309,Kent State Golden Flashes,53,10
+401540300,,Murray State Racers,,Indiana State Sycamores,30,28
+401540040,,Fordham Rams,,Stonehill Skyhawks,44,0
+401550362,,NC Wesleyan Battling Bishops,,Belhaven University Blazers,14,35
+401531871,2050,Ball State Cardinals,290,Georgia Southern Eagles,3,40
+401549805,,Methodist Monarchs,,Southern Virginia Knights,27,21
+401549625,,St. Lawrence Saints,,Castleton Spartans,28,0
+401531873,,Old Dominion Monarchs,,Texas A&M-Commerce Lions,10,9
+401550318,,Hampden-Sydney Tigers,,Bridgewater College (VA) Eagles,38,39
+401540467,,San Diego Toreros,,Dayton Flyers,40,25
+401540237,,UC Davis Aggies,,Eastern Washington Eagles,24,27
+401540252,,Idaho State Bengals,,Northern Colorado Bears,35,21
+401547215,,Carroll (WI) Pioneers,,Illinois Wesleyan Titans,70,23
+401540972,,Tiffin Dragons,,Ashland Eagles,55,30
+401531875,309,Louisiana Ragin' Cajuns,2084,Buffalo Bulls,45,38
+401540489,,William & Mary Tribe,,Maine Black Bears,28,3
+401544098,,Marietta Pioneers,,Otterbein Cardinals,50,0
+401541777,,East Central Tigers,,Oklahoma Baptist Bison,15,23
+401540073,,Lafayette Leopards,,Monmouth Hawks,28,20
+401541056,,Moravian Greyhounds,,SUNY Morrisville Mustangs,19,20
+401531849,324,Coastal Carolina Chanticleers,2247,Georgia State Panthers,17,30
+401531877,326,Texas State Bobcats,2440,Nevada Wolf Pack,35,24
+401531872,328,Utah State Aggies,256,James Madison Dukes,38,45
+401540237,,UC Davis Aggies,,Eastern Washington Eagles,24,27
+401544107,,Mount Union Raiders,,Muskingum Fighting Muskies,74,7
+401520250,333,Alabama Crimson Tide,145,Ole Miss Rebels,24,10
+401552018,,Wesleyan University (CT) Cardinals,,Middlebury Panthers,24,21
+401540535,,Tennessee Tech Golden Eagles,,Kennesaw State Owls,17,7
+401549714,,Bowdoin Polar Bears,,Williams Ephs,20,0
+401545746,,Alderson Broaddus Battlers,,Frostburg State Bobcats,0,0
+401520267,2579,South Carolina Gamecocks,344,Mississippi State Bulldogs,37,30
+401550302,,Amherst College Mammoths,,Hamilton Continentals,17,14
+401520268,183,Syracuse Orange,349,Army Black Knights,29,16
+401544920,,Emory & Henry College Wasps,,Wingate Bulldogs,10,31
+401541095,,Wooster Fighting Scots,,Kenyon Owls,70,21
+401544964,,Olivet College Comets,,Alfred State College Pioneers,40,19
+401520255,356,Illinois Fighting Illini,2226,Florida Atlantic Owls,23,17
+401544098,,Marietta Pioneers,,Otterbein Cardinals,50,0
+401550051,,Catholic University Cardinals,,Alfred Saxons,6,9
+401550325,,Ferrum Panthers,,Shenandoah Hornets,3,38
+401541015,,Gannon Golden Knights,,Clarion Golden Eagles,27,20
+401552998,,St. John Fisher University Cardinals,,Wilkes University Colonels,29,20
+401550169,,St. Scholastica Saints,,Concordia-Moorhead Cobbers,16,49
+401550133,,UMASS Dartmouth Corsairs,,Worcester State College Lancers,59,0
+401550349,,Trinity University (TX) Tigers,,Rhodes College Lynx,63,14
+401553038,,Lebanon Valley Flying Dutchmen,,Eastern University Eagles,45,7
+401540787,,Upper Iowa Peacocks,,Michigan Tech Huskies,31,34
+401544054,,Utica Pioneers,,Curry College Colonels,31,7
+401550279,,Wabash College Little Giants,,Oberlin Yeomen,59,6
+401540652,,Bowie State Bulldogs,,Saint Augustine's Falcons,10,7
+401544937,,Wheaton Thunder,,Augustana College (IL) Vikings,41,34
+401552998,,St. John Fisher University Cardinals,,Wilkes University Colonels,29,20
+401539980,,Morgan State Bears,,UAlbany Great Danes,17,23
+401550133,,UMASS Dartmouth Corsairs,,Worcester State College Lancers,59,0
+401550232,,Concordia (WI) Falcons,,Wisconsin Lutheran Warriors,41,0
+401544146,,Chapman University Panthers,,Redlands Bulldogs,21,38
+401550491,,George Fox Bruins,,Lewis & Clark Pioneers,31,37
+401551513,,Nichols Bison,,Gallaudet Bison,55,28
+401550408,,Millsaps Majors,,Hendrix College Warriors,42,53
+401544993,,Wilmington (OH) Fightin' Quakers,,Capital University Comets,49,24
+401545853,,Winona State Warriors,,Northern State Wolves,39,16
+401544107,,Mount Union Raiders,,Muskingum Fighting Muskies,74,7
+401550249,,Ohio Northern Polar Bears,,Baldwin Wallace Yellow Jackets,21,31
+401550456,,Lyon College Scots,,Westminster (MO) Blue Jays,30,7
+401546996,,Northwood (MI) Timberwolves,,Lake Erie Storm,68,14
+401549770,,Martin Luther Knights,,Northwestern (MN) Eagles,38,42
+401568378,,Endicott College Gulls,,Hardin-Simmons Cowboys,37,10
+401545777,,Charleston (WV) Golden Eagles,,West Virginia Wesleyan Bobcats,76,16
+401553855,,Stevenson Mustangs,,Widener University Pride,49,7
+401551140,,Chowan Hawks,,Benedict College Tigers,3,31
+401547133,,Crown College Polars,,Austin College 'Roos,23,34
+401549796,,LaGrange College Panthers,,Huntingdon College (AL) Hawks,6,41
+401545813,,University of Mary Marauders,,Bemidji State Beavers,10,41
+401544883,,Sioux Falls Cougars,,Minot State Beavers,7,0
+401550460,,Hope Flying Dutchmen,,Northwestern (MN) Eagles,54,17
+401545737,,Notre Dame College (OH) Falcons,,Fairmont State Falcons,14,17
+401545968,,Seton Hill Griffins,,Slippery Rock The Rock,14,35
+401546009,,New Mexico Highlands Cowboys,,South Dakota Mines Hardrockers,7,42
+401540185,,Central Arkansas Bears,,Abilene Christian Wildcats,52,17
+401544900,,Adams State Grizzlies,,Fort Lewis Skyhawks,25,24
+401541123,,Greenville Panthers,,Adrian Bulldogs,38,35
+401532584,23,San José State Spartans,2005,Air Force Falcons,20,45
+401520256,84,Indiana Hoosiers,2006,Akron Zips,29,27
+401540087,,Alabama A&M Bulldogs,,Arkansas-Pine Bluff Golden Lions,31,24
+401540117,,Florida A&M Rattlers,,Alabama State Hornets,23,10
+401547041,,Albany State Golden Rams,,Savannah State Tigers,15,12
+401544063,,Albright Lions,,FDU-Florham Devils,6,14
+401540126,,Alcorn State Braves,,Prairie View A&M Panthers,20,23
+401545746,,Alderson Broaddus Battlers,,Frostburg State Bobcats,0,0
+401550027,,Allegheny Gators,,Bethany (WV) Bison,31,20
+401547072,,Central State (OH) Marauders,,Allen Yellow Jackets,28,34
+401552868,,American International Yellow Jackets,,Pace University Setters,14,24
+401550097,,Rose-Hulman Fightin' Engineers,,Anderson (IN) Ravens,64,3
+401541892,,Angelo State Rams,,Western New Mexico Mustangs,62,9
+401531870,2751,Wyoming Cowboys,2026,Appalachian State Mountaineers,22,19
+401540778,,Arkansas-Monticello Boll Weevils,,Ouachita Baptist Tigers,25,45
+401540087,,Alabama A&M Bulldogs,,Arkansas-Pine Bluff Golden Lions,31,24
+401531874,2032,Arkansas State Red Wolves,2572,Southern Miss Golden Eagles,44,37
+401540720,,Southern Arkansas Muleriders,,Arkansas Tech Wonder Boys,49,3
+401545784,,Assumption Greyhounds,,Pace University Setters,36,22
+401544937,,Wheaton Thunder,,Augustana College (IL) Vikings,41,34
+401545802,,Augustana University (SD) Vikings,,Minnesota State Moorhead Dragons,31,27
+401550221,,Aurora Spartans,,Eureka College Red Devils,70,10
+401547133,,Crown College Polars,,Austin College 'Roos,23,34
+401540175,,Stephen F. Austin Lumberjacks,,Austin Peay Governors,20,22
+401550310,,Averett Cougars,,Washington and Lee Generals,20,25
+401531871,2050,Ball State Cardinals,290,Georgia Southern Eagles,3,40
+401549787,,Belhaven University Blazers,,Greensboro College Pride,34,0
+401549700,,Southern Connecticut State Owls,,Bentley Falcons,6,13
+401550027,,Allegheny Gators,,Bethany (WV) Bison,31,20
+401540142,,Jackson State Tigers,,Bethune-Cookman Wildcats,22,16
+401545975,,Colorado Mesa Mavericks,,Black Hills State Yellow Jackets,23,25
+401541004,,Shippensburg Raiders,,Bloomsburg Huskies,7,0
+401541066,,Franklin Grizzlies,,Bluffton Beavers,31,24
+401540652,,Bowie State Bulldogs,,Saint Augustine's Falcons,10,7
+401550318,,Hampden-Sydney Tigers,,Bridgewater College (VA) Eagles,38,39
+401540048,,Bucknell Bison,,Pennsylvania Quakers,21,37
+401531875,309,Louisiana Ragin' Cajuns,2084,Buffalo Bulls,45,38
+401553020,,Buffalo State Bengals,,University of Rochester (NY) Yellow Jackets,22,29
+401540567,,Stetson Hatters,,Butler Bulldogs,18,28
+401550342,,Claremont Mudd Scripps College Stags,,California Lutheran Kingsmen,49,28
+401540314,,Campbell Fighting Camels,,Elon Phoenix,24,28
+401541075,,Carleton College Knights,,Hamline Pipers,31,27
+401550375,,Grove City College Wolverines,,Carnegie Mellon Tartans,21,14
+401541035,,Carson-Newman Eagles,,Lenoir-Rhyne Bears,7,24
+401549640,,Washington University (St. Louis) Bears,,Carthage Redmen,38,7
+401547008,,Tusculum Pioneers,,Catawba Indians,35,21
+401550051,,Catholic University Cardinals,,Alfred Saxons,6,9
+401540185,,Central Arkansas Bears,,Abilene Christian Wildcats,52,17
+401540005,,Brown Bears,,Central Connecticut Blue Devils,42,20
+401525848,2306,Kansas State Wildcats,2116,UCF Knights,44,31
+401531876,6,South Alabama Jaguars,2117,Central Michigan Chippewas,30,34
+401541931,,Washburn Ichabods,,Central Missouri Mules,28,58
+401547072,,Central State (OH) Marauders,,Allen Yellow Jackets,28,34
+401541924,,Western Oregon Wolves,,Central Washington Wildcats,7,17
+401544136,,Centre College Colonels,,Berry College Vikings,16,49
+401541941,,Emporia State Hornets,,Central Oklahoma Bronchos,38,27
+401545982,,Chadron State Eagles,,Western Colorado Mountaineers,17,35
+401540472,,Western Carolina Catamounts,,Charleston Southern Buccaneers,77,21
+401545777,,Charleston (WV) Golden Eagles,,West Virginia Wesleyan Bobcats,76,16
+401525845,2132,Cincinnati Bearcats,201,Oklahoma Sooners,6,20
+401541015,,Gannon Golden Knights,,Clarion Golden Eagles,27,20
+401547101,,Coe College Kohawks,,Nebraska Wesleyan Prairie Wolves,56,6
+401540067,,Holy Cross Crusaders,,Colgate Raiders,47,7
+401545995,,Colorado State-Pueblo Thunderwolves,,Colorado School of Mines Orediggers,14,55
+401545709,,Wheeling Cardinals,,Concord Mountain Lions,44,27
+401549674,,Benedictine University (IL) Eagles,,Concordia-Chicago Cougars,48,14
+401550169,,St. Scholastica Saints,,Concordia-Moorhead Cobbers,16,49
+401550208,,Ripon Red Hawks,,Cornell College (IA) Rams,33,36
+401540399,,Davidson Wildcats,,St. Andrews Knights,84,6
+401540467,,San Diego Toreros,,Dayton Flyers,40,25
+401532408,,Miami (OH) RedHawks,,Delaware State Hornets,62,20
+401541848,,Delta State Statesmen,,Shorter Hawks,56,20
+401550256,,Hiram College Terriers,,Denison Big Red,24,55
+401554813,,Dickinson (PA) Red Devils,,Franklin & Marshall Diplomats,19,17
+401540514,,Morehead State Eagles,,Drake Bulldogs,9,16
+401540013,,Long Island University Sharks,,Duquesne Dukes,28,31
+401541026,,Lock Haven Bald Eagles,,East Stroudsburg Warriors,21,35
+401541777,,East Central Tigers,,Oklahoma Baptist Bison,15,23
+401540591,,Samford Bulldogs,,East Tennessee State Buccaneers,42,28
+401547134,,East Texas Baptist Tigers,,Austin College 'Roos,35,7
+401540390,,Eastern Illinois Panthers,,McNeese Cowboys,31,28
+401540193,,Eastern Kentucky Colonels,,Southeast Missouri State Redhawks,41,38
+401520257,55,Jacksonville State Gamecocks,2199,Eastern Michigan Eagles,21,0
+401540983,,Midwestern State Mustangs,,Eastern New Mexico Greyhounds,34,31
+401545863,,Edinboro Fighting Scots,,California (PA) Vulcans,10,31
+401547034,,Edward Waters Tigers,,Morehouse College Maroon Tigers,44,13
+401540694,,Elizabeth City State Vikings,,Shaw Bears,17,20
+401540314,,Campbell Fighting Camels,,Elon Phoenix,24,28
+401544920,,Emory & Henry College Wasps,,Wingate Bulldogs,10,31
+401541941,,Emporia State Hornets,,Central Oklahoma Bronchos,38,27
+401540670,,Virginia Union Panthers,,Fayetteville State Broncos,7,10
+401544063,,Albright Lions,,FDU-Florham Devils,6,14
+401540797,,Ferris State Bulldogs,,Northern Michigan Wildcats,78,3
+401541813,,Hillsdale Chargers,,Findlay Oilers,21,31
+401520255,356,Illinois Fighting Illini,2226,Florida Atlantic Owls,23,17
+401520275,2229,Florida International Panthers,2335,Liberty Flames,6,38
+401540040,,Fordham Rams,,Stonehill Skyhawks,44,0
+401541952,,Missouri Western Griffons,,Fort Hays State Tigers,28,7
+401547062,,Kentucky State Thorobreds,,Fort Valley State Wildcats,9,31
+401541066,,Franklin Grizzlies,,Bluffton Beavers,31,24
+401597649,,Franklin & Marshall Diplomats,,The College of New Jersey Lions,34,9
+401544900,,Adams State Grizzlies,,Fort Lewis Skyhawks,25,24
+401531413,,East Carolina Pirates,,Gardner-Webb Runnin' Bulldogs,44,0
+401550381,,Case Western Reserve Spartans,,Geneva College Golden Tornadoes,42,7
+401531849,324,Coastal Carolina Chanticleers,2247,Georgia State Panthers,17,30
+401552994,,McDaniel College Green Terror,,Gettysburg Bullets,20,27
+401545754,,West Virginia State Yellow Jackets,,Glenville State Pioneers,31,21
+401549787,,Belhaven University Blazers,,Greensboro College Pride,34,0
+401541123,,Greenville Panthers,,Adrian Bulldogs,38,35
+401541113,,Guilford Quakers,,Randolph-Macon Yellow Jackets,14,70
+401540417,,Richmond Spiders,,Hampton Pirates,14,31
+401550092,,Hanover Panthers,,Trine University Thunder,38,14
+401541753,,Henderson State Reddies,,Harding University Bisons,16,27
+401541753,,Henderson State Reddies,,Harding University Bisons,16,27
+401541813,,Hillsdale Chargers,,Findlay Oilers,21,31
+401550256,,Hiram College Terriers,,Denison Big Red,24,55
+401540356,,SE Louisiana Lions,,Houston Christian Huskies,19,34
+401547197,,Husson Eagles,,Anna Maria College Amcats,50,49
+401549674,,Benedictine University (IL) Eagles,,Concordia-Chicago Cougars,48,14
+401549661,,Illinois College Blueboys,,Monmouth (IL) Fighting Scots,20,17
+401540102,,Illinois State Redbirds,,Lindenwood Lions,48,17
+401544892,,Mercyhurst Lakers,,Indiana-Pennsylvania Crimson Hawks,13,30
+401540700,,Saginaw Valley State Cardinals,,Indianapolis Greyhounds,10,35
+401520265,213,Penn State Nittany Lions,2294,Iowa Hawkeyes,31,0
+401540142,,Jackson State Tigers,,Bethune-Cookman Wildcats,22,16
+401550277,,Heidelberg Student Princes,,John Carroll Blue Streaks,7,34
+401540687,,Lincoln (PA) Lions,,Johnson C Smith Golden Bulls,20,27
+401525847,2305,Kansas Jayhawks,252,BYU Cougars,38,27
+401525848,2306,Kansas State Wildcats,2116,UCF Knights,44,31
+401532407,278,Fresno State Bulldogs,2309,Kent State Golden Flashes,53,10
+401547062,,Kentucky State Thorobreds,,Fort Valley State Wildcats,9,31
+401545876,,Shepherd Rams,,Kutztown Golden Bears,3,20
+401541829,,Kentucky Wesleyan Panthers,,Ohio Dominican Panthers,13,10
+401552871,,Pomona Pitzer Sagehens,,La Verne Leopards,34,7
+401540376,,Lamar Cardinals,,Lincoln (CA) Oaklanders,38,0
+401544928,,Tuskegee Golden Tigers,,Lane Dragons,28,22
+401540081,,Dartmouth Big Green,,Lehigh Mountain Hawks,34,17
+401541035,,Carson-Newman Eagles,,Lenoir-Rhyne Bears,7,24
+401550491,,George Fox Bruins,,Lewis & Clark Pioneers,31,37
+401520275,2229,Florida International Panthers,2335,Liberty Flames,6,38
+401549707,,UVA Wise Highland Cavaliers,,Limestone Saints,17,38
+401540687,,Lincoln (PA) Lions,,Johnson C Smith Golden Bulls,20,27
+401520263,158,Nebraska Cornhuskers,2348,Louisiana Tech Bulldogs,28,14
+401552460,,Brockport Golden Eagles,,Lycoming Warriors,59,3
+401540499,,Robert Morris Colonials,,Virginia Lynchburg Dragons,46,0
+401550185,,St. Olaf Oles,,Macalester Scots,38,13
+401544957,,Mount St. Joseph Lions,,Manchester Spartans,69,14
+401545821,,Minnesota State Mavericks,,Concordia-St. Paul Golden Bears,42,10
+401540455,,Valparaiso Beacons,,Marist Red Foxes,30,36
+401544909,,Mars Hill Mountain Lions,,Barton College Bulldogs,16,14
+401547171,,Mary Hardin-Baylor Crusaders,,McMurry Indians,50,9
+401549813,,Brevard College Tornados,,Maryville College (TN) Scots,37,35
+401540390,,Eastern Illinois Panthers,,McNeese Cowboys,31,28
+401540599,,Furman Paladins,,Mercer Bears,38,14
+401549732,,Merchant Marine Mariners,,SUNY Maritime Privateers,36,19
+401544892,,Mercyhurst Lakers,,Indiana-Pennsylvania Crimson Hawks,13,30
+401525509,218,Temple Owls,2390,Miami Hurricanes,7,41
+401540787,,Upper Iowa Peacocks,,Michigan Tech Huskies,31,34
+401520262,2393,Middle Tennessee Blue Raiders,36,Colorado State Rams,23,31
+401552018,,Wesleyan University (CT) Cardinals,,Middlebury Panthers,24,21
+401540983,,Midwestern State Mustangs,,Eastern New Mexico Greyhounds,34,31
+401547056,,Miles College Golden Bears,,Clark Atlanta Panthers,55,14
+401550408,,Millsaps Majors,,Hendrix College Warriors,42,53
+401550203,,Lawrence University Vikings,,Minnesota Morris Cougars,22,38
+401539995,,North Carolina Central Eagles,,Mississippi Valley State Delta Devils,45,3
+401541875,,West Alabama Tigers,,Mississippi College Choctaws,10,7
+401540731,,Missouri S&T Miners,,Wayne State (NE) Wildcats,35,38
+401541961,,Missouri Southern State Lions,,Northeastern State River Hawks,42,0
+401540073,,Lafayette Leopards,,Monmouth Hawks,28,20
+401540529,,St. Thomas-Minnesota Tommies,,Morehead State Eagles,35,28
+401539980,,Morgan State Bears,,UAlbany Great Danes,17,23
+401544957,,Mount St. Joseph Lions,,Manchester Spartans,69,14
+401549632,,Ursinus Bears,,Muhlenberg Mules,20,28
+401546009,,New Mexico Highlands Cowboys,,South Dakota Mines Hardrockers,7,42
+401531424,,Navy Midshipmen,,South Florida Bulls,30,44
+401539995,,North Carolina Central Eagles,,Mississippi Valley State Delta Devils,45,3
+401520251,57,Florida Gators,2429,Charlotte 49ers,22,7
+401531882,,UL Monroe Warhawks,,Appalachian State Mountaineers,40,41
+401541974,,Pittsburg State Gorillas,,Nebraska-Kearney Lopers,33,14
+401520273,2638,UTEP Miners,2439,UNLV Rebels,28,45
+401531877,326,Texas State Bobcats,2440,Nevada Wolf Pack,35,24
+401551494,,Franklin Pierce Ravens,,New Haven Chargers,14,41
+401597649,,Franklin & Marshall Diplomats,,The College of New Jersey Lions,34,9
+401547015,,Erskine Flying Fleet,,Newberry Wolves,17,24
+401531349,,Tulane Green Wave,,Nicholls Colonels,36,7
+401539989,,Norfolk State Spartans,,North Carolina A&T Aggies,26,28
+401540384,,North Dakota State Bison,,South Dakota Coyotes,19,24
+401539988,,Towson Tigers,,Norfolk State Spartans,14,21
+401540203,,North Alabama Lions,,UT Martin Skyhawks,21,37
+401540252,,Idaho State Bengals,,Northern Colorado Bears,35,21
+401531338,2459,Northern Illinois Huskies,202,Tulsa Golden Hurricane,14,22
+401540407,,Northern Iowa Panthers,,Youngstown State Penguins,44,41
+401540260,,Northern Arizona Lumberjacks,,Montana Grizzlies,28,14
+401540430,,Northwestern State Demons,,Eastern Illinois Panthers,10,19
+401550021,,Norwich Cadets,,WPI Engineers,17,38
+401541829,,Kentucky Wesleyan Panthers,,Ohio Dominican Panthers,13,10
+401524015,2483,Oregon Ducks,38,Colorado Buffaloes,42,6
+401544089,,Whitworth Pirates,,Pacific Lutheran Lutes,42,13
+401552868,,American International Yellow Jackets,,Pace University Setters,14,24
+401540227,,Portland State Vikings,,Cal Poly Mustangs,59,21
+401540126,,Alcorn State Braves,,Prairie View A&M Panthers,20,23
+401540555,,Butler Bulldogs,,Presbyterian Blue Hose,27,17
+401568380,,Pacific (OR) Boxers,,Puget Sound Loggers,28,14
+401520266,2509,Purdue Boilermakers,275,Wisconsin Badgers,17,38
+401541113,,Guilford Quakers,,Randolph-Macon Yellow Jackets,14,70
+401550349,,Trinity University (TX) Tigers,,Rhodes College Lynx,63,14
+401540499,,Robert Morris Colonials,,Virginia Lynchburg Dragons,46,0
+401549684,,Rockford Regents,,Lakeland University Muskies,20,41
+401549618,,Rensselaer Engineers,,Dean College Bulldogs,63,0
+401540029,,St. Francis (PA) Red Flash,,Sacred Heart Pioneers,34,37
+401549745,,Christopher Newport Captains,,Salisbury University Sea Gulls,24,14
+401520254,248,Houston Cougars,2534,Sam Houston Bearkats,38,7
+401540583,,Samford Bulldogs,,Chattanooga Mocs,24,47
+401547041,,Albany State Golden Rams,,Savannah State Tigers,15,12
+401540356,,SE Louisiana Lions,,Houston Christian Huskies,19,34
+401540193,,Eastern Kentucky Colonels,,Southeast Missouri State Redhawks,41,38
+401540694,,Elizabeth City State Vikings,,Shaw Bears,17,20
+401550409,,Hendrix College Warriors,,Sewanee Tigers,19,20
+401541104,,Springfield Pride,,Coast Guard Bears,63,14
+401541004,,Shippensburg Raiders,,Bloomsburg Huskies,7,0
+401541848,,Delta State Statesmen,,Shorter Hawks,56,20
+401547131,,Simpson College (IA) Storm,,Wartburg College Knights,0,63
+401525849,2628,TCU Horned Frogs,2567,SMU Mustangs,34,17
+401540720,,Southern Arkansas Muleriders,,Arkansas Tech Wonder Boys,49,3
+401540000,,South Carolina State Bulldogs,,The Citadel Bulldogs,31,10
+401545995,,Colorado State-Pueblo Thunderwolves,,Colorado School of Mines Orediggers,14,55
+401540370,,South Dakota State Jackrabbits,,North Dakota Fighting Hawks,42,21
+401531874,2032,Arkansas State Red Wolves,2572,Southern Miss Golden Eagles,44,37
+401520267,2579,South Carolina Gamecocks,344,Mississippi State Bulldogs,37,30
+401540135,,Arkansas-Pine Bluff Golden Lions,,Southern Jaguars,0,27
+401549700,,Southern Connecticut State Owls,,Bentley Falcons,6,13
+401540214,,Tarleton State Texans,,Southwest Baptist Bearcats,27,13
+401545829,,Southwest Minnesota State Mustangs,,Minnesota Duluth Bulldogs,0,33
+401549761,,Southwestern University Pirates,,Birmingham-Southern Panthers,43,20
+401540029,,St. Francis (PA) Red Flash,,Sacred Heart Pioneers,34,37
+401550162,,Saint John's (MN) Johnnies,,Bethel (MN) Royals,27,7
+401544118,,Geneva College Golden Tornadoes,,Saint Vincent Bearcats,19,28
+401553974,,St. Xavier (IL) Cougars,,Saginaw Valley State Cardinals,10,32
+401540175,,Stephen F. Austin Lumberjacks,,Austin Peay Governors,20,22
+401540573,,Stony Brook Seawolves,,Richmond Spiders,19,20
+401540222,,Missouri State Bears,,Utah Tech Trailblazers,59,14
+401540214,,Tarleton State Texans,,Southwest Baptist Bearcats,27,13
+401525849,2628,TCU Horned Frogs,2567,SMU Mustangs,34,17
+401540203,,North Alabama Lions,,UT Martin Skyhawks,21,37
+401520269,2633,Tennessee Volunteers,2636,UTSA Roadrunners,45,14
+401540542,,UT Martin Skyhawks,,Tennessee State Tigers,20,10
+401540535,,Tennessee Tech Golden Eagles,,Kennesaw State Owls,17,7
+401520269,2633,Tennessee Volunteers,2636,UTSA Roadrunners,45,14
+401520273,2638,UTEP Miners,2439,UNLV Rebels,28,45
+401541046,,Sul Ross State Lobos,,Texas Lutheran Bulldogs,37,34
+401540157,,Grambling Tigers,,Texas Southern Tigers,35,23
+401525850,277,West Virginia Mountaineers,2641,Texas Tech Red Raiders,20,13
+401540000,,South Carolina State Bulldogs,,The Citadel Bulldogs,31,10
+401544128,,Washington & Jefferson Presidents,,Thiel Tomcats,56,14
+401541834,,Walsh Cavaliers,,Thomas More College Saints,10,26
+401532406,2649,Toledo Rockets,2711,Western Michigan Broncos,49,31
+401550092,,Hanover Panthers,,Trine University Thunder,38,14
+401520271,2653,Troy Trojans,98,Western Kentucky Hilltoppers,27,24
+401540740,,Wayne State (MI) Warriors,,Truman State Bulldogs,7,41
+401531349,,Tulane Green Wave,,Nicholls Colonels,36,7
+401544928,,Tuskegee Golden Tigers,,Lane Dragons,28,22
+401541900,,UT Permian Basin Falcons,,Texas A&M-Kingsville Javelinas,29,17
+401549632,,Ursinus Bears,,Muhlenberg Mules,20,28
+401541867,,Valdosta State Blazers,,North Greenville Crusaders,28,3
+401540455,,Valparaiso Beacons,,Marist Red Foxes,30,36
+401540670,,Virginia Union Panthers,,Fayetteville State Broncos,7,10
+401540622,,VMI Keydets,,Wofford Terriers,17,14
+401540045,,Wagner Seahawks,,Merrimack Warriors,30,27
+401541834,,Walsh Cavaliers,,Thomas More College Saints,10,26
+401547131,,Simpson College (IA) Storm,,Wartburg College Knights,0,63
+401544128,,Washington & Jefferson Presidents,,Thiel Tomcats,56,14
+401541931,,Washburn Ichabods,,Central Missouri Mules,28,58
+401550024,,Apprentice School Builders,,Washington and Lee Generals,9,28
+401540268,,Weber State Wildcats,,Montana State Bobcats,0,40
+401541875,,West Alabama Tigers,,Mississippi College Choctaws,10,7
+401541878,,West Florida Argonauts,,West Georgia Wolves,49,21
+401540993,,West Liberty Hilltoppers,,UNC Pembroke Braves,19,37
+401552994,,McDaniel College Green Terror,,Gettysburg Bullets,20,27
+401549820,,Susquehanna University River Hawks,,Western New England Golden Bears,26,18
+401541892,,Angelo State Rams,,Western New Mexico Mustangs,62,9
+401541907,,UT Permian Basin Falcons,,West Texas A&M Buffaloes,41,40
+401545754,,West Virginia State Yellow Jackets,,Glenville State Pioneers,31,21
+401540207,,Southern Utah Thunderbirds,,Western Illinois Leathernecks,37,17
+401532406,2649,Toledo Rockets,2711,Western Michigan Broncos,49,31
+401545982,,Chadron State Eagles,,Western Colorado Mountaineers,17,35
+401540472,,Western Carolina Catamounts,,Charleston Southern Buccaneers,77,21
+401544089,,Whitworth Pirates,,Pacific Lutheran Lutes,42,13
+401550421,,Wisconsin-River Falls Falcons,,Wisconsin-Platteville Pioneers,27,16
+401553855,,Stevenson Mustangs,,Widener University Pride,49,7
+401540489,,William & Mary Tribe,,Maine Black Bears,28,3
+401549714,,Bowdoin Polar Bears,,Williams Ephs,20,0
+401544993,,Wilmington (OH) Fightin' Quakers,,Capital University Comets,49,24
+401541887,,Winston-Salem Rams,,Bluefield State University Big Blues,30,0
+401549778,,Wisconsin-Stevens Point Pointers,,Wisconsin-Eau Claire Blugolds,17,24
+401550416,,Wisconsin-La Crosse Eagles,,Wisconsin-Stout Blue Devils,45,40
+401550232,,Concordia (WI) Falcons,,Wisconsin Lutheran Warriors,41,0
+401550140,,Albion Britons,,Wisconsin-Stevens Point Pointers,30,7
+401550416,,Wisconsin-La Crosse Eagles,,Wisconsin-Stout Blue Devils,45,40
+401541132,,Wisconsin-Oshkosh Titans,,Wisconsin-Whitewater Warhawks,21,37
+401550291,,Wittenberg Tigers,,Alma College Scots,28,48
+401540622,,VMI Keydets,,Wofford Terriers,17,14
+401541095,,Wooster Fighting Scots,,Kenyon Owls,70,21
+401550021,,Norwich Cadets,,WPI Engineers,17,38
+401531870,2751,Wyoming Cowboys,2026,Appalachian State Mountaineers,22,19
+401540407,,Northern Iowa Panthers,,Youngstown State Penguins,44,41
+401540157,,Grambling Tigers,,Texas Southern Tigers,35,23
+401544136,,Centre College Colonels,,Berry College Vikings,16,49
+401547143,,Hardin-Simmons Cowboys,,Howard Payne Yellow Jackets,40,33
+401540045,,Wagner Seahawks,,Merrimack Warriors,30,27
+401549739,,MIT Engineers,,Salve Regina Seahawks,7,34
+401549625,,St. Lawrence Saints,,Castleton Spartans,28,0
+401552460,,Brockport Golden Eagles,,Lycoming Warriors,59,3
+401541057,,SUNY Morrisville Mustangs,,SUNY Cortland Red Dragons,15,52
+401550140,,Albion Britons,,Wisconsin-Stevens Point Pointers,30,7
+401550291,,Wittenberg Tigers,,Alma College Scots,28,48
+401550162,,Saint John's (MN) Johnnies,,Bethel (MN) Royals,27,7
+401540422,,Princeton Tigers,,Bryant Bulldogs,13,16
+401551140,,Chowan Hawks,,Benedict College Tigers,3,31
+401547056,,Miles College Golden Bears,,Clark Atlanta Panthers,55,14
+401558400,,Delaware Valley Aggies,,Kings College (PA) Monarchs,28,0
+401568378,,Endicott College Gulls,,Hardin-Simmons Cowboys,37,10
+401550460,,Hope Flying Dutchmen,,Northwestern (MN) Eagles,54,17
+401540102,,Illinois State Redbirds,,Lindenwood Lions,48,17
+401540711,,McKendree Bearcats,,Truman State Bulldogs,24,56
+401545802,,Augustana University (SD) Vikings,,Minnesota State Moorhead Dragons,31,27
+401549573,,Union (NY) Dutchmen,,Montclair State Red Hawks,43,7
+401541867,,Valdosta State Blazers,,North Greenville Crusaders,28,3
+401541770,,Southeastern Oklahoma State Savage Storm,,Northwestern Oklahoma State Rangers,41,2
+401549692,,Quincy Hawks,,Northern Michigan Wildcats,45,27
+401547188,,Rowan Owls,,Johns Hopkins Blue Jays,20,55
+401550347,,Shenandoah Hornets,,Juniata Eagles,48,7
+401545793,,St. Anselm Hawks,,Post University Eagles,42,21
+401550236,,Eureka College Red Devils,,St. Norbert Green Knights,21,17
+401541046,,Sul Ross State Lobos,,Texas Lutheran Bulldogs,37,34
+401531873,,Old Dominion Monarchs,,Texas A&M-Commerce Lions,10,9
+401540972,,Tiffin Dragons,,Ashland Eagles,55,30
+401547008,,Tusculum Pioneers,,Catawba Indians,35,21
+401549707,,UVA Wise Highland Cavaliers,,Limestone Saints,17,38
+401552468,,Bridgewater State (MA) Bears,,Western Connecticut State Wolves,35,28
+401540731,,Missouri S&T Miners,,Wayne State (NE) Wildcats,35,38
+401550398,,Waynesburg Yellow Jackets,,Westminster (PA) Titans,20,31
+401541924,,Western Oregon Wolves,,Central Washington Wildcats,7,17
+401550398,,Waynesburg Yellow Jackets,,Westminster (PA) Titans,20,31
+401545853,,Winona State Warriors,,Northern State Wolves,39,16
+401545863,,Edinboro Fighting Scots,,California (PA) Vulcans,10,31
+401553862,,William Paterson Pioneers,,Kean University Cougars,21,9
+401544878,,Northwest Missouri State Bearcats,,Lincoln (MO) Blue Tigers,59,0
+401540993,,West Liberty Hilltoppers,,UNC Pembroke Braves,19,37
+401551512,,Nichols Bison,,Hartwick Hawks,52,3
+401546996,,Northwood (MI) Timberwolves,,Lake Erie Storm,68,14
+401540778,,Arkansas-Monticello Boll Weevils,,Ouachita Baptist Tigers,25,45
+401550208,,Ripon Red Hawks,,Cornell College (IA) Rams,33,36
+401544883,,Sioux Falls Cougars,,Minot State Beavers,7,0
+401549805,,Methodist Monarchs,,Southern Virginia Knights,27,21
+401540529,,St. Thomas-Minnesota Tommies,,Morehead State Eagles,35,28
+401553017,,Framingham State Rams,,Westfield State Owls,9,8
+401546948,,Davenport University-Grand Rapids Panthers,,William Jewell Cardinals,55,27
+401549813,,Brevard College Tornados,,Maryville College (TN) Scots,37,35
+401544201,,Incarnate Word Cardinals,,North American University Stallions,63,3
+401549661,,Illinois College Blueboys,,Monmouth (IL) Fighting Scots,20,17
+401552871,,Pomona Pitzer Sagehens,,La Verne Leopards,34,7
+401541794,,Southern Nazarene Crimson Storm,,Southwestern Oklahoma State Bulldogs,41,7
+401550464,,Linfield Wildcats,,Willamette Bearcats,70,14
+401549796,,LaGrange College Panthers,,Huntingdon College (AL) Hawks,6,41
+401549732,,Merchant Marine Mariners,,SUNY Maritime Privateers,36,19
+401550381,,Case Western Reserve Spartans,,Geneva College Golden Tornadoes,42,7
+401547093,,Luther Norse,,Central College Dutch,16,41
+401553017,,Framingham State Rams,,Westfield State Owls,9,8
+401550154,,Gustavus Adolphus Golden Gusties,,Augsburg Auggies,31,33
+401554818,,Misericordia Cougars,,Alvernia Golden Wolves,35,15
+401553862,,William Paterson Pioneers,,Kean University Cougars,21,9
+401564662,,Plymouth State Panthers,,Framingham State Rams,14,24
+401545876,,Shepherd Rams,,Kutztown Golden Bears,3,20
+401552874,,Colby College White Mules,,Trinity (CT) Bantams,7,48
+401541085,,DePauw Tigers,,Ohio Wesleyan Battling Bishops,28,7
+401541798,,Wayne State (MI) Warriors,,Concordia College (MI) Cardinals,23,24
+401545737,,Notre Dame College (OH) Falcons,,Fairmont State Falcons,14,17
+401545821,,Minnesota State Mavericks,,Concordia-St. Paul Golden Bears,42,10
+401550043,,Elmhurst Bluejays,,North Central Cardinals,6,59
+401540222,,Missouri State Bears,,Utah Tech Trailblazers,59,14
+401541056,,Moravian Greyhounds,,SUNY Morrisville Mustangs,19,20
+401550024,,Apprentice School Builders,,Washington and Lee Generals,9,28
+401549745,,Christopher Newport Captains,,Salisbury University Sea Gulls,24,14
+401551919,,Alfred State College Pioneers,,Hilbert College Hawks,48,7
+401549684,,Rockford Regents,,Lakeland University Muskies,20,41
+401547101,,Coe College Kohawks,,Nebraska Wesleyan Prairie Wolves,56,6
