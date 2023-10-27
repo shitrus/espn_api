@@ -1,0 +1,650 @@
+teamId,gameId,oddsExist,homeTeamId,awayTeamId,awayFavorite,homeFavorite,provider,favorite,underdog,spread,details,overUnder,awayMoneyLine,homeMoneyLine,awayspreadOdds,homespreadOdds,teamId2,gameId2,slug,location,name,nickname,abbreviation,displayName,shortDisplayName,color,alternateColor
+teamId_2,401520350,True,2,344,False,True,Caesars Sportsbook (New Jersey),2,344,-6.5,AUB -6.5,41.0,205,-250,-110.0,-110.0,2,401520350,auburn-tigers,Auburn,Tigers,Auburn,AUB,Auburn Tigers,Tigers,03244d,f1f2f3
+teamId_3,401549765,False,,,,,NONE,,,,,,,,,,3,401549765,birmingham-southern-panthers,Birmingham-Southern,Panthers,Birm-Southern,BIR,Birmingham-Southern Panthers,Panthers,000000,
+teamId_5,401531383,False,,,,,NONE,,,,,,,,,,5,401531383,uab-blazers,UAB,Blazers,UAB,UAB,UAB Blazers,Blazers,003b28,ffc845
+teamId_6,401531902,True,6,309,False,True,Caesars Sportsbook (New Jersey),6,309,-11.0,USA -11.0,55.0,345,-455,-110.0,-110.0,6,401531902,south-alabama-jaguars,South Alabama,Jaguars,South Alabama,USA,South Alabama Jaguars,Jaguars,003E7E,
+teamId_7,401552021,False,,,,,NONE,,,,,,,,,,7,401552021,amherst-college-mammoths,Amherst College,Mammoths,Amherst,AMH,Amherst College Mammoths,Mammoths,3f1f69,ffffff
+teamId_8,401520363,False,,,,,NONE,,,,,,,,,,8,401520363,arkansas-razorbacks,Arkansas,Razorbacks,Arkansas,ARK,Arkansas Razorbacks,Razorbacks,a41f35,ffffff
+teamId_9,401524040,True,9,265,True,False,Caesars Sportsbook (New Jersey),265,9,5.5,WSU -5.5,49.5,-220,180,-110.0,-110.0,9,401524040,arizona-state-sun-devils,Arizona State,Sun Devils,Arizona St,ASU,Arizona State Sun Devils,Sun Devils,942139,f1f2f3
+teamId_11,401545993,False,,,,,NONE,,,,,,,,,,11,401545993,colorado-mesa-mavericks,Colorado Mesa,Mavericks,Colo Mesa,MES,Colorado Mesa Mavericks,Mavericks,000000,
+teamId_12,401524039,True,12,204,True,False,Caesars Sportsbook (New Jersey),204,12,3.0,ORST -3.0,56.5,-160,135,-110.0,-110.0,12,401524039,arizona-wildcats,Arizona,Wildcats,Arizona,ARIZ,Arizona Wildcats,Wildcats,0c234b,ab0520
+teamId_13,401540232,False,,,,,NONE,,,,,,,,,,13,401540232,cal-poly-mustangs,Cal Poly,Mustangs,Cal Poly,CP,Cal Poly Mustangs,Mustangs,1E4D2B,eed897
+teamId_15,401552464,False,,,,,NONE,,,,,,,,,,15,401552464,anna-maria-college-amcats,Anna Maria College,Amcats,Anna Maria,ANN,Anna Maria College Amcats,Amcats,000000,
+teamId_16,401540255,False,,,,,NONE,,,,,,,,,,16,401540255,sacramento-state-hornets,Sacramento State,Hornets,Sacramento St,SAC,Sacramento State Hornets,Hornets,00573C,cdb97d
+teamId_17,401550334,False,,,,,NONE,,,,,,,,,,17,401550334,claremont-mudd-scripps-college-stags,Claremont Mudd Scripps College,Stags,Clare Mudd,CLA,Claremont Mudd Scripps College Stags,Stags,981a31,feba15
+teamId_18,401550138,False,,,,,NONE,,,,,,,,,,18,401550138,bridgewater-state-ma-bears,Bridgewater State (MA),Bears,Bridgewater MA,BRI,Bridgewater State (MA) Bears,Bears,bf2f38,000000
+teamId_21,401532612,False,,,,,NONE,,,,,,,,,,21,401532612,san-diego-state-aztecs,San Diego State,Aztecs,San Diego St,SDSU,San Diego State Aztecs,Aztecs,BF2C37,a8996e
+teamId_23,401532605,True,62,23,True,False,Caesars Sportsbook (New Jersey),23,62,11.0,SJSU -11.0,58.0,-400,310,-110.0,-110.0,23,401532605,san-jose-state-spartans,San José State,Spartans,San José St,SJSU,San José State Spartans,Spartans,005893,fdba31
+teamId_24,401524042,True,24,264,True,False,Caesars Sportsbook (New Jersey),264,24,27.5,WASH -27.5,61.0,-4500,1550,-110.0,-110.0,24,401524042,stanford-cardinal,Stanford,Cardinal,Stanford,STAN,Stanford Cardinal,Cardinal,8c1515,ffffff
+teamId_25,401524041,True,25,30,True,False,Caesars Sportsbook (New Jersey),30,25,10.5,USC -10.5,66.5,-420,320,-110.0,-110.0,25,401524041,california-golden-bears,California,Golden Bears,California,CAL,California Golden Bears,Golden Bears,031522,ffc423
+teamId_26,401524043,True,26,38,False,True,Caesars Sportsbook (New Jersey),26,38,-15.0,UCLA -15.0,61.0,500,-700,-110.0,-110.0,26,401524043,ucla-bruins,UCLA,Bruins,UCLA,UCLA,UCLA Bruins,Bruins,2774ae,f2a900
+teamId_29,401544151,False,,,,,NONE,,,,,,,,,,29,401544151,redlands-bulldogs,Redlands,Bulldogs,Redlands,RED,Redlands Bulldogs,Bulldogs,751708,ffffff
+teamId_30,401524041,True,25,30,True,False,Caesars Sportsbook (New Jersey),30,25,10.5,USC -10.5,66.5,-420,320,-110.0,-110.0,30,401524041,usc-trojans,USC,Trojans,USC,USC,USC Trojans,Trojans,9e2237,ffcc00
+teamId_32,401547219,False,,,,,NONE,,,,,,,,,,32,401547219,carroll-wi-pioneers,Carroll (WI),Pioneers,Carroll WI,CAR,Carroll (WI) Pioneers,Pioneers,000000,
+teamId_33,401552878,False,,,,,NONE,,,,,,,,,,33,401552878,colby-college-white-mules,Colby College,White Mules,Colby,COL,Colby College White Mules,White Mules,012778,ffffff
+teamId_36,401532603,True,36,2005,True,False,Caesars Sportsbook (New Jersey),2005,36,14.0,AFA -14.0,46.5,-600,430,-115.0,-105.0,36,401532603,colorado-state-rams,Colorado State,Rams,Colorado St,CSU,Colorado State Rams,Rams,004537,ffc425
+teamId_38,401524043,True,26,38,False,True,Caesars Sportsbook (New Jersey),26,38,-15.0,UCLA -15.0,61.0,500,-700,-110.0,-110.0,38,401524043,colorado-buffaloes,Colorado,Buffaloes,Colorado,COLO,Colorado Buffaloes,Buffaloes,000000,cfb87c
+teamId_40,401550082,False,,,,,NONE,,,,,,,,,,40,401550082,curry-college-colonels,Curry College,Colonels,Curry,CUR,Curry College Colonels,Colonels,65448b,ffffff
+teamId_41,401520351,True,103,41,False,True,Caesars Sportsbook (New Jersey),103,41,-14.5,BC -14.5,50.0,430,-600,-110.0,-110.0,41,401520351,uconn-huskies,UConn,Huskies,UConn,CONN,UConn Huskies,Huskies,0c2340,f1f2f3
+teamId_43,401541634,False,,,,,NONE,,,,,,,,,,43,401541634,yale-bulldogs,Yale,Bulldogs,Yale,YALE,Yale Bulldogs,Bulldogs,004a81,286dc0
+teamId_46,401540063,False,,,,,NONE,,,,,,,,,,46,401540063,georgetown-hoyas,Georgetown,Hoyas,Georgetown,GTWN,Georgetown Hoyas,Hoyas,110E42,001c58
+teamId_47,401534855,False,,,,,NONE,,,,,,,,,,47,401534855,howard-bison,Howard,Bison,Howard,HOW,Howard Bison,Bison,003a63,e51937
+teamId_48,401540327,False,,,,,NONE,,,,,,,,,,48,401540327,delaware-fightin-blue-hens,Delaware,Fightin' Blue Hens,Delaware,DEL,Delaware Fightin' Blue Hens,Fightin' Blue Hens,033594,e8ce31
+teamId_49,401547112,False,,,,,NONE,,,,,,,,,,49,401547112,dubuque-spartans,Dubuque,Spartans,Dubuque,DUB,Dubuque Spartans,Spartans,000000,
+teamId_50,401540153,False,,,,,NONE,,,,,,,,,,50,401540153,florida-am-rattlers,Florida A&M,Rattlers,Florida A&M,FAMU,Florida A&M Rattlers,Rattlers,F89728,00843d
+teamId_52,401525536,True,154,52,True,False,Caesars Sportsbook (New Jersey),52,154,20.5,FSU -20.5,52.0,-1400,800,-110.0,-110.0,52,401525536,florida-state-seminoles,Florida State,Seminoles,Florida St,FSU,Florida State Seminoles,Seminoles,782f40,ceb888
+teamId_55,401520347,True,2229,55,True,False,Caesars Sportsbook (New Jersey),55,2229,9.0,JVST -9.0,48.0,-355,278,-110.0,-110.0,55,401520347,jacksonville-state-gamecocks,Jacksonville State,Gamecocks,J'Ville St,JVST,Jacksonville State Gamecocks,Gamecocks,b50500,b5b7ba
+teamId_56,401540517,False,,,,,NONE,,,,,,,,,,56,401540517,stetson-hatters,Stetson,Hatters,Stetson,STET,Stetson Hatters,Hatters,0a5640,56854e
+teamId_57,401520352,True,57,61,True,False,Caesars Sportsbook (New Jersey),61,57,14.0,UGA -14.0,49.0,-550,400,-110.0,-110.0,57,401520352,florida-gators,Florida,Gators,Florida,FLA,Florida Gators,Gators,0021a5,fa4616
+teamId_58,401531425,False,,,,,NONE,,,,,,,,,,58,401531425,south-florida-bulls,South Florida,Bulls,South Florida,USF,South Florida Bulls,Bulls,004A36,231f20
+teamId_59,401525537,True,59,153,True,False,Caesars Sportsbook (New Jersey),153,59,11.5,UNC -11.5,64.5,-455,345,-110.0,-110.0,59,401525537,georgia-tech-yellow-jackets,Georgia Tech,Yellow Jackets,Georgia Tech,GT,Georgia Tech Yellow Jackets,Yellow Jackets,003057,b3a369
+teamId_60,401547070,False,,,,,NONE,,,,,,,,,,60,401547070,morehouse-college-maroon-tigers,Morehouse College,Maroon Tigers,Morehouse,MOR,Morehouse College Maroon Tigers,Maroon Tigers,000000,
+teamId_61,401520352,True,57,61,True,False,Caesars Sportsbook (New Jersey),61,57,14.0,UGA -14.0,49.0,-550,400,-110.0,-110.0,61,401520352,georgia-bulldogs,Georgia,Bulldogs,Georgia,UGA,Georgia Bulldogs,Bulldogs,ba0c2f,ffffff
+teamId_62,401532605,True,62,23,True,False,Caesars Sportsbook (New Jersey),23,62,11.0,SJSU -11.0,58.0,-400,310,-110.0,-110.0,62,401532605,hawaii-rainbow-warriors,Hawai'i,Rainbow Warriors,Hawai'i,HAW,Hawai'i Rainbow Warriors,Rainbow Warriors,003420,ffffff
+teamId_63,401547087,False,,,,,NONE,,,,,,,,,,63,401547087,buena-vista-beavers,Buena Vista,Beavers,Buena Vista,BUE,Buena Vista Beavers,Beavers,feba12,001440
+teamId_65,401544084,False,,,,,NONE,,,,,,,,,,65,401544084,grinnell-pioneers,Grinnell,Pioneers,Grinnell,GRI,Grinnell Pioneers,Pioneers,000000,
+teamId_66,401525873,True,239,66,True,False,Caesars Sportsbook (New Jersey),66,239,3.0,ISU -3.0,47.0,-155,130,-110.0,-110.0,66,401525873,iowa-state-cyclones,Iowa State,Cyclones,Iowa State,ISU,Iowa State Cyclones,Cyclones,822433,fdca2f
+teamId_67,401547104,False,,,,,NONE,,,,,,,,,,67,401547104,luther-norse,Luther,Norse,Luther,LUT,Luther Norse,Norse,015a9c,a5bbda
+teamId_68,401532607,True,68,2751,False,True,Caesars Sportsbook (New Jersey),68,2751,-4.5,BOIS -4.5,49.0,162,-195,-110.0,-110.0,68,401532607,boise-state-broncos,Boise State,Broncos,Boise St,BOIS,Boise State Broncos,Broncos,0033a0,fa4616
+teamId_70,401540247,False,,,,,NONE,,,,,,,,,,70,401540247,idaho-vandals,Idaho,Vandals,Idaho,IDHO,Idaho Vandals,Vandals,000000,8c6e4a
+teamId_72,401549647,False,,,,,NONE,,,,,,,,,,72,401549647,elmhurst-bluejays,Elmhurst,Bluejays,Elmhurst,ELM,Elmhurst Bluejays,Bluejays,000000,
+teamId_74,401544951,False,,,,,NONE,,,,,,,,,,74,401544951,millikin-big-blue,Millikin,Big Blue,Millikin,MLK,Millikin Big Blue,Big Blue,000000,
+teamId_75,401550045,False,,,,,NONE,,,,,,,,,,75,401550045,north-park-vikings,North Park,Vikings,North Park,NP,North Park Vikings,Vikings,000000,
+teamId_77,401520356,True,77,120,True,False,Caesars Sportsbook (New Jersey),120,77,14.0,MD -14.0,48.5,-550,400,-110.0,-110.0,77,401520356,northwestern-wildcats,Northwestern,Wildcats,Northwestern,NU,Northwestern Wildcats,Wildcats,582c83,ffffff
+teamId_79,401540449,False,,,,,NONE,,,,,,,,,,79,401540449,southern-illinois-salukis,Southern Illinois,Salukis,S Illinois,SIU,Southern Illinois Salukis,Salukis,85283D,c2c3c0
+teamId_80,401550204,False,,,,,NONE,,,,,,,,,,80,401550204,chicago-maroons,Chicago,Maroons,Chicago,CHI,Chicago Maroons,Maroons,000000,
+teamId_81,401541108,False,,,,,NONE,,,,,,,,,,81,401541108,springfield-pride,Springfield,Pride,Springfield,SPRI,Springfield Pride,Pride,000000,
+teamId_83,401541090,False,,,,,NONE,,,,,,,,,,83,401541090,depauw-tigers,DePauw,Tigers,DePauw,DEP,DePauw Tigers,Tigers,000000,
+teamId_84,401520358,True,213,84,False,True,Caesars Sportsbook (New Jersey),213,84,-32.0,PSU -32.0,45.5,1800,-7000,-110.0,-110.0,84,401520358,indiana-hoosiers,Indiana,Hoosiers,Indiana,IU,Indiana Hoosiers,Hoosiers,990000,edebeb
+teamId_86,401550093,False,,,,,NONE,,,,,,,,,,86,401550093,rose-hulman-fightin-engineers,Rose-Hulman,Fightin' Engineers,Rose-Hulman,RHIT,Rose-Hulman Fightin' Engineers,Fightin' Engineers,800000,b3b2b1
+teamId_87,401525440,True,87,221,False,True,Caesars Sportsbook (New Jersey),87,221,-20.5,ND -20.5,45.5,800,-1400,-110.0,-110.0,87,401525440,notre-dame-fighting-irish,Notre Dame,Fighting Irish,Notre Dame,ND,Notre Dame Fighting Irish,Fighting Irish,0c2340,c99700
+teamId_89,401550290,False,,,,,NONE,,,,,,,,,,89,401550290,wabash-college-little-giants,Wabash College,Little Giants,Wabash,WAB,Wabash College Little Giants,Little Giants,000000,
+teamId_90,401544880,False,,,,,NONE,,,,,,,,,,90,401544880,pittsburg-state-gorillas,Pittsburg State,Gorillas,Pitt St,PST,Pittsburg State Gorillas,Gorillas,000000,
+teamId_93,401540366,False,,,,,NONE,,,,,,,,,,93,401540366,murray-state-racers,Murray State,Racers,Murray St,MUR,Murray State Racers,Racers,002148,000e00
+teamId_96,401520353,True,96,2633,True,False,Caesars Sportsbook (New Jersey),2633,96,3.5,TENN -3.5,51.0,-180,152,-110.0,-110.0,96,401520353,kentucky-wildcats,Kentucky,Wildcats,Kentucky,UK,Kentucky Wildcats,Wildcats,0033a0,ffffff
+teamId_97,401525535,True,97,150,False,True,Caesars Sportsbook (New Jersey),97,150,-6.0,LOU -6.0,46.0,180,-220,-110.0,-110.0,97,401525535,louisville-cardinals,Louisville,Cardinals,Louisville,LOU,Louisville Cardinals,Cardinals,c9001f,000000
+teamId_98,401520346,True,98,2335,True,False,Caesars Sportsbook (New Jersey),2335,98,4.0,LIB -4.0,61.5,-180,152,-110.0,-110.0,98,401520346,western-kentucky-hilltoppers,Western Kentucky,Hilltoppers,Western KY,WKU,Western Kentucky Hilltoppers,Hilltoppers,F32026,b3b5b8
+teamId_99,401520362,True,333,99,False,True,Caesars Sportsbook (New Jersey),333,99,-4.5,ALA -4.5,,,,-110.0,-110.0,99,401520362,lsu-tigers,LSU,Tigers,LSU,LSU,LSU Tigers,Tigers,461d7c,fdd023
+teamId_101,401550235,False,,,,,NONE,,,,,,,,,,101,401550235,eureka-college-red-devils,Eureka College,Red Devils,Eureka,EUR,Eureka College Red Devils,Red Devils,960a2c,c09a05
+teamId_103,401520351,True,103,41,False,True,Caesars Sportsbook (New Jersey),103,41,-14.5,BC -14.5,50.0,430,-600,-110.0,-110.0,103,401520351,boston-college-eagles,Boston College,Eagles,Boston College,BC,Boston College Eagles,Eagles,8c2232,dbcca6
+teamId_107,401540070,False,,,,,NONE,,,,,,,,,,107,401540070,holy-cross-crusaders,Holy Cross,Crusaders,Holy Cross,HC,Holy Cross Crusaders,Crusaders,0a0a0a,080808
+teamId_108,401540339,False,,,,,NONE,,,,,,,,,,108,401540339,harvard-crimson,Harvard,Crimson,Harvard,HARV,Harvard Crimson,Crimson,990000,dbdbdb
+teamId_109,401549741,False,,,,,NONE,,,,,,,,,,109,401549741,mit-engineers,MIT,Engineers,MIT,MAS,MIT Engineers,Engineers,000000,
+teamId_110,401550127,False,,,,,NONE,,,,,,,,,,110,401550127,mass-maritime-buccaneers,Mass Maritime,Buccaneers,MA Maritme,MAS,Mass Maritime Buccaneers,Buccaneers,212c62,fed523
+teamId_112,401550307,False,,,,,NONE,,,,,,,,,,112,401550307,tufts-university-jumbos,Tufts University,Jumbos,Tufts,TUF,Tufts University Jumbos,Jumbos,3e8ede,c6beb6
+teamId_113,401520349,True,349,113,False,True,Caesars Sportsbook (New Jersey),349,113,-9.5,ARMY -9.5,50.5,278,-355,-110.0,-110.0,113,401520349,massachusetts-minutemen,Massachusetts,Minutemen,Massachusetts,MASS,Massachusetts Minutemen,Minutemen,880007,
+teamId_114,401552477,False,,,,,NONE,,,,,,,,,,114,401552477,fitchburg-state-falcons,Fitchburg State,Falcons,Fitchburg State,FIT,Fitchburg State Falcons,Falcons,024d36,fbbf16
+teamId_118,401547192,False,,,,,NONE,,,,,,,,,,118,401547192,johns-hopkins-blue-jays,Johns Hopkins,Blue Jays,Johns Hopkins,JHU,Johns Hopkins Blue Jays,Blue Jays,000000,
+teamId_119,401540327,False,,,,,NONE,,,,,,,,,,119,401540327,towson-tigers,Towson,Tigers,Towson,TOW,Towson Tigers,Tigers,FFC229,
+teamId_120,401520356,True,77,120,True,False,Caesars Sportsbook (New Jersey),120,77,14.0,MD -14.0,48.5,-550,400,-110.0,-110.0,120,401520356,maryland-terrapins,Maryland,Terrapins,Maryland,MD,Maryland Terrapins,Terrapins,D5002B,ffcd00
+teamId_121,401550299,False,,,,,NONE,,,,,,,,,,121,401550299,bates-college-bobcats,Bates College,Bobcats,Bates,BAT,Bates College Bobcats,Bobcats,a51e36,b2b3b2
+teamId_124,401550159,False,,,,,NONE,,,,,,,,,,124,401550159,augsburg-auggies,Augsburg,Auggies,Augsburg,AUG,Augsburg Auggies,Auggies,74233d,a9a9aa
+teamId_125,401540772,False,,,,,NONE,,,,,,,,,,125,401540772,grand-valley-state-lakers,Grand Valley State,Lakers,Grand Valley St,GRV,Grand Valley State Lakers,Lakers,000000,
+teamId_126,401550148,False,,,,,NONE,,,,,,,,,,126,401550148,kalamazoo-hornets,Kalamazoo,Hornets,Kalamazoo,KAL,Kalamazoo Hornets,Hornets,000000,
+teamId_127,401520354,True,135,127,False,True,Caesars Sportsbook (New Jersey),135,127,-7.0,MINN -7.0,40.5,215,-267,-120.0,100.0,127,401520354,michigan-state-spartans,Michigan State,Spartans,Michigan St,MSU,Michigan State Spartans,Spartans,18453B,ffffff
+teamId_128,401540799,False,,,,,NONE,,,,,,,,,,128,401540799,northern-michigan-wildcats,Northern Michigan,Wildcats,N Michigan,NMI,Northern Michigan Wildcats,Wildcats,000000,
+teamId_129,401540806,False,,,,,NONE,,,,,,,,,,129,401540806,saginaw-valley-state-cardinals,Saginaw Valley State,Cardinals,Saginaw Valley,SVS,Saginaw Valley State Cardinals,Cardinals,000000,
+teamId_130,401520368,False,,,,,NONE,,,,,,,,,,130,401520368,michigan-wolverines,Michigan,Wolverines,Michigan,MICH,Michigan Wolverines,Wolverines,00274c,ffcb05
+teamId_131,401540799,False,,,,,NONE,,,,,,,,,,131,401540799,wayne-state-mi-warriors,Wayne State (MI),Warriors,Wayne State MI,WNST,Wayne State (MI) Warriors,Warriors,000000,
+teamId_132,401545817,False,,,,,NONE,,,,,,,,,,132,401545817,bemidji-state-beavers,Bemidji State,Beavers,Bemidji St,BST,Bemidji State Beavers,Beavers,000000,
+teamId_133,401550177,False,,,,,NONE,,,,,,,,,,133,401550177,st-olaf-oles,St. Olaf,Oles,St. Olaf,OLAF,St. Olaf Oles,Oles,000000,d18c29
+teamId_134,401545817,False,,,,,NONE,,,,,,,,,,134,401545817,minnesota-duluth-bulldogs,Minnesota Duluth,Bulldogs,Minn Duluth,UMD,Minnesota Duluth Bulldogs,Bulldogs,000000,
+teamId_135,401520354,True,135,127,False,True,Caesars Sportsbook (New Jersey),135,127,-7.0,MINN -7.0,40.5,215,-267,-120.0,100.0,135,401520354,minnesota-golden-gophers,Minnesota,Golden Gophers,Minnesota,MINN,Minnesota Golden Gophers,Golden Gophers,5e0a2f,fab41c
+teamId_137,401541971,False,,,,,NONE,,,,,,,,,,137,401541971,missouri-western-griffons,Missouri Western,Griffons,MO Westrn,MIS,Missouri Western Griffons,Griffons,000000,
+teamId_138,401541987,False,,,,,NONE,,,,,,,,,,138,401541987,northwest-missouri-state-bearcats,Northwest Missouri State,Bearcats,NW MO ST,NOR,Northwest Missouri State Bearcats,Bearcats,000000,
+teamId_142,401520364,False,,,,,NONE,,,,,,,,,,142,401520364,missouri-tigers,Missouri,Tigers,Missouri,MIZ,Missouri Tigers,Tigers,f1b82d,000000
+teamId_143,401549647,False,,,,,NONE,,,,,,,,,,143,401549647,washington-university-st-louis-bears,Washington University (St. Louis),Bears,Wash St Louis,WSTL,Washington University (St. Louis) Bears,Bears,000000,
+teamId_145,401520357,True,145,238,False,True,Caesars Sportsbook (New Jersey),145,238,-24.5,MISS -24.5,62.5,1450,-4000,-110.0,-110.0,145,401520357,ole-miss-rebels,Ole Miss,Rebels,Ole Miss,MISS,Ole Miss Rebels,Rebels,13294b,c8102e
+teamId_146,401550394,False,,,,,NONE,,,,,,,,,,146,401550394,grove-city-college-wolverines,Grove City College,Wolverines,Grove City,GRO,Grove City College Wolverines,Wolverines,000000,
+teamId_147,401540247,False,,,,,NONE,,,,,,,,,,147,401540247,montana-state-bobcats,Montana State,Bobcats,Montana St,MTST,Montana State Bobcats,Bobcats,00205c,bc955c
+teamId_149,401540262,False,,,,,NONE,,,,,,,,,,149,401540262,montana-grizzlies,Montana,Grizzlies,Montana,MONT,Montana Grizzlies,Grizzlies,751D4A,666666
+teamId_150,401525535,True,97,150,False,True,Caesars Sportsbook (New Jersey),97,150,-6.0,LOU -6.0,46.0,180,-220,-110.0,-110.0,150,401525535,duke-blue-devils,Duke,Blue Devils,Duke,DUKE,Duke Blue Devils,Blue Devils,013088,ffffff
+teamId_151,401531398,True,2636,151,False,True,Caesars Sportsbook (New Jersey),2636,151,-18.5,UTSA -18.5,47.0,650,-1000,-110.0,-110.0,151,401531398,east-carolina-pirates,East Carolina,Pirates,East Carolina,ECU,East Carolina Pirates,Pirates,4b1869,f0907b
+teamId_152,401525534,True,152,228,True,False,Caesars Sportsbook (New Jersey),228,152,9.5,CLEM -9.5,44.0,-355,278,-110.0,-110.0,152,401525534,nc-state-wolfpack,NC State,Wolfpack,NC State,NCSU,NC State Wolfpack,Wolfpack,cc0000,ffffff
+teamId_153,401525537,True,59,153,True,False,Caesars Sportsbook (New Jersey),153,59,11.5,UNC -11.5,64.5,-455,345,-110.0,-110.0,153,401525537,north-carolina-tar-heels,North Carolina,Tar Heels,North Carolina,UNC,North Carolina Tar Heels,Tar Heels,7bafd4,13294b
+teamId_154,401525536,True,154,52,True,False,Caesars Sportsbook (New Jersey),52,154,20.5,FSU -20.5,52.0,-1400,800,-110.0,-110.0,154,401525536,wake-forest-demon-deacons,Wake Forest,Demon Deacons,Wake Forest,WAKE,Wake Forest Demon Deacons,Demon Deacons,000000,ceb888
+teamId_155,401540303,False,,,,,NONE,,,,,,,,,,155,401540303,north-dakota-fighting-hawks,North Dakota,Fighting Hawks,North Dakota,UND,North Dakota Fighting Hawks,Fighting Hawks,00A26B,c2c3c0
+teamId_158,401520355,True,158,2509,False,True,Caesars Sportsbook (New Jersey),158,2509,-2.0,NEB -2.0,39.5,110,-130,-115.0,-105.0,158,401520355,nebraska-cornhuskers,Nebraska,Cornhuskers,Nebraska,NEB,Nebraska Cornhuskers,Cornhuskers,d00000,ffffff
+teamId_159,401540339,False,,,,,NONE,,,,,,,,,,159,401540339,dartmouth-big-green,Dartmouth,Big Green,Dartmouth,DART,Dartmouth Big Green,Big Green,005730,000000
+teamId_160,401540532,False,,,,,NONE,,,,,,,,,,160,401540532,new-hampshire-wildcats,New Hampshire,Wildcats,New Hampshire,UNH,New Hampshire Wildcats,Wildcats,004990,c3c4c6
+teamId_162,401550182,False,,,,,NONE,,,,,,,,,,162,401550182,hamline-pipers,Hamline,Pipers,Hamline,HAM,Hamline Pipers,Pipers,98012e,ffffff
+teamId_163,401540330,False,,,,,NONE,,,,,,,,,,163,401540330,princeton-tigers,Princeton,Tigers,Princeton,PRIN,Princeton Tigers,Tigers,ff9408,080808
+teamId_164,401520375,False,,,,,NONE,,,,,,,,,,164,401520375,rutgers-scarlet-knights,Rutgers,Scarlet Knights,Rutgers,RUTG,Rutgers Scarlet Knights,Scarlet Knights,d21034,ffffff
+teamId_166,401520345,True,2348,166,False,True,Caesars Sportsbook (New Jersey),2348,166,-3.0,LT -3.0,55.0,130,-155,-115.0,-105.0,166,401520345,new-mexico-state-aggies,New Mexico State,Aggies,New Mexico St,NMSU,New Mexico State Aggies,Aggies,891216,000000
+teamId_167,401532604,True,2440,167,True,False,Caesars Sportsbook (New Jersey),167,2440,1.5,UNM -1.5,49.5,-125,105,-110.0,-110.0,167,401532604,new-mexico-lobos,New Mexico,Lobos,New Mexico,UNM,New Mexico Lobos,Lobos,000000,231f20
+teamId_171,401541634,False,,,,,NONE,,,,,,,,,,171,401541634,columbia-lions,Columbia,Lions,Columbia,COLU,Columbia Lions,Lions,174785,004b85
+teamId_172,401540330,False,,,,,NONE,,,,,,,,,,172,401540330,cornell-big-red,Cornell,Big Red,Cornell,COR,Cornell Big Red,Big Red,d60027,101010
+teamId_173,401550059,False,,,,,NONE,,,,,,,,,,173,401550059,hartwick-hawks,Hartwick,Hawks,Hartwick,HARW,Hartwick Hawks,Hawks,000000,
+teamId_174,401549585,False,,,,,NONE,,,,,,,,,,174,401549585,hobart-statesmen,Hobart,Statesmen,Hobart,HBRT,Hobart Statesmen,Statesmen,000000,
+teamId_175,401549612,False,,,,,NONE,,,,,,,,,,175,401549612,ithaca-bombers,Ithaca,Bombers,Ithaca,ITH,Ithaca Bombers,Bombers,000000,
+teamId_183,401525533,True,259,183,False,True,Caesars Sportsbook (New Jersey),259,183,-2.5,VT -2.5,47.5,105,-125,-120.0,100.0,183,401525533,syracuse-orange,Syracuse,Orange,Syracuse,SYR,Syracuse Orange,Orange,ff6500,000e54
+teamId_184,401549621,False,,,,,NONE,,,,,,,,,,184,401549621,university-of-rochester-ny-yellow-jackets,University of Rochester (NY),Yellow Jackets,Rochester (NY),ROC,University of Rochester (NY) Yellow Jackets,Yellow Jackets,000000,
+teamId_188,401550251,False,,,,,NONE,,,,,,,,,,188,401550251,baldwin-wallace-yellow-jackets,Baldwin Wallace,Yellow Jackets,Baldwin Wallace,BALW,Baldwin Wallace Yellow Jackets,Yellow Jackets,000000,
+teamId_189,401532435,False,,,,,NONE,,,,,,,,,,189,401532435,bowling-green-falcons,Bowling Green,Falcons,Bowling Green,BGSU,Bowling Green Falcons,Falcons,2b1000,492000
+teamId_190,401550072,False,,,,,NONE,,,,,,,,,,190,401550072,defiance-yellow-jackets,Defiance,Yellow Jackets,Defiance,DEF,Defiance Yellow Jackets,Yellow Jackets,4e2d8a,ded27c
+teamId_191,401544995,False,,,,,NONE,,,,,,,,,,191,401544995,heidelberg-student-princes,Heidelberg,Student Princes,Heidelberg,HEI,Heidelberg Student Princes,Student Princes,000000,
+teamId_193,401532432,True,195,193,False,True,Caesars Sportsbook (New Jersey),195,193,-7.5,OHIO -7.5,39.0,240,-305,-110.0,-110.0,193,401532432,miami-oh-redhawks,Miami (OH),RedHawks,Miami OH,M-OH,Miami (OH) RedHawks,RedHawks,a4000c,f0f0f0
+teamId_194,401520360,True,275,194,True,False,Caesars Sportsbook (New Jersey),194,275,14.5,OSU -14.5,45.5,-700,500,-110.0,-110.0,194,401520360,ohio-state-buckeyes,Ohio State,Buckeyes,Ohio State,OSU,Ohio State Buckeyes,Buckeyes,ce1141,505056
+teamId_195,401532432,True,195,193,False,True,Caesars Sportsbook (New Jersey),195,193,-7.5,OHIO -7.5,39.0,240,-305,-110.0,-110.0,195,401532432,ohio-bobcats,Ohio,Bobcats,Ohio,OHIO,Ohio Bobcats,Bobcats,295A29,e4bb85
+teamId_196,401541971,False,,,,,NONE,,,,,,,,,,196,401541971,northeastern-state-river-hawks,Northeastern State,River Hawks,Northeastern St,NEOS,Northeastern State River Hawks,River Hawks,000000,
+teamId_197,401525876,True,197,2132,False,True,Caesars Sportsbook (New Jersey),197,2132,-7.5,OKST -7.5,53.0,235,-292,-115.0,-105.0,197,401525876,oklahoma-state-cowboys,Oklahoma State,Cowboys,Oklahoma St,OKST,Oklahoma State Cowboys,Cowboys,ff6500,000000
+teamId_199,401541758,False,,,,,NONE,,,,,,,,,,199,401541758,southeastern-oklahoma-state-savage-storm,Southeastern Oklahoma State,Savage Storm,SE Okla ST,SEOS,Southeastern Oklahoma State Savage Storm,Savage Storm,000000,
+teamId_200,401541786,False,,,,,NONE,,,,,,,,,,200,401541786,southern-nazarene-crimson-storm,Southern Nazarene,Crimson Storm,So Nazarene,SN,Southern Nazarene Crimson Storm,Crimson Storm,000000,
+teamId_201,401525874,True,2305,201,True,False,Caesars Sportsbook (New Jersey),201,2305,9.0,OU -9.0,65.5,-365,285,-110.0,-110.0,201,401525874,oklahoma-sooners,Oklahoma,Sooners,Oklahoma,OU,Oklahoma Sooners,Sooners,a32036,ffffff
+teamId_202,401531342,True,2567,202,False,True,Caesars Sportsbook (New Jersey),2567,202,-21.0,SMU -21.0,56.5,900,-1600,-110.0,-110.0,202,401531342,tulsa-golden-hurricane,Tulsa,Golden Hurricane,Tulsa,TLSA,Tulsa Golden Hurricane,Golden Hurricane,003595,d0b787
+teamId_203,401550468,False,,,,,NONE,,,,,,,,,,203,401550468,linfield-wildcats,Linfield,Wildcats,Linfield,LIN,Linfield Wildcats,Wildcats,46256a,d41e47
+teamId_204,401524039,True,12,204,True,False,Caesars Sportsbook (New Jersey),204,12,3.0,ORST -3.0,56.5,-160,135,-110.0,-110.0,204,401524039,oregon-state-beavers,Oregon State,Beavers,Oregon St,ORST,Oregon State Beavers,Beavers,231f20,d73f09
+teamId_205,401550468,False,,,,,NONE,,,,,,,,,,205,401550468,pacific-or-boxers,Pacific (OR),Boxers,Pacific (OR),PACO,Pacific (OR) Boxers,Boxers,b4183a,ffffff
+teamId_209,401541030,False,,,,,NONE,,,,,,,,,,209,401541030,lock-haven-bald-eagles,Lock Haven,Bald Eagles,Lock Haven,LOCK,Lock Haven Bald Eagles,Bald Eagles,000000,
+teamId_210,401545879,False,,,,,NONE,,,,,,,,,,210,401545879,millersville-marauders,Millersville,Marauders,Millersville,MLR,Millersville Marauders,Marauders,000000,
+teamId_213,401520358,True,213,84,False,True,Caesars Sportsbook (New Jersey),213,84,-32.0,PSU -32.0,45.5,1800,-7000,-110.0,-110.0,213,401520358,penn-state-nittany-lions,Penn State,Nittany Lions,Penn State,PSU,Penn State Nittany Lions,Nittany Lions,00265D,002e5c
+teamId_215,401545873,False,,,,,NONE,,,,,,,,,,215,401545873,slippery-rock-the-rock,Slippery Rock,The Rock,Sliprock,SLI,Slippery Rock The Rock,The Rock,000000,
+teamId_216,401549825,False,,,,,NONE,,,,,,,,,,216,401549825,susquehanna-university-river-hawks,Susquehanna University,River Hawks,Susquehnna,SUS,Susquehanna University River Hawks,River Hawks,6b1a31,fd6b0d
+teamId_218,401531392,False,,,,,NONE,,,,,,,,,,218,401531392,temple-owls,Temple,Owls,Temple,TEM,Temple Owls,Owls,A80532,a7a9ac
+teamId_219,401540295,True,,,False,True,Caesars Sportsbook (New Jersey),219,225,-11.0,PENN -11.0,57.0,320,-420,-110.0,-110.0,219,401540295,pennsylvania-quakers,Pennsylvania,Quakers,Penn,PENN,Pennsylvania Quakers,Quakers,082A74,a6163d
+teamId_221,401525440,True,87,221,False,True,Caesars Sportsbook (New Jersey),87,221,-20.5,ND -20.5,45.5,800,-1400,-110.0,-110.0,221,401525440,pittsburgh-panthers,Pittsburgh,Panthers,Pitt,PITT,Pittsburgh Panthers,Panthers,003263,231f20
+teamId_222,401540576,False,,,,,NONE,,,,,,,,,,222,401540576,villanova-wildcats,Villanova,Wildcats,Villanova,VILL,Villanova Wildcats,Wildcats,00205b,13b5ea
+teamId_223,401541030,False,,,,,NONE,,,,,,,,,,223,401541030,west-chester-golden-rams,West Chester,Golden Rams,W Chester,WES,West Chester Golden Rams,Golden Rams,000000,
+teamId_225,401540295,True,,,False,True,Caesars Sportsbook (New Jersey),219,225,-11.0,PENN -11.0,57.0,320,-420,-110.0,-110.0,225,401540295,brown-bears,Brown,Bears,Brown,BRWN,Brown Bears,Bears,411e09,949300
+teamId_227,401540532,False,,,,,NONE,,,,,,,,,,227,401540532,rhode-island-rams,Rhode Island,Rams,Rhode Island,URI,Rhode Island Rams,Rams,091f3f,5ab3e8
+teamId_228,401525534,True,152,228,True,False,Caesars Sportsbook (New Jersey),228,152,9.5,CLEM -9.5,44.0,-355,278,-110.0,-110.0,228,401525534,clemson-tigers,Clemson,Tigers,Clemson,CLEM,Clemson Tigers,Tigers,f56600,522d80
+teamId_231,401540594,False,,,,,NONE,,,,,,,,,,231,401540594,furman-paladins,Furman,Paladins,Furman,FUR,Furman Paladins,Paladins,582c83,ffffff
+teamId_233,401540443,False,,,,,NONE,,,,,,,,,,233,401540443,south-dakota-coyotes,South Dakota,Coyotes,South Dakota,SDAK,South Dakota Coyotes,Coyotes,CD1241,f0f0f0
+teamId_235,401531430,True,249,235,True,False,Caesars Sportsbook (New Jersey),235,249,7.0,MEM -7.0,68.0,-292,235,-110.0,-110.0,235,401531430,memphis-tigers,Memphis,Tigers,Memphis,MEM,Memphis Tigers,Tigers,004991,8e908f
+teamId_236,401540588,False,,,,,NONE,,,,,,,,,,236,401540588,chattanooga-mocs,Chattanooga,Mocs,Chattanooga,UTC,Chattanooga Mocs,Mocs,00386b,dca71d
+teamId_237,401549578,False,,,,,NONE,,,,,,,,,,237,401549578,union-ny-dutchmen,Union (NY),Dutchmen,Union (NY),UNNY,Union (NY) Dutchmen,Dutchmen,000000,
+teamId_238,401520357,True,145,238,False,True,Caesars Sportsbook (New Jersey),145,238,-24.5,MISS -24.5,62.5,1450,-4000,-110.0,-110.0,238,401520357,vanderbilt-commodores,Vanderbilt,Commodores,Vanderbilt,VAN,Vanderbilt Commodores,Commodores,000000,231f20
+teamId_239,401525873,True,239,66,True,False,Caesars Sportsbook (New Jersey),66,239,3.0,ISU -3.0,47.0,-155,130,-110.0,-110.0,239,401525873,baylor-bears,Baylor,Bears,Baylor,BAY,Baylor Bears,Bears,154734,ffb81c
+teamId_241,401547138,False,,,,,NONE,,,,,,,,,,241,401547138,mcmurry-indians,McMurry,Indians,McMurry,MMR,McMurry Indians,Indians,98002e,000000
+teamId_242,401531373,True,242,2655,True,False,Caesars Sportsbook (New Jersey),2655,242,10.0,TULN -10.0,55.0,-385,300,-110.0,-110.0,242,401531373,rice-owls,Rice,Owls,Rice,RICE,Rice Owls,Owls,d1d5d8,003d7d
+teamId_245,401520359,True,245,2579,False,True,Caesars Sportsbook (New Jersey),245,2579,-16.5,TA&M -16.5,52.5,550,-800,-110.0,-110.0,245,401520359,texas-am-aggies,Texas A&M,Aggies,Texas A&M,TA&M,Texas A&M Aggies,Aggies,500000,ffffff
+teamId_246,401553003,False,,,,,NONE,,,,,,,,,,246,401553003,juniata-eagles,Juniata,Eagles,Juniata,JUN,Juniata Eagles,Eagles,031832,ac9c66
+teamId_247,401558402,False,,,,,NONE,,,,,,,,,,247,401558402,kings-college-pa-monarchs,Kings College (PA),Monarchs,Kings (PA),KING,Kings College (PA) Monarchs,Monarchs,c41230,000000
+teamId_248,401525875,True,2306,248,False,True,Caesars Sportsbook (New Jersey),2306,248,-17.5,KSU -17.5,60.0,600,-900,-110.0,-110.0,248,401525875,houston-cougars,Houston,Cougars,Houston,HOU,Houston Cougars,Cougars,c92a39,ffffff
+teamId_249,401531430,True,249,235,True,False,Caesars Sportsbook (New Jersey),235,249,7.0,MEM -7.0,68.0,-292,235,-110.0,-110.0,249,401531430,north-texas-mean-green,North Texas,Mean Green,North Texas,UNT,North Texas Mean Green,Mean Green,ffffff,000000
+teamId_251,401525877,True,251,252,False,True,Caesars Sportsbook (New Jersey),251,252,-20.0,TEX -20.0,50.0,800,-1400,-110.0,-110.0,251,401525877,texas-longhorns,Texas,Longhorns,Texas,TEX,Texas Longhorns,Longhorns,c15d26,ffffff
+teamId_252,401525877,True,251,252,False,True,Caesars Sportsbook (New Jersey),251,252,-20.0,TEX -20.0,50.0,800,-1400,-110.0,-110.0,252,401525877,byu-cougars,BYU,Cougars,BYU,BYU,BYU Cougars,Cougars,003da5,ffffff
+teamId_253,401540209,False,,,,,NONE,,,,,,,,,,253,401540209,southern-utah-thunderbirds,Southern Utah,Thunderbirds,Southern Utah,SUU,Southern Utah Thunderbirds,Thunderbirds,c72026,000000
+teamId_254,401524044,True,254,2483,True,False,Caesars Sportsbook (New Jersey),2483,254,6.5,ORE -6.5,47.0,-235,192,-110.0,-110.0,254,401524044,utah-utes,Utah,Utes,Utah,UTAH,Utah Utes,Utes,ea002a,ffffff
+teamId_255,401550217,False,,,,,NONE,,,,,,,,,,255,401550217,knox-college-prairie-fire,Knox College,Prairie Fire,Knox,KNO,Knox College Prairie Fire,Prairie Fire,000000,
+teamId_256,401531900,True,256,295,False,True,Caesars Sportsbook (New Jersey),256,295,-21.0,JMU -21.0,48.5,800,-1400,-105.0,-115.0,256,401531900,james-madison-dukes,James Madison,Dukes,James Madison,JMU,James Madison Dukes,Dukes,450084,b5a068
+teamId_257,401540317,False,,,,,NONE,,,,,,,,,,257,401540317,richmond-spiders,Richmond,Spiders,Richmond,RICH,Richmond Spiders,Spiders,9e0712,b90b2e
+teamId_258,401525538,True,2390,258,False,True,Caesars Sportsbook (New Jersey),2390,258,-18.5,MIA -18.5,47.5,700,-1100,-110.0,-110.0,258,401525538,virginia-cavaliers,Virginia,Cavaliers,Virginia,UVA,Virginia Cavaliers,Cavaliers,232d48,f84c1e
+teamId_259,401525533,True,259,183,False,True,Caesars Sportsbook (New Jersey),259,183,-2.5,VT -2.5,47.5,105,-125,-120.0,100.0,259,401525533,virginia-tech-hokies,Virginia Tech,Hokies,Virginia Tech,VT,Virginia Tech Hokies,Hokies,630031,cf4520
+teamId_262,401549656,False,,,,,NONE,,,,,,,,,,262,401549656,lake-forest-foresters,Lake Forest,Foresters,Lake Forst,LAK,Lake Forest Foresters,Foresters,000000,
+teamId_263,401547087,False,,,,,NONE,,,,,,,,,,263,401547087,loras-college-duhawks,Loras College,Duhawks,Loras,LOR,Loras College Duhawks,Duhawks,452d7d,d2b888
+teamId_264,401524042,True,24,264,True,False,Caesars Sportsbook (New Jersey),264,24,27.5,WASH -27.5,61.0,-4500,1550,-110.0,-110.0,264,401524042,washington-huskies,Washington,Huskies,Washington,WASH,Washington Huskies,Huskies,33006f,e8d3a2
+teamId_265,401524040,True,9,265,True,False,Caesars Sportsbook (New Jersey),265,9,5.5,WSU -5.5,49.5,-220,180,-110.0,-110.0,265,401524040,washington-state-cougars,Washington State,Cougars,Washington St,WSU,Washington State Cougars,Cougars,981e32,ffffff
+teamId_266,401549656,False,,,,,NONE,,,,,,,,,,266,401549656,beloit-college-buccaneers,Beloit College,Buccaneers,Beloit,BEL,Beloit College Buccaneers,Buccaneers,000000,
+teamId_268,401550204,False,,,,,NONE,,,,,,,,,,268,401550204,lawrence-university-vikings,Lawrence University,Vikings,Lawrence,LAW,Lawrence University Vikings,Vikings,000000,
+teamId_271,401541136,False,,,,,NONE,,,,,,,,,,271,401541136,wisconsin-oshkosh-titans,Wisconsin-Oshkosh,Titans,Wis Osh,WIS,Wisconsin-Oshkosh Titans,Titans,000000,
+teamId_272,401550423,False,,,,,NONE,,,,,,,,,,272,401550423,wisconsin-platteville-pioneers,Wisconsin-Platteville,Pioneers,Wis Platte,WIS,Wisconsin-Platteville Pioneers,Pioneers,000000,
+teamId_275,401520360,True,275,194,True,False,Caesars Sportsbook (New Jersey),194,275,14.5,OSU -14.5,45.5,-700,500,-110.0,-110.0,275,401520360,wisconsin-badgers,Wisconsin,Badgers,Wisconsin,WIS,Wisconsin Badgers,Badgers,c4012f,ffffff
+teamId_276,401531899,True,324,276,True,False,Caesars Sportsbook (New Jersey),276,324,3.0,MRSH -3.0,47.0,-165,140,-105.0,-115.0,276,401531899,marshall-thundering-herd,Marshall,Thundering Herd,Marshall,MRSH,Marshall Thundering Herd,Thundering Herd,00ae42,be854c
+teamId_277,401525878,True,2116,277,False,True,Caesars Sportsbook (New Jersey),2116,277,-7.0,UCF -7.0,60.5,222,-278,-115.0,-105.0,277,401525878,west-virginia-mountaineers,West Virginia,Mountaineers,West Virginia,WVU,West Virginia Mountaineers,Mountaineers,002855,eaaa00
+teamId_278,401532606,True,278,2439,False,True,Caesars Sportsbook (New Jersey),278,2439,-8.5,FRES -8.5,57.5,260,-335,-110.0,-110.0,278,401532606,fresno-state-bulldogs,Fresno State,Bulldogs,Fresno St,FRES,Fresno State Bulldogs,Bulldogs,c41230,13284c
+teamId_282,401540303,False,,,,,NONE,,,,,,,,,,282,401540303,indiana-state-sycamores,Indiana State,Sycamores,Indiana St,INST,Indiana State Sycamores,Sycamores,00669a,f0f0f0
+teamId_284,401540042,False,,,,,NONE,,,,,,,,,,284,401540042,stonehill-skyhawks,Stonehill,Skyhawks,Stonehill,STO,Stonehill Skyhawks,Skyhawks,000000,
+teamId_286,401549808,False,,,,,NONE,,,,,,,,,,286,401549808,nc-wesleyan-battling-bishops,NC Wesleyan,Battling Bishops,NC Wesleyn,NOR,NC Wesleyan Battling Bishops,Battling Bishops,000000,
+teamId_290,401531929,True,290,2247,False,False,Caesars Sportsbook (New Jersey),pickem,pickem,0.0,EVEN,63.0,-110,-110,-110.0,-110.0,290,401531929,georgia-southern-eagles,Georgia Southern,Eagles,GA Southern,GASO,Georgia Southern Eagles,Eagles,003775,f0f0f0
+teamId_291,401549808,False,,,,,NONE,,,,,,,,,,291,401549808,methodist-monarchs,Methodist,Monarchs,Methodist,MET,Methodist Monarchs,Monarchs,000000,
+teamId_293,401550065,False,,,,,NONE,,,,,,,,,,293,401550065,castleton-spartans,Castleton,Spartans,Castleton,CAS,Castleton Spartans,Spartans,000000,
+teamId_295,401531900,True,256,295,False,True,Caesars Sportsbook (New Jersey),256,295,-21.0,JMU -21.0,48.5,800,-1400,-105.0,-115.0,295,401531900,old-dominion-monarchs,Old Dominion,Monarchs,Old Dominion,ODU,Old Dominion Monarchs,Monarchs,00507d,a1d2f1
+teamId_297,401550338,False,,,,,NONE,,,,,,,,,,297,401550338,hampden-sydney-tigers,Hampden-Sydney,Tigers,Hampden-Syd,HAC,Hampden-Sydney Tigers,Tigers,900028,a8b1b7
+teamId_301,401540550,False,,,,,NONE,,,,,,,,,,301,401540550,san-diego-toreros,San Diego,Toreros,San Diego,USD,San Diego Toreros,Toreros,2f99d4,2f99d4
+teamId_302,401540276,False,,,,,NONE,,,,,,,,,,302,401540276,uc-davis-aggies,UC Davis,Aggies,UC Davis,UCD,UC Davis Aggies,Aggies,002855,c3c4c6
+teamId_304,401540255,False,,,,,NONE,,,,,,,,,,304,401540255,idaho-state-bengals,Idaho State,Bengals,Idaho St,IDST,Idaho State Bengals,Bengals,ef8c00,e9a126
+teamId_306,401544942,False,,,,,NONE,,,,,,,,,,306,401544942,illinois-wesleyan-titans,Illinois Wesleyan,Titans,IL Weslyan,ILW,Illinois Wesleyan Titans,Titans,000000,
+teamId_308,401541808,False,,,,,NONE,,,,,,,,,,308,401541808,ashland-eagles,Ashland,Eagles,Ashland,ASH,Ashland Eagles,Eagles,000000,
+teamId_309,401531902,True,6,309,False,True,Caesars Sportsbook (New Jersey),6,309,-11.0,USA -11.0,55.0,345,-455,-110.0,-110.0,309,401531902,louisiana-ragin-cajuns,Louisiana,Ragin' Cajuns,Louisiana,UL,Louisiana Ragin' Cajuns,Ragin' Cajuns,ce2842,
+teamId_311,401540492,False,,,,,NONE,,,,,,,,,,311,401540492,maine-black-bears,Maine,Black Bears,Maine,ME,Maine Black Bears,Black Bears,127dbe,
+teamId_317,401544103,False,,,,,NONE,,,,,,,,,,317,401544103,marietta-pioneers,Marietta,Pioneers,Marietta,MAR,Marietta Pioneers,Pioneers,000000,
+teamId_319,401540782,False,,,,,NONE,,,,,,,,,,319,401540782,oklahoma-baptist-bison,Oklahoma Baptist,Bison,Oklahoma Bapt,OKB,Oklahoma Baptist Bison,Bison,,
+teamId_322,401540063,False,,,,,NONE,,,,,,,,,,322,401540063,lafayette-leopards,Lafayette,Leopards,Lafayette,LAF,Lafayette Leopards,Leopards,790000,a59474
+teamId_323,401549825,False,,,,,NONE,,,,,,,,,,323,401549825,moravian-greyhounds,Moravian,Greyhounds,Moravian,MOR,Moravian Greyhounds,Greyhounds,1f3361,a5a6a9
+teamId_324,401531899,True,324,276,True,False,Caesars Sportsbook (New Jersey),276,324,3.0,MRSH -3.0,47.0,-165,140,-105.0,-115.0,324,401531899,coastal-carolina-chanticleers,Coastal Carolina,Chanticleers,Coastal Car,CCU,Coastal Carolina Chanticleers,Chanticleers,007073,876447
+teamId_326,401531903,True,326,2653,True,False,Caesars Sportsbook (New Jersey),2653,326,7.0,TROY -7.0,53.0,-250,205,-110.0,-110.0,326,401531903,texas-state-bobcats,Texas State,Bobcats,Texas St,TXST,Texas State Bobcats,Bobcats,4e1719,b4975a
+teamId_328,401532612,False,,,,,NONE,,,,,,,,,,328,401532612,utah-state-aggies,Utah State,Aggies,Utah State,USU,Utah State Aggies,Aggies,00263a,949ca1
+teamId_330,401540665,False,,,,,NONE,,,,,,,,,,330,401540665,virginia-state-trojans,Virginia State,Trojans,VA State,VIR,Virginia State Trojans,Trojans,000000,
+teamId_331,401540241,False,,,,,NONE,,,,,,,,,,331,401540241,eastern-washington-eagles,Eastern Washington,Eagles,E Washington,EWU,Eastern Washington Eagles,Eagles,a10022,abb4bc
+teamId_332,401549758,False,,,,,NONE,,,,,,,,,,332,401549758,muskingum-fighting-muskies,Muskingum,Fighting Muskies,Muskingum,MUS,Muskingum Fighting Muskies,Fighting Muskies,000000,
+teamId_333,401520362,True,333,99,False,True,Caesars Sportsbook (New Jersey),333,99,-4.5,ALA -4.5,,,,-110.0,-110.0,333,401520362,alabama-crimson-tide,Alabama,Crimson Tide,Alabama,ALA,Alabama Crimson Tide,Crimson Tide,9e1632,ffffff
+teamId_336,401552021,False,,,,,NONE,,,,,,,,,,336,401552021,wesleyan-university-ct-cardinals,Wesleyan University (CT),Cardinals,Wesleyan (CT),WCT,Wesleyan University (CT) Cardinals,Cardinals,d72121,000000
+teamId_338,401540609,False,,,,,NONE,,,,,,,,,,338,401540609,kennesaw-state-owls,Kennesaw State,Owls,Kennesaw St,KENN,Kennesaw State Owls,Owls,000000,fdbb30
+teamId_340,401549719,False,,,,,NONE,,,,,,,,,,340,401549719,bowdoin-polar-bears,Bowdoin,Polar Bears,Bowdoin,BOW,Bowdoin Polar Bears,Polar Bears,ffffff,000000
+teamId_341,401545748,False,,,,,NONE,,,,,,,,,,341,401545748,frostburg-state-bobcats,Frostburg State,Bobcats,Frostburg,FRO,Frostburg State Bobcats,Bobcats,000000,
+teamId_344,401520350,True,2,344,False,True,Caesars Sportsbook (New Jersey),2,344,-6.5,AUB -6.5,41.0,205,-250,-110.0,-110.0,344,401520350,mississippi-state-bulldogs,Mississippi State,Bulldogs,Mississippi St,MSST,Mississippi State Bulldogs,Bulldogs,5d1725,c1c6c8
+teamId_348,401550307,False,,,,,NONE,,,,,,,,,,348,401550307,hamilton-continentals,Hamilton,Continentals,Hamilton,HAM,Hamilton Continentals,Continentals,062f87,d5b98b
+teamId_349,401520349,True,349,113,False,True,Caesars Sportsbook (New Jersey),349,113,-9.5,ARMY -9.5,50.5,278,-355,-110.0,-110.0,349,401520349,army-black-knights,Army,Black Knights,Army,ARMY,Army Black Knights,Black Knights,ce9c00,231f20
+teamId_351,401544924,False,,,,,NONE,,,,,,,,,,351,401544924,wingate-bulldogs,Wingate,Bulldogs,Wingate,WIN,Wingate Bulldogs,Bulldogs,182441,c1b585
+teamId_352,401541090,False,,,,,NONE,,,,,,,,,,352,401541090,kenyon-owls,Kenyon,Owls,Kenyon,KEN,Kenyon Owls,Owls,000000,
+teamId_354,401544968,False,,,,,NONE,,,,,,,,,,354,401544968,olivet-college-comets,Olivet College,Comets,Olivetcoll,OLI,Olivet College Comets,Comets,000000,
+teamId_356,401520370,False,,,,,NONE,,,,,,,,,,356,401520370,illinois-fighting-illini,Illinois,Fighting Illini,Illinois,ILL,Illinois Fighting Illini,Fighting Illini,ff5f05,13294b
+teamId_359,401544112,False,,,,,NONE,,,,,,,,,,359,401544112,otterbein-cardinals,Otterbein,Cardinals,Otterbein,OTT,Otterbein Cardinals,Cardinals,000000,
+teamId_365,401550053,False,,,,,NONE,,,,,,,,,,365,401550053,alfred-saxons,Alfred,Saxons,Alfred,ALF,Alfred Saxons,Saxons,000000,
+teamId_366,401550320,False,,,,,NONE,,,,,,,,,,366,401550320,ferrum-panthers,Ferrum,Panthers,Ferrum,FER,Ferrum Panthers,Panthers,000000,c0a656
+teamId_367,401541020,False,,,,,NONE,,,,,,,,,,367,401541020,gannon-golden-knights,Gannon,Golden Knights,Gannon,GAN,Gannon Golden Knights,Golden Knights,000000,
+teamId_374,401550053,False,,,,,NONE,,,,,,,,,,374,401550053,st-john-fisher-university-cardinals,St. John Fisher University,Cardinals,St. John Fisher,SJFU,St. John Fisher University Cardinals,Cardinals,000000,
+teamId_375,401550189,False,,,,,NONE,,,,,,,,,,375,401550189,st-scholastica-saints,St. Scholastica,Saints,St. Scholastica,STS,St. Scholastica Saints,Saints,000000,
+teamId_379,401550138,False,,,,,NONE,,,,,,,,,,379,401550138,umass-dartmouth-corsairs,UMASS Dartmouth,Corsairs,UMass Dart,UMDA,UMASS Dartmouth Corsairs,Corsairs,000000,
+teamId_386,401550352,False,,,,,NONE,,,,,,,,,,386,401550352,trinity-university-tx-tigers,Trinity University (TX),Tigers,Trinity TX,TRI,Trinity University (TX) Tigers,Tigers,000000,
+teamId_388,401550115,False,,,,,NONE,,,,,,,,,,388,401550115,lebanon-valley-flying-dutchmen,Lebanon Valley,Flying Dutchmen,Lebanon,LEB,Lebanon Valley Flying Dutchmen,Flying Dutchmen,003767,ffffff
+teamId_389,401540705,False,,,,,NONE,,,,,,,,,,389,401540705,upper-iowa-peacocks,Upper Iowa,Peacocks,Upper Iowa,UPP,Upper Iowa Peacocks,Peacocks,000000,
+teamId_390,401544058,False,,,,,NONE,,,,,,,,,,390,401544058,utica-pioneers,Utica,Pioneers,Utica,UTI,Utica Pioneers,Pioneers,000000,
+teamId_391,401550281,False,,,,,NONE,,,,,,,,,,391,401550281,oberlin-yeomen,Oberlin,Yeomen,Oberlin,OBE,Oberlin Yeomen,Yeomen,000000,
+teamId_395,401552869,False,,,,,NONE,,,,,,,,,,395,401552869,saint-augustines-falcons,Saint Augustine's,Falcons,St. Augustine's,STAU,Saint Augustine's Falcons,Falcons,000000,
+teamId_396,401544951,False,,,,,NONE,,,,,,,,,,396,401544951,wheaton-thunder,Wheaton,Thunder,Wheaton,WHE,Wheaton Thunder,Thunder,000000,
+teamId_398,401553023,False,,,,,NONE,,,,,,,,,,398,401553023,wilkes-university-colonels,Wilkes University,Colonels,Wilkes,WIL,Wilkes University Colonels,Colonels,002856,ffcd00
+teamId_399,401540492,False,,,,,NONE,,,,,,,,,,399,401540492,ualbany-great-danes,UAlbany,Great Danes,UAlbany,ALB,UAlbany Great Danes,Great Danes,3D2777,ffffff
+teamId_402,401552482,False,,,,,NONE,,,,,,,,,,402,401552482,worcester-state-college-lancers,Worcester State College,Lancers,Wor State,WOR,Worcester State College Lancers,Lancers,004b8e,ffc629
+teamId_409,401550235,False,,,,,NONE,,,,,,,,,,409,401550235,concordia-wi-falcons,Concordia (WI),Falcons,Cncrdia WI,CON,Concordia (WI) Falcons,Falcons,245699,b1b3b3
+teamId_411,401550334,False,,,,,NONE,,,,,,,,,,411,401550334,chapman-university-panthers,Chapman University,Panthers,Chapman,CHA,Chapman University Panthers,Panthers,ab1d38,000000
+teamId_415,401550494,False,,,,,NONE,,,,,,,,,,415,401550494,george-fox-bruins,George Fox,Bruins,George Fox,GFX,George Fox Bruins,Bruins,002d62,c2a303
+teamId_417,401552464,False,,,,,NONE,,,,,,,,,,417,401552464,gallaudet-bison,Gallaudet,Bison,Gallaudet,GAL,Gallaudet Bison,Bison,000000,
+teamId_418,401544141,False,,,,,NONE,,,,,,,,,,418,401544141,hendrix-college-warriors,Hendrix College,Warriors,Hendrix,HEN,Hendrix College Warriors,Warriors,,
+teamId_424,401550251,False,,,,,NONE,,,,,,,,,,424,401550251,capital-university-comets,Capital University,Comets,Capital,CAP,Capital University Comets,Comets,000000,
+teamId_425,401545824,False,,,,,NONE,,,,,,,,,,425,401545824,northern-state-wolves,Northern State,Wolves,Northrn State,NSU,Northern State Wolves,Wolves,000000,
+teamId_426,401544112,False,,,,,NONE,,,,,,,,,,426,401544112,mount-union-raiders,Mount Union,Raiders,Mt Union,MOU,Mount Union Raiders,Raiders,000000,
+teamId_427,401544103,False,,,,,NONE,,,,,,,,,,427,401544103,ohio-northern-polar-bears,Ohio Northern,Polar Bears,Ohio Northern,ON,Ohio Northern Polar Bears,Polar Bears,000000,
+teamId_433,401541127,False,,,,,NONE,,,,,,,,,,433,401541127,westminster-mo-blue-jays,Westminster (MO),Blue Jays,Westminster MO,WMO,Westminster (MO) Blue Jays,Blue Jays,06496f,ffffff
+teamId_437,401541823,False,,,,,NONE,,,,,,,,,,437,401541823,lake-erie-storm,Lake Erie,Storm,Lake Erie,LKE,Lake Erie Storm,Storm,000000,
+teamId_446,401549773,False,,,,,NONE,,,,,,,,,,446,401549773,martin-luther-knights,Martin Luther,Knights,Martin Luther ,MAR,Martin Luther Knights,Knights,000000,
+teamId_452,401547201,False,,,,,NONE,,,,,,,,,,452,401547201,endicott-college-gulls,Endicott College,Gulls,Endicott,END,Endicott College Gulls,Gulls,000000,
+teamId_455,401545734,False,,,,,NONE,,,,,,,,,,455,401545734,west-virginia-wesleyan-bobcats,West Virginia Wesleyan,Bobcats,WV Weslyan,WES,West Virginia Wesleyan Bobcats,Bobcats,000000,
+teamId_471,401553858,False,,,,,NONE,,,,,,,,,,471,401553858,stevenson-mustangs,Stevenson,Mustangs,Stevenson,STEV,Stevenson Mustangs,Mustangs,005747,000000
+teamId_490,401547051,False,,,,,NONE,,,,,,,,,,490,401547051,benedict-college-tigers,Benedict College,Tigers,Benedict,BEN,Benedict College Tigers,Tigers,,
+teamId_509,401550445,False,,,,,NONE,,,,,,,,,,509,401550445,crown-college-polars,Crown College,Polars,Crown College,CROWN,Crown College Polars,Polars,5c2f92,ffffff
+teamId_548,401549815,False,,,,,NONE,,,,,,,,,,548,401549815,lagrange-college-panthers,LaGrange College,Panthers,LaGrange,LAG,LaGrange College Panthers,Panthers,000000,
+teamId_559,401545850,False,,,,,NONE,,,,,,,,,,559,401545850,university-of-mary-marauders,University of Mary,Marauders,Univ of Mary,UNI,University of Mary Marauders,Marauders,000000,
+teamId_568,401545850,False,,,,,NONE,,,,,,,,,,568,401545850,minot-state-beavers,Minot State,Beavers,Minot State,MNT,Minot State Beavers,Beavers,000000,
+teamId_583,401549773,False,,,,,NONE,,,,,,,,,,583,401549773,northwestern-mn-eagles,Northwestern (MN),Eagles,Northwestern MN,NMN,Northwestern (MN) Eagles,Eagles,000000,
+teamId_587,401545764,False,,,,,NONE,,,,,,,,,,587,401545764,notre-dame-college-oh-falcons,Notre Dame College (OH),Falcons,Notre Dame (OH),NOT,Notre Dame College (OH) Falcons,Falcons,000000,
+teamId_611,401547003,False,,,,,NONE,,,,,,,,,,611,401547003,seton-hill-griffins,Seton Hill,Griffins,Seton Hill,SH,Seton Hill Griffins,Griffins,000000,
+teamId_613,401544905,False,,,,,NONE,,,,,,,,,,613,401544905,south-dakota-mines-hardrockers,South Dakota Mines,Hardrockers,SD Mines,SDM,South Dakota Mines Hardrockers,Hardrockers,000000,
+teamId_2000,401540209,False,,,,,NONE,,,,,,,,,,2000,401540209,abilene-christian-wildcats,Abilene Christian,Wildcats,Abilene Chrstn,ACU,Abilene Christian Wildcats,Wildcats,4e2683,ebebeb
+teamId_2001,401544905,False,,,,,NONE,,,,,,,,,,2001,401544905,adams-state-grizzlies,Adams State,Grizzlies,Adams St,ADA,Adams State Grizzlies,Grizzlies,000000,
+teamId_2003,401544074,False,,,,,NONE,,,,,,,,,,2003,401544074,adrian-bulldogs,Adrian,Bulldogs,Adrian,ADR,Adrian Bulldogs,Bulldogs,000000,
+teamId_2005,401532603,True,36,2005,True,False,Caesars Sportsbook (New Jersey),2005,36,14.0,AFA -14.0,46.5,-600,430,-115.0,-105.0,2005,401532603,air-force-falcons,Air Force,Falcons,Air Force,AFA,Air Force Falcons,Falcons,004a7b,ffffff
+teamId_2006,401532436,False,,,,,NONE,,,,,,,,,,2006,401532436,akron-zips,Akron,Zips,Akron,AKR,Akron Zips,Zips,00285e,84754e
+teamId_2010,401540111,False,,,,,NONE,,,,,,,,,,2010,401540111,alabama-am-bulldogs,Alabama A&M,Bulldogs,Alabama A&M,AAMU,Alabama A&M Bulldogs,Bulldogs,790000,ffffff
+teamId_2011,401540111,False,,,,,NONE,,,,,,,,,,2011,401540111,alabama-state-hornets,Alabama State,Hornets,Alabama St,ALST,Alabama State Hornets,Hornets,e9a900,0a0a0a
+teamId_2013,401547045,False,,,,,NONE,,,,,,,,,,2013,401547045,albany-state-golden-rams,Albany State,Golden Rams,Albany St,ALBS,Albany State Golden Rams,Golden Rams,000000,
+teamId_2015,401553013,False,,,,,NONE,,,,,,,,,,2015,401553013,albright-lions,Albright,Lions,Albright,ALB,Albright Lions,Lions,c82e48,000000
+teamId_2016,401540129,False,,,,,NONE,,,,,,,,,,2016,401540129,alcorn-state-braves,Alcorn State,Braves,Alcorn St,ALCN,Alcorn State Braves,Braves,4b0058,46166a
+teamId_2017,401545768,False,,,,,NONE,,,,,,,,,,2017,401545768,alderson-broaddus-battlers,Alderson Broaddus,Battlers,Alderson Broad.,ABC,Alderson Broaddus Battlers,Battlers,,
+teamId_2018,401544132,False,,,,,NONE,,,,,,,,,,2018,401544132,allegheny-gators,Allegheny,Gators,Allegheny,ALL,Allegheny Gators,Gators,000000,
+teamId_2019,401547038,False,,,,,NONE,,,,,,,,,,2019,401547038,allen-yellow-jackets,Allen,Yellow Jackets,Allen,ALN,Allen Yellow Jackets,Yellow Jackets,,
+teamId_2022,401549696,False,,,,,NONE,,,,,,,,,,2022,401549696,american-international-yellow-jackets,American International,Yellow Jackets,American Int'l,AIC,American International Yellow Jackets,Yellow Jackets,000000,
+teamId_2023,401553033,False,,,,,NONE,,,,,,,,,,2023,401553033,anderson-in-ravens,Anderson (IN),Ravens,Anderson IN,AND,Anderson (IN) Ravens,Ravens,000000,
+teamId_2025,401541896,False,,,,,NONE,,,,,,,,,,2025,401541896,angelo-state-rams,Angelo State,Rams,Angelo State,ANG,Angelo State Rams,Rams,000000,
+teamId_2026,401531898,True,2026,2572,False,True,Caesars Sportsbook (New Jersey),2026,2572,-17.0,APP -17.0,55.5,600,-900,-110.0,-110.0,2026,401531898,appalachian-state-mountaineers,Appalachian State,Mountaineers,Appalachian St,APP,Appalachian State Mountaineers,Mountaineers,000000,ffcd00
+teamId_2028,401540782,False,,,,,NONE,,,,,,,,,,2028,401540782,arkansas-monticello-boll-weevils,Arkansas-Monticello,Boll Weevils,Ark-Monticello,ARK,Arkansas-Monticello Boll Weevils,Boll Weevils,000000,
+teamId_2029,401540137,False,,,,,NONE,,,,,,,,,,2029,401540137,arkansas-pine-bluff-golden-lions,Arkansas-Pine Bluff,Golden Lions,AR-Pine Bluff,UAPB,Arkansas-Pine Bluff Golden Lions,Golden Lions,e0aa0f,eaaa00
+teamId_2032,401531901,True,2433,2032,False,True,Caesars Sportsbook (New Jersey),2433,2032,-2.0,ULM -2.0,56.0,110,-130,-110.0,-110.0,2032,401531901,arkansas-state-red-wolves,Arkansas State,Red Wolves,Arkansas St,ARST,Arkansas State Red Wolves,Red Wolves,e81018,000000
+teamId_2033,401540725,False,,,,,NONE,,,,,,,,,,2033,401540725,arkansas-tech-wonder-boys,Arkansas Tech,Wonder Boys,Arkansas Tech,ARK,Arkansas Tech Wonder Boys,Wonder Boys,000000,
+teamId_2038,401545788,False,,,,,NONE,,,,,,,,,,2038,401545788,assumption-greyhounds,Assumption,Greyhounds,Assumption,ASP,Assumption Greyhounds,Greyhounds,000000,
+teamId_2042,401544942,False,,,,,NONE,,,,,,,,,,2042,401544942,augustana-college-il-vikings,Augustana College (IL),Vikings,Augustana IL,AUG,Augustana College (IL) Vikings,Vikings,000000,
+teamId_2043,401545806,False,,,,,NONE,,,,,,,,,,2043,401545806,augustana-university-sd-vikings,Augustana University (SD),Vikings,Augustana SD,AUG,Augustana University (SD) Vikings,Vikings,000000,
+teamId_2044,401549688,False,,,,,NONE,,,,,,,,,,2044,401549688,aurora-spartans,Aurora,Spartans,Aurora,AUR,Aurora Spartans,Spartans,00549f,000000
+teamId_2045,401547138,False,,,,,NONE,,,,,,,,,,2045,401547138,austin-college-roos,Austin College,'Roos,Austin,AUS,Austin College 'Roos,'Roos,000000,
+teamId_2046,401540179,False,,,,,NONE,,,,,,,,,,2046,401540179,austin-peay-governors,Austin Peay,Governors,Austin Peay,APSU,Austin Peay Governors,Governors,8e0b0b,
+teamId_2047,401550313,False,,,,,NONE,,,,,,,,,,2047,401550313,averett-cougars,Averett,Cougars,Averett,AVE,Averett Cougars,Cougars,012853,fdbb30
+teamId_2050,401532435,False,,,,,NONE,,,,,,,,,,2050,401532435,ball-state-cardinals,Ball State,Cardinals,Ball State,BALL,Ball State Cardinals,Cardinals,DA0000,ffffff
+teamId_2056,401550364,False,,,,,NONE,,,,,,,,,,2056,401550364,belhaven-university-blazers,Belhaven University,Blazers,Belhaven,BEL,Belhaven University Blazers,Blazers,215732,f2a900
+teamId_2060,401549703,False,,,,,NONE,,,,,,,,,,2060,401549703,bentley-falcons,Bentley,Falcons,Bentley,BENT,Bentley Falcons,Falcons,000000,
+teamId_2062,401550394,False,,,,,NONE,,,,,,,,,,2062,401550394,bethany-wv-bison,Bethany (WV),Bison,Bethany (WV),BET,Bethany (WV) Bison,Bison,000000,
+teamId_2065,401540145,False,,,,,NONE,,,,,,,,,,2065,401540145,bethune-cookman-wildcats,Bethune-Cookman,Wildcats,Bethune,BCU,Bethune-Cookman Wildcats,Wildcats,7b1831,e9aa12
+teamId_2069,401545980,False,,,,,NONE,,,,,,,,,,2069,401545980,black-hills-state-yellow-jackets,Black Hills State,Yellow Jackets,Black Hills St,BHS,Black Hills State Yellow Jackets,Yellow Jackets,000000,
+teamId_2071,401541009,False,,,,,NONE,,,,,,,,,,2071,401541009,bloomsburg-huskies,Bloomsburg,Huskies,Bloomsburg,BLOM,Bloomsburg Huskies,Huskies,000000,
+teamId_2074,401553033,False,,,,,NONE,,,,,,,,,,2074,401553033,bluffton-beavers,Bluffton,Beavers,Bluffton,BLU,Bluffton Beavers,Beavers,46166a,ffffff
+teamId_2075,401540657,False,,,,,NONE,,,,,,,,,,2075,401540657,bowie-state-bulldogs,Bowie State,Bulldogs,Bowie St,BSU,Bowie State Bulldogs,Bulldogs,000000,
+teamId_2079,401550320,False,,,,,NONE,,,,,,,,,,2079,401550320,bridgewater-college-va-eagles,Bridgewater College (VA),Eagles,Bridgewater VA,BRI,Bridgewater College (VA) Eagles,Eagles,990022,8d724b
+teamId_2083,401540053,False,,,,,NONE,,,,,,,,,,2083,401540053,bucknell-bison,Bucknell,Bison,Bucknell,BUCK,Bucknell Bison,Bison,000060,00316e
+teamId_2084,401532434,False,,,,,NONE,,,,,,,,,,2084,401532434,buffalo-bulls,Buffalo,Bulls,Buffalo,BUFF,Buffalo Bulls,Bulls,041A9B,ebebeb
+teamId_2085,401549612,False,,,,,NONE,,,,,,,,,,2085,401549612,buffalo-state-bengals,Buffalo State,Bengals,BUFFALOST,BUF,Buffalo State Bengals,Bengals,000000,
+teamId_2086,401540459,False,,,,,NONE,,,,,,,,,,2086,401540459,butler-bulldogs,Butler,Bulldogs,Butler,BUT,Butler Bulldogs,Bulldogs,0d1361,00a3e0
+teamId_2094,401552873,False,,,,,NONE,,,,,,,,,,2094,401552873,california-lutheran-kingsmen,California Lutheran,Kingsmen,Cal Luthrn,CAL,California Lutheran Kingsmen,Kingsmen,3b2361,fec223
+teamId_2097,401540317,False,,,,,NONE,,,,,,,,,,2097,401540317,campbell-fighting-camels,Campbell,Fighting Camels,Campbell,CAM,Campbell Fighting Camels,Fighting Camels,000000,
+teamId_2101,401541080,False,,,,,NONE,,,,,,,,,,2101,401541080,carleton-college-knights,Carleton College,Knights,Carleton,CAR,Carleton College Knights,Knights,173a79,edac09
+teamId_2102,401550378,False,,,,,NONE,,,,,,,,,,2102,401550378,carnegie-mellon-tartans,Carnegie Mellon,Tartans,Carng Mell,CAR,Carnegie Mellon Tartans,Tartans,000000,
+teamId_2105,401541040,False,,,,,NONE,,,,,,,,,,2105,401541040,carson-newman-eagles,Carson-Newman,Eagles,Carson-Newman,CAR,Carson-Newman Eagles,Eagles,f2682a,0c233f
+teamId_2106,401547219,False,,,,,NONE,,,,,,,,,,2106,401547219,carthage-redmen,Carthage,Redmen,Carthage,CAR,Carthage Redmen,Redmen,000000,
+teamId_2107,401544914,False,,,,,NONE,,,,,,,,,,2107,401544914,catawba-indians,Catawba,Indians,Catawba,CAT,Catawba Indians,Indians,0c233f,cb152f
+teamId_2108,401551934,False,,,,,NONE,,,,,,,,,,2108,401551934,catholic-university-cardinals,Catholic University,Cardinals,Catholic,CAT,Catholic University Cardinals,Cardinals,000000,
+teamId_2110,401540189,False,,,,,NONE,,,,,,,,,,2110,401540189,central-arkansas-bears,Central Arkansas,Bears,C Arkansas,CARK,Central Arkansas Bears,Bears,a7a9ac,8e959a
+teamId_2115,401540008,True,,,True,False,Caesars Sportsbook (New Jersey),112358,2115,2.5,LIU -2.5,45.5,-140,118,-110.0,-110.0,2115,401540008,central-connecticut-blue-devils,Central Connecticut,Blue Devils,C Connecticut,CCSU,Central Connecticut Blue Devils,Blue Devils,1B49A2,d1d5d8
+teamId_2116,401525878,True,2116,277,False,True,Caesars Sportsbook (New Jersey),2116,277,-7.0,UCF -7.0,60.5,222,-278,-115.0,-105.0,2116,401525878,ucf-knights,UCF,Knights,UCF,UCF,UCF Knights,Knights,000000,b4a269
+teamId_2117,401532433,False,,,,,NONE,,,,,,,,,,2117,401532433,central-michigan-chippewas,Central Michigan,Chippewas,C Michigan,CMU,Central Michigan Chippewas,Chippewas,6a0032,ffffff
+teamId_2118,401541936,False,,,,,NONE,,,,,,,,,,2118,401541936,central-missouri-mules,Central Missouri,Mules,C Missouri,CEN,Central Missouri Mules,Mules,000000,
+teamId_2119,401544933,False,,,,,NONE,,,,,,,,,,2119,401544933,central-state-oh-marauders,Central State (OH),Marauders,Central St,CEN,Central State (OH) Marauders,Marauders,000000,
+teamId_2120,401541903,False,,,,,NONE,,,,,,,,,,2120,401541903,central-washington-wildcats,Central Washington,Wildcats,C Wash,CEN,Central Washington Wildcats,Wildcats,000000,
+teamId_2121,401550404,False,,,,,NONE,,,,,,,,,,2121,401550404,centre-college-colonels,Centre College,Colonels,Centre,CEN,Centre College Colonels,Colonels,000000,
+teamId_2122,401541946,False,,,,,NONE,,,,,,,,,,2122,401541946,central-oklahoma-bronchos,Central Oklahoma,Bronchos,C Okla,CEN,Central Oklahoma Bronchos,Bronchos,000000,
+teamId_2123,401545986,False,,,,,NONE,,,,,,,,,,2123,401545986,chadron-state-eagles,Chadron State,Eagles,Chadron St,CHA,Chadron State Eagles,Eagles,000000,
+teamId_2127,401540426,False,,,,,NONE,,,,,,,,,,2127,401540426,charleston-southern-buccaneers,Charleston Southern,Buccaneers,Charleston So,CHSO,Charleston Southern Buccaneers,Buccaneers,2e3192,ded090
+teamId_2128,401545748,False,,,,,NONE,,,,,,,,,,2128,401545748,charleston-wv-golden-eagles,Charleston (WV),Golden Eagles,Charl WV,UNI,Charleston (WV) Golden Eagles,Golden Eagles,000000,
+teamId_2132,401525876,True,197,2132,False,True,Caesars Sportsbook (New Jersey),197,2132,-7.5,OKST -7.5,53.0,235,-292,-115.0,-105.0,2132,401525876,cincinnati-bearcats,Cincinnati,Bearcats,Cincinnati,CIN,Cincinnati Bearcats,Bearcats,000000,717073
+teamId_2134,401545873,False,,,,,NONE,,,,,,,,,,2134,401545873,clarion-golden-eagles,Clarion,Golden Eagles,Clarion,CLA,Clarion Golden Eagles,Golden Eagles,000000,
+teamId_2141,401547104,False,,,,,NONE,,,,,,,,,,2141,401547104,coe-college-kohawks,Coe College,Kohawks,Coe,COE,Coe College Kohawks,Kohawks,881922,c8934a
+teamId_2142,401540053,False,,,,,NONE,,,,,,,,,,2142,401540053,colgate-raiders,Colgate,Raiders,Colgate,COLG,Colgate Raiders,Raiders,8B011D,231f20
+teamId_2146,401545997,False,,,,,NONE,,,,,,,,,,2146,401545997,colorado-school-of-mines-orediggers,Colorado School of Mines,Orediggers,Colo Mines,COL,Colorado School of Mines Orediggers,Orediggers,000000,
+teamId_2148,401545734,False,,,,,NONE,,,,,,,,,,2148,401545734,concord-mountain-lions,Concord,Mountain Lions,Concord,CON,Concord Mountain Lions,Mountain Lions,000000,
+teamId_2151,401549679,False,,,,,NONE,,,,,,,,,,2151,401549679,concordia-chicago-cougars,Concordia-Chicago,Cougars,Cncrdia IL,CON,Concordia-Chicago Cougars,Cougars,572a31,ffc72e
+teamId_2152,401550159,False,,,,,NONE,,,,,,,,,,2152,401550159,concordia-moorhead-cobbers,Concordia-Moorhead,Cobbers,Cncrdia MH,CON,Concordia-Moorhead Cobbers,Cobbers,701d45,ffffff
+teamId_2155,401550217,False,,,,,NONE,,,,,,,,,,2155,401550217,cornell-college-ia-rams,Cornell College (IA),Rams,Cornellia,COR,Cornell College (IA) Rams,Rams,000000,
+teamId_2166,401540403,False,,,,,NONE,,,,,,,,,,2166,401540403,davidson-wildcats,Davidson,Wildcats,Davidson,DAV,Davidson Wildcats,Wildcats,000000,e51837
+teamId_2168,401540460,False,,,,,NONE,,,,,,,,,,2168,401540460,dayton-flyers,Dayton,Flyers,Dayton,DAY,Dayton Flyers,Flyers,004B8D,ffffff
+teamId_2169,401534855,False,,,,,NONE,,,,,,,,,,2169,401534855,delaware-state-hornets,Delaware State,Hornets,Delaware St,DSU,Delaware State Hornets,Hornets,FF3630,009cdd
+teamId_2170,401541853,False,,,,,NONE,,,,,,,,,,2170,401541853,delta-state-statesmen,Delta State,Statesmen,Delta State,DELT,Delta State Statesmen,Statesmen,00753e,000000
+teamId_2171,401550259,False,,,,,NONE,,,,,,,,,,2171,401550259,denison-big-red,Denison,Big Red,Denison,DEN,Denison Big Red,Big Red,000000,
+teamId_2175,401552995,False,,,,,NONE,,,,,,,,,,2175,401552995,dickinson-pa-red-devils,Dickinson (PA),Red Devils,Dickinson (PA),DCK,Dickinson (PA) Red Devils,Red Devils,ed192d,000000
+teamId_2181,401540517,False,,,,,NONE,,,,,,,,,,2181,401540517,drake-bulldogs,Drake,Bulldogs,Drake,DRKE,Drake Bulldogs,Bulldogs,004477,c0c0c0
+teamId_2184,401540016,False,,,,,NONE,,,,,,,,,,2184,401540016,duquesne-dukes,Duquesne,Dukes,Duquesne,DUQ,Duquesne Dukes,Dukes,002D62,b90b2e
+teamId_2188,401545966,False,,,,,NONE,,,,,,,,,,2188,401545966,east-stroudsburg-warriors,East Stroudsburg,Warriors,E Strouds,EAS,East Stroudsburg Warriors,Warriors,000000,
+teamId_2191,401540725,False,,,,,NONE,,,,,,,,,,2191,401540725,east-central-tigers,East Central,Tigers,E Cen OK,EAS,East Central Tigers,Tigers,000000,
+teamId_2193,401540594,False,,,,,NONE,,,,,,,,,,2193,401540594,east-tennessee-state-buccaneers,East Tennessee State,Buccaneers,ETSU,ETSU,East Tennessee State Buccaneers,Buccaneers,002d61,ffc423
+teamId_2194,401547184,False,,,,,NONE,,,,,,,,,,2194,401547184,east-texas-baptist-tigers,East Texas Baptist,Tigers,E TX Bapt,EAS,East Texas Baptist Tigers,Tigers,002b44,e0ad13
+teamId_2197,401540481,False,,,,,NONE,,,,,,,,,,2197,401540481,eastern-illinois-panthers,Eastern Illinois,Panthers,E Illinois,EIU,Eastern Illinois Panthers,Panthers,000000,bebab9
+teamId_2198,401540197,False,,,,,NONE,,,,,,,,,,2198,401540197,eastern-kentucky-colonels,Eastern Kentucky,Colonels,E Kentucky,EKU,Eastern Kentucky Colonels,Colonels,660819,f0f0f0
+teamId_2199,401532431,True,2199,2711,True,False,Caesars Sportsbook (New Jersey),2711,2199,3.0,WMU -3.0,48.0,-140,118,-110.0,-110.0,2199,401532431,eastern-michigan-eagles,Eastern Michigan,Eagles,E Michigan,EMU,Eastern Michigan Eagles,Eagles,00331b,f0f0f0
+teamId_2201,401547001,False,,,,,NONE,,,,,,,,,,2201,401547001,eastern-new-mexico-greyhounds,Eastern New Mexico,Greyhounds,Eastern NM,EAS,Eastern New Mexico Greyhounds,Greyhounds,000000,
+teamId_2205,401547003,False,,,,,NONE,,,,,,,,,,2205,401547003,edinboro-fighting-scots,Edinboro,Fighting Scots,Edinboro,EDI,Edinboro Fighting Scots,Fighting Scots,000000,
+teamId_2206,401547038,False,,,,,NONE,,,,,,,,,,2206,401547038,edward-waters-tigers,Edward Waters,Tigers,Edward Waters,EAU,Edward Waters Tigers,Tigers,,
+teamId_2207,401540657,False,,,,,NONE,,,,,,,,,,2207,401540657,elizabeth-city-state-vikings,Elizabeth City State,Vikings,Eliz City St,ELIZ,Elizabeth City State Vikings,Vikings,000000,
+teamId_2210,401540328,False,,,,,NONE,,,,,,,,,,2210,401540328,elon-phoenix,Elon,Phoenix,Elon,ELON,Elon Phoenix,Phoenix,020303,b59a57
+teamId_2213,401541040,False,,,,,NONE,,,,,,,,,,2213,401541040,emory-henry-college-wasps,Emory & Henry College,Wasps,Emory & Henry,EMO,Emory & Henry College Wasps,Wasps,1e376d,daad27
+teamId_2214,401541976,False,,,,,NONE,,,,,,,,,,2214,401541976,emporia-state-hornets,Emporia State,Hornets,Emporia St,EMP,Emporia State Hornets,Hornets,000000,
+teamId_2220,401540682,False,,,,,NONE,,,,,,,,,,2220,401540682,fayetteville-state-broncos,Fayetteville State,Broncos,Fayetvl St,FAY,Fayetteville State Broncos,Broncos,000000,
+teamId_2221,401553037,False,,,,,NONE,,,,,,,,,,2221,401553037,fdu-florham-devils,FDU-Florham,Devils,FDU Florhm,FDU,FDU-Florham Devils,Devils,003f87,a32638
+teamId_2222,401549696,False,,,,,NONE,,,,,,,,,,2222,401549696,ferris-state-bulldogs,Ferris State,Bulldogs,Ferris St,FRST,Ferris State Bulldogs,Bulldogs,000000,
+teamId_2224,401541818,False,,,,,NONE,,,,,,,,,,2224,401541818,findlay-oilers,Findlay,Oilers,Findlay,FIN,Findlay Oilers,Oilers,000000,
+teamId_2226,401531407,True,2429,2226,True,False,Caesars Sportsbook (New Jersey),2226,2429,3.5,FAU -3.5,45.0,-165,140,-110.0,-110.0,2226,401531407,florida-atlantic-owls,Florida Atlantic,Owls,FAU,FAU,Florida Atlantic Owls,Owls,004B85,bb2f4c
+teamId_2229,401520347,True,2229,55,True,False,Caesars Sportsbook (New Jersey),55,2229,9.0,JVST -9.0,48.0,-355,278,-110.0,-110.0,2229,401520347,florida-international-panthers,Florida International,Panthers,FIU,FIU,Florida International Panthers,Panthers,001538,c5960c
+teamId_2230,401540070,False,,,,,NONE,,,,,,,,,,2230,401540070,fordham-rams,Fordham,Rams,Fordham,FOR,Fordham Rams,Rams,830032,909090
+teamId_2231,401541946,False,,,,,NONE,,,,,,,,,,2231,401541946,fort-hays-state-tigers,Fort Hays State,Tigers,Fort Hays State,FHSU,Fort Hays State Tigers,Tigers,000000,
+teamId_2232,401547066,False,,,,,NONE,,,,,,,,,,2232,401547066,fort-valley-state-wildcats,Fort Valley State,Wildcats,Fort Valley,FVS,Fort Valley State Wildcats,Wildcats,000000,
+teamId_2233,401553032,False,,,,,NONE,,,,,,,,,,2233,401553032,franklin-grizzlies,Franklin,Grizzlies,Franklin,FRNK,Franklin Grizzlies,Grizzlies,1b295b,fdd106
+teamId_2234,401558981,False,,,,,NONE,,,,,,,,,,2234,401558981,franklin-marshall-diplomats,Franklin & Marshall,Diplomats,Frank & Marsh,FR&M,Franklin & Marshall Diplomats,Diplomats,25377d,6cb3e9
+teamId_2237,401545980,False,,,,,NONE,,,,,,,,,,2237,401545980,fort-lewis-skyhawks,Fort Lewis,Skyhawks,Fort Lewis,LEW,Fort Lewis Skyhawks,Skyhawks,000000,
+teamId_2241,401540486,False,,,,,NONE,,,,,,,,,,2241,401540486,gardner-webb-runnin-bulldogs,Gardner-Webb,Runnin' Bulldogs,Gardner-Webb,GWEB,Gardner-Webb Runnin' Bulldogs,Runnin' Bulldogs,c12535,909090
+teamId_2242,401550388,False,,,,,NONE,,,,,,,,,,2242,401550388,geneva-college-golden-tornadoes,Geneva College,Golden Tornadoes,Geneva,GEN,Geneva College Golden Tornadoes,Golden Tornadoes,000000,
+teamId_2247,401531929,True,290,2247,False,False,Caesars Sportsbook (New Jersey),pickem,pickem,0.0,EVEN,63.0,-110,-110,-110.0,-110.0,2247,401531929,georgia-state-panthers,Georgia State,Panthers,Georgia St,GAST,Georgia State Panthers,Panthers,1e539a,ebebeb
+teamId_2248,401552995,False,,,,,NONE,,,,,,,,,,2248,401552995,gettysburg-bullets,Gettysburg,Bullets,Gettysburg,GET,Gettysburg Bullets,Bullets,000000,
+teamId_2249,401540998,False,,,,,NONE,,,,,,,,,,2249,401540998,glenville-state-pioneers,Glenville State,Pioneers,Glenville State,GLN,Glenville State Pioneers,Pioneers,000000,
+teamId_2256,401549792,False,,,,,NONE,,,,,,,,,,2256,401549792,greensboro-college-pride,Greensboro College,Pride,Greensboro,GRE,Greensboro College Pride,Pride,000000,
+teamId_2257,401541127,False,,,,,NONE,,,,,,,,,,2257,401541127,greenville-panthers,Greenville,Panthers,Greenville,GRE,Greenville Panthers,Panthers,f36917,000000
+teamId_2258,401550338,False,,,,,NONE,,,,,,,,,,2258,401550338,guilford-quakers,Guilford,Quakers,Guilford,GUI,Guilford Quakers,Quakers,910028,dcddde
+teamId_2261,401540419,False,,,,,NONE,,,,,,,,,,2261,401540419,hampton-pirates,Hampton,Pirates,Hampton,HAMP,Hampton Pirates,Pirates,0067AC,
+teamId_2262,401550093,False,,,,,NONE,,,,,,,,,,2262,401550093,hanover-panthers,Hanover,Panthers,Hanover,HAN,Hanover Panthers,Panthers,0b486d,990000
+teamId_2264,401541758,False,,,,,NONE,,,,,,,,,,2264,401541758,harding-university-bisons,Harding University,Bisons,Harding,HAR,Harding University Bisons,Bisons,000000,
+teamId_2271,401541765,False,,,,,NONE,,,,,,,,,,2271,401541765,henderson-state-reddies,Henderson State,Reddies,Henderson St,HEN,Henderson State Reddies,Reddies,000000,
+teamId_2273,401541823,False,,,,,NONE,,,,,,,,,,2273,401541823,hillsdale-chargers,Hillsdale,Chargers,Hillsdale,HIL,Hillsdale Chargers,Chargers,000000,
+teamId_2274,401541098,False,,,,,NONE,,,,,,,,,,2274,401541098,hiram-college-terriers,Hiram College,Terriers,Hiram,HIR,Hiram College Terriers,Terriers,000000,
+teamId_2277,401540359,False,,,,,NONE,,,,,,,,,,2277,401540359,houston-christian-huskies,Houston Christian,Huskies,Hou Christian,HCU,Houston Christian Huskies,Huskies,00539c,
+teamId_2280,401547201,False,,,,,NONE,,,,,,,,,,2280,401547201,husson-eagles,Husson,Eagles,Husson,HUS,Husson Eagles,Eagles,004b44,b09a5f
+teamId_2283,401550247,False,,,,,NONE,,,,,,,,,,2283,401550247,benedictine-university-il-eagles,Benedictine University (IL),Eagles,Benedictine IL,BENC,Benedictine University (IL) Eagles,Eagles,000000,
+teamId_2286,401544084,False,,,,,NONE,,,,,,,,,,2286,401544084,illinois-college-blueboys,Illinois College,Blueboys,Ill Col,ILL,Illinois College Blueboys,Blueboys,000000,
+teamId_2287,401540106,False,,,,,NONE,,,,,,,,,,2287,401540106,illinois-state-redbirds,Illinois State,Redbirds,Illinois St,ILST,Illinois State Redbirds,Redbirds,CE1126,ffe716
+teamId_2291,401541020,False,,,,,NONE,,,,,,,,,,2291,401541020,indiana-pennsylvania-crimson-hawks,Indiana-Pennsylvania,Crimson Hawks,Indiana (PA),IUP,Indiana-Pennsylvania Crimson Hawks,Crimson Hawks,000000,
+teamId_2292,401540705,False,,,,,NONE,,,,,,,,,,2292,401540705,indianapolis-greyhounds,Indianapolis,Greyhounds,Indy,IND,Indianapolis Greyhounds,Greyhounds,000000,
+teamId_2294,401520373,False,,,,,NONE,,,,,,,,,,2294,401520373,iowa-hawkeyes,Iowa,Hawkeyes,Iowa,IOWA,Iowa Hawkeyes,Hawkeyes,000000,fcd116
+teamId_2296,401540137,False,,,,,NONE,,,,,,,,,,2296,401540137,jackson-state-tigers,Jackson State,Tigers,Jackson St,JKST,Jackson State Tigers,Tigers,123297,b5b7ba
+teamId_2302,401549758,False,,,,,NONE,,,,,,,,,,2302,401549758,john-carroll-blue-streaks,John Carroll,Blue Streaks,John Carrl,JOH,John Carroll Blue Streaks,Blue Streaks,000000,
+teamId_2304,401540691,False,,,,,NONE,,,,,,,,,,2304,401540691,johnson-c-smith-golden-bulls,Johnson C Smith,Golden Bulls,Jsn C Smth,JOH,Johnson C Smith Golden Bulls,Golden Bulls,000000,
+teamId_2305,401525874,True,2305,201,True,False,Caesars Sportsbook (New Jersey),201,2305,9.0,OU -9.0,65.5,-365,285,-110.0,-110.0,2305,401525874,kansas-jayhawks,Kansas,Jayhawks,Kansas,KU,Kansas Jayhawks,Jayhawks,0051ba,e8000d
+teamId_2306,401525875,True,2306,248,False,True,Caesars Sportsbook (New Jersey),2306,248,-17.5,KSU -17.5,60.0,600,-900,-110.0,-110.0,2306,401525875,kansas-state-wildcats,Kansas State,Wildcats,Kansas St,KSU,Kansas State Wildcats,Wildcats,3c0969,e2e3e4
+teamId_2309,401532436,False,,,,,NONE,,,,,,,,,,2309,401532436,kent-state-golden-flashes,Kent State,Golden Flashes,Kent State,KENT,Kent State Golden Flashes,Golden Flashes,002445,f0b510
+teamId_2310,401547070,False,,,,,NONE,,,,,,,,,,2310,401547070,kentucky-state-thorobreds,Kentucky State,Thorobreds,Kentucky St,KYST,Kentucky State Thorobreds,Thorobreds,000000,
+teamId_2315,401545879,False,,,,,NONE,,,,,,,,,,2315,401545879,kutztown-golden-bears,Kutztown,Golden Bears,Kutztown,KUT,Kutztown Golden Bears,Golden Bears,000000,
+teamId_2316,401541831,False,,,,,NONE,,,,,,,,,,2316,401541831,kentucky-wesleyan-panthers,Kentucky Wesleyan,Panthers,KY Wesleyn,KYW,Kentucky Wesleyan Panthers,Panthers,000000,
+teamId_2318,401544151,False,,,,,NONE,,,,,,,,,,2318,401544151,la-verne-leopards,La Verne,Leopards,Laverne,LA,La Verne Leopards,Leopards,004812,f89828
+teamId_2320,401540379,False,,,,,NONE,,,,,,,,,,2320,401540379,lamar-cardinals,Lamar,Cardinals,Lamar,LAM,Lamar Cardinals,Cardinals,000000,ebebeb
+teamId_2323,401544933,False,,,,,NONE,,,,,,,,,,2323,401544933,lane-dragons,Lane,Dragons,Lane,LAC,Lane Dragons,Dragons,000000,
+teamId_2329,401540071,False,,,,,NONE,,,,,,,,,,2329,401540071,lehigh-mountain-hawks,Lehigh,Mountain Hawks,Lehigh,LEH,Lehigh Mountain Hawks,Mountain Hawks,6c2b2a,b69e70
+teamId_2331,401544924,False,,,,,NONE,,,,,,,,,,2331,401544924,lenoir-rhyne-bears,Lenoir-Rhyne,Bears,Lenoir-Rhyne,LEN,Lenoir-Rhyne Bears,Bears,000000,ffffff
+teamId_2333,401544093,False,,,,,NONE,,,,,,,,,,2333,401544093,lewis-clark-pioneers,Lewis & Clark,Pioneers,Lws & Clrk,LEW,Lewis & Clark Pioneers,Pioneers,f37737,000000
+teamId_2335,401520346,True,98,2335,True,False,Caesars Sportsbook (New Jersey),2335,98,4.0,LIB -4.0,61.5,-180,152,-110.0,-110.0,2335,401520346,liberty-flames,Liberty,Flames,Liberty,LIB,Liberty Flames,Flames,071740,a61f21
+teamId_2336,401547026,False,,,,,NONE,,,,,,,,,,2336,401547026,limestone-saints,Limestone,Saints,Limestone,LIM,Limestone Saints,Saints,19468d,fff607
+teamId_2339,401540665,False,,,,,NONE,,,,,,,,,,2339,401540665,lincoln-pa-lions,Lincoln (PA),Lions,Lincoln (PA),LINP,Lincoln (PA) Lions,Lions,000000,
+teamId_2348,401520345,True,2348,166,False,True,Caesars Sportsbook (New Jersey),2348,166,-3.0,LT -3.0,55.0,130,-155,-115.0,-105.0,2348,401520345,louisiana-tech-bulldogs,Louisiana Tech,Bulldogs,Louisiana Tech,LT,Louisiana Tech Bulldogs,Bulldogs,002d65,d3313a
+teamId_2354,401553003,False,,,,,NONE,,,,,,,,,,2354,401553003,lycoming-warriors,Lycoming,Warriors,Lycoming,LYC,Lycoming Warriors,Warriors,15283f,eaa22e
+teamId_2355,401547066,False,,,,,NONE,,,,,,,,,,2355,401547066,virginia-lynchburg-dragons,Virginia Lynchburg,Dragons,Lynchburg,UVAL,Virginia Lynchburg Dragons,Dragons,,
+teamId_2359,401550182,False,,,,,NONE,,,,,,,,,,2359,401550182,macalester-scots,Macalester,Scots,Macalester,MAC,Macalester Scots,Scots,000000,
+teamId_2362,401550072,False,,,,,NONE,,,,,,,,,,2362,401550072,manchester-spartans,Manchester,Spartans,Manchester,MNCH,Manchester Spartans,Spartans,ddac14,000000
+teamId_2364,401545845,False,,,,,NONE,,,,,,,,,,2364,401545845,minnesota-state-mavericks,Minnesota State,Mavericks,Minnesota St,MNST,Minnesota State Mavericks,Mavericks,000000,
+teamId_2368,401540526,False,,,,,NONE,,,,,,,,,,2368,401540526,marist-red-foxes,Marist,Red Foxes,Marist,MRST,Marist Red Foxes,Red Foxes,e53730,f0f0f0
+teamId_2369,401549709,False,,,,,NONE,,,,,,,,,,2369,401549709,mars-hill-mountain-lions,Mars Hill,Mountain Lions,Mars Hill,MH,Mars Hill Mountain Lions,Mountain Lions,004b8d,efc814
+teamId_2371,401547173,False,,,,,NONE,,,,,,,,,,2371,401547173,mary-hardin-baylor-crusaders,Mary Hardin-Baylor,Crusaders,Mry Hr-Bay,MAR,Mary Hardin-Baylor Crusaders,Crusaders,492f92,fece1c
+teamId_2373,401550364,False,,,,,NONE,,,,,,,,,,2373,401550364,maryville-college-tn-scots,Maryville College (TN),Scots,Maryville TN,MVTN,Maryville College (TN) Scots,Scots,000000,
+teamId_2377,401540394,False,,,,,NONE,,,,,,,,,,2377,401540394,mcneese-cowboys,McNeese,Cowboys,McNeese,MCN,McNeese Cowboys,Cowboys,00529C,
+teamId_2382,401540613,False,,,,,NONE,,,,,,,,,,2382,401540613,mercer-bears,Mercer,Bears,Mercer,MER,Mercer Bears,Bears,ff7f29,080808
+teamId_2383,401541108,False,,,,,NONE,,,,,,,,,,2383,401541108,merchant-marine-mariners,Merchant Marine,Mariners,Mrchnt Mar,MER,Merchant Marine Mariners,Mariners,000000,
+teamId_2385,401545867,False,,,,,NONE,,,,,,,,,,2385,401545867,mercyhurst-lakers,Mercyhurst,Lakers,Mercyhurst,MERC,Mercyhurst Lakers,Lakers,000000,
+teamId_2390,401525538,True,2390,258,False,True,Caesars Sportsbook (New Jersey),2390,258,-18.5,MIA -18.5,47.5,700,-1100,-110.0,-110.0,2390,401525538,miami-hurricanes,Miami,Hurricanes,Miami,MIA,Miami Hurricanes,Hurricanes,004325,f0f0f0
+teamId_2392,401540772,False,,,,,NONE,,,,,,,,,,2392,401540772,michigan-tech-huskies,Michigan Tech,Huskies,Michigan Tech,MTU,Michigan Tech Huskies,Huskies,000000,
+teamId_2393,401520372,False,,,,,NONE,,,,,,,,,,2393,401520372,middle-tennessee-blue-raiders,Middle Tennessee,Blue Raiders,MTSU,MTSU,Middle Tennessee Blue Raiders,Blue Raiders,006db6,ffffff
+teamId_2394,401552878,False,,,,,NONE,,,,,,,,,,2394,401552878,middlebury-panthers,Middlebury,Panthers,Middlebury,MID,Middlebury Panthers,Panthers,365a8a,ffffff
+teamId_2395,401540987,False,,,,,NONE,,,,,,,,,,2395,401540987,midwestern-state-mustangs,Midwestern State,Mustangs,Midwestern St,MID,Midwestern State Mustangs,Mustangs,000000,
+teamId_2396,401547045,False,,,,,NONE,,,,,,,,,,2396,401547045,miles-college-golden-bears,Miles College,Golden Bears,Miles,MIL,Miles College Golden Bears,Golden Bears,000000,
+teamId_2398,401550352,False,,,,,NONE,,,,,,,,,,2398,401550352,millsaps-majors,Millsaps,Majors,Millsaps,MLSP,Millsaps Majors,Majors,000000,
+teamId_2399,401550445,False,,,,,NONE,,,,,,,,,,2399,401550445,minnesota-morris-cougars,Minnesota Morris,Cougars,Minn Morris,MINM,Minnesota Morris Cougars,Cougars,8d191b,e19c25
+teamId_2400,401540129,False,,,,,NONE,,,,,,,,,,2400,401540129,mississippi-valley-state-delta-devils,Mississippi Valley State,Delta Devils,Miss Valley St,MVSU,Mississippi Valley State Delta Devils,Delta Devils,005328,cf2d34
+teamId_2401,401547000,False,,,,,NONE,,,,,,,,,,2401,401547000,mississippi-college-choctaws,Mississippi College,Choctaws,Miss Coll,MIS,Mississippi College Choctaws,Choctaws,0c2240,c89700
+teamId_2402,401540734,False,,,,,NONE,,,,,,,,,,2402,401540734,missouri-st-miners,Missouri S&T,Miners,Missouri S&T,MS&T,Missouri S&T Miners,Miners,000000,
+teamId_2403,401541936,False,,,,,NONE,,,,,,,,,,2403,401541936,missouri-southern-state-lions,Missouri Southern State,Lions,MO Southern St,MOS,Missouri Southern State Lions,Lions,000000,
+teamId_2405,401540504,False,,,,,NONE,,,,,,,,,,2405,401540504,monmouth-hawks,Monmouth,Hawks,Monmouth,MONM,Monmouth Hawks,Hawks,051844,
+teamId_2413,401540550,False,,,,,NONE,,,,,,,,,,2413,401540550,morehead-state-eagles,Morehead State,Eagles,Morehead St,MORE,Morehead State Eagles,Eagles,094FA3,fed91a
+teamId_2415,401539984,False,,,,,NONE,,,,,,,,,,2415,401539984,morgan-state-bears,Morgan State,Bears,Morgan St,MORG,Morgan State Bears,Bears,014786,f47937
+teamId_2419,401553032,False,,,,,NONE,,,,,,,,,,2419,401553032,mount-st-joseph-lions,Mount St. Joseph,Lions,Mt. St. Joseph,MSJ,Mount St. Joseph Lions,Lions,002d5d,f5ce3e
+teamId_2422,401547192,False,,,,,NONE,,,,,,,,,,2422,401547192,muhlenberg-mules,Muhlenberg,Mules,Muhlenberg,MUH,Muhlenberg Mules,Mules,000000,
+teamId_2424,401545986,False,,,,,NONE,,,,,,,,,,2424,401545986,new-mexico-highlands-cowboys,New Mexico Highlands,Cowboys,NM Highlnd,NMH,New Mexico Highlands Cowboys,Cowboys,000000,
+teamId_2426,401531392,False,,,,,NONE,,,,,,,,,,2426,401531392,navy-midshipmen,Navy,Midshipmen,Navy,NAVY,Navy Midshipmen,Midshipmen,00225b,b5a67c
+teamId_2428,401539998,True,,,False,True,Caesars Sportsbook (New Jersey),2428,2569,-14.5,NCCU -14.5,51.5,460,-650,-110.0,-110.0,2428,401539998,north-carolina-central-eagles,North Carolina Central,Eagles,NC Central,NCCU,North Carolina Central Eagles,Eagles,880023,c2c3c0
+teamId_2429,401531407,True,2429,2226,True,False,Caesars Sportsbook (New Jersey),2226,2429,3.5,FAU -3.5,45.0,-165,140,-110.0,-110.0,2429,401531407,charlotte-49ers,Charlotte,49ers,Charlotte,CLT,Charlotte 49ers,49ers,ffffff,cfab7a
+teamId_2433,401531901,True,2433,2032,False,True,Caesars Sportsbook (New Jersey),2433,2032,-2.0,ULM -2.0,56.0,110,-130,-110.0,-110.0,2433,401531901,ul-monroe-warhawks,UL Monroe,Warhawks,UL Monroe,ULM,UL Monroe Warhawks,Warhawks,231F20,b18445
+teamId_2438,401541976,False,,,,,NONE,,,,,,,,,,2438,401541976,nebraska-kearney-lopers,Nebraska-Kearney,Lopers,NE-Kearney,NK,Nebraska-Kearney Lopers,Lopers,000000,
+teamId_2439,401532606,True,278,2439,False,True,Caesars Sportsbook (New Jersey),278,2439,-8.5,FRES -8.5,57.5,260,-335,-110.0,-110.0,2439,401532606,unlv-rebels,UNLV,Rebels,UNLV,UNLV,UNLV Rebels,Rebels,b10202,ffffff
+teamId_2440,401532604,True,2440,167,True,False,Caesars Sportsbook (New Jersey),167,2440,1.5,UNM -1.5,49.5,-125,105,-110.0,-110.0,2440,401532604,nevada-wolf-pack,Nevada,Wolf Pack,Nevada,NEV,Nevada Wolf Pack,Wolf Pack,153E5F,8e9295
+teamId_2441,401545788,False,,,,,NONE,,,,,,,,,,2441,401545788,new-haven-chargers,New Haven,Chargers,New Haven,NH,New Haven Chargers,Chargers,000000,
+teamId_2442,401550871,False,,,,,NONE,,,,,,,,,,2442,401550871,the-college-of-new-jersey-lions,The College of New Jersey,Lions,C of NJ,TCNJ,The College of New Jersey Lions,Lions,154c7d,fbbc20
+teamId_2444,401547026,False,,,,,NONE,,,,,,,,,,2444,401547026,newberry-wolves,Newberry,Wolves,Newberry,NBR,Newberry Wolves,Wolves,d02030,8a8c8f
+teamId_2447,401540501,False,,,,,NONE,,,,,,,,,,2447,401540501,nicholls-colonels,Nicholls,Colonels,Nicholls,NICH,Nicholls Colonels,Colonels,C41230,f0f0f0
+teamId_2448,401540419,False,,,,,NONE,,,,,,,,,,2448,401540419,north-carolina-at-aggies,North Carolina A&T,Aggies,NC A&T,NCAT,North Carolina A&T Aggies,Aggies,0505aa,004684
+teamId_2449,401540366,False,,,,,NONE,,,,,,,,,,2449,401540366,north-dakota-state-bison,North Dakota State,Bison,N Dakota St,NDSU,North Dakota State Bison,Bison,01402A,ffffff
+teamId_2450,401539984,False,,,,,NONE,,,,,,,,,,2450,401539984,norfolk-state-spartans,Norfolk State,Spartans,Norfolk St,NORF,Norfolk State Spartans,Spartans,046546,
+teamId_2453,401540179,False,,,,,NONE,,,,,,,,,,2453,401540179,north-alabama-lions,North Alabama,Lions,North Alabama,UNA,North Alabama Lions,Lions,000000,
+teamId_2458,401540262,False,,,,,NONE,,,,,,,,,,2458,401540262,northern-colorado-bears,Northern Colorado,Bears,N Colorado,UNCO,Northern Colorado Bears,Bears,13558D,ffc533
+teamId_2459,401532433,False,,,,,NONE,,,,,,,,,,2459,401532433,northern-illinois-huskies,Northern Illinois,Huskies,N Illinois,NIU,Northern Illinois Huskies,Huskies,F1122C,cc0000
+teamId_2460,401540106,False,,,,,NONE,,,,,,,,,,2460,401540106,northern-iowa-panthers,Northern Iowa,Panthers,Northern Iowa,UNI,Northern Iowa Panthers,Panthers,473282,ffffff
+teamId_2464,401540276,False,,,,,NONE,,,,,,,,,,2464,401540276,northern-arizona-lumberjacks,Northern Arizona,Lumberjacks,N Arizona,NAU,Northern Arizona Lumberjacks,Lumberjacks,003976,1b3069
+teamId_2466,401540394,False,,,,,NONE,,,,,,,,,,2466,401540394,northwestern-state-demons,Northwestern State,Demons,N'Western St,NWST,Northwestern State Demons,Demons,492F91,ed6118
+teamId_2467,401549741,False,,,,,NONE,,,,,,,,,,2467,401549741,norwich-cadets,Norwich,Cadets,Norwich,NOR,Norwich Cadets,Cadets,000000,
+teamId_2477,401541818,False,,,,,NONE,,,,,,,,,,2477,401541818,ohio-dominican-panthers,Ohio Dominican,Panthers,Ohio Dominican,OHDM,Ohio Dominican Panthers,Panthers,000000,
+teamId_2483,401524044,True,254,2483,True,False,Caesars Sportsbook (New Jersey),2483,254,6.5,ORE -6.5,47.0,-235,192,-110.0,-110.0,2483,401524044,oregon-ducks,Oregon,Ducks,Oregon,ORE,Oregon Ducks,Ducks,007030,fee11a
+teamId_2486,401550494,False,,,,,NONE,,,,,,,,,,2486,401550494,pacific-lutheran-lutes,Pacific Lutheran,Lutes,Pacific LutH,PL,Pacific Lutheran Lutes,Lutes,ffc423,000000
+teamId_2487,401545797,False,,,,,NONE,,,,,,,,,,2487,401545797,pace-university-setters,Pace University,Setters,Pace,PAC,Pace University Setters,Setters,000000,
+teamId_2502,401540241,False,,,,,NONE,,,,,,,,,,2502,401540241,portland-state-vikings,Portland State,Vikings,Portland St,PRST,Portland State Vikings,Vikings,00311e,ebebeb
+teamId_2504,401540153,False,,,,,NONE,,,,,,,,,,2504,401540153,prairie-view-am-panthers,Prairie View A&M,Panthers,Prairie View,PV,Prairie View A&M Panthers,Panthers,4d0960,
+teamId_2506,401540403,False,,,,,NONE,,,,,,,,,,2506,401540403,presbyterian-blue-hose,Presbyterian,Blue Hose,Presbyterian,PRES,Presbyterian Blue Hose,Blue Hose,194896,990134
+teamId_2508,401553006,False,,,,,NONE,,,,,,,,,,2508,401553006,puget-sound-loggers,Puget Sound,Loggers,Pugetsound,PUG,Puget Sound Loggers,Loggers,680001,ffffff
+teamId_2509,401520355,True,158,2509,False,True,Caesars Sportsbook (New Jersey),158,2509,-2.0,NEB -2.0,39.5,110,-130,-115.0,-105.0,2509,401520355,purdue-boilermakers,Purdue,Boilermakers,Purdue,PUR,Purdue Boilermakers,Boilermakers,000000,cfb991
+teamId_2516,401541117,False,,,,,NONE,,,,,,,,,,2516,401541117,randolph-macon-yellow-jackets,Randolph-Macon,Yellow Jackets,Randolph-Macon,RAN,Randolph-Macon Yellow Jackets,Yellow Jackets,fcdf12,000000
+teamId_2519,401549765,False,,,,,NONE,,,,,,,,,,2519,401549765,rhodes-college-lynx,Rhodes College,Lynx,Rhodes,RHO,Rhodes College Lynx,Lynx,000000,
+teamId_2523,401540497,False,,,,,NONE,,,,,,,,,,2523,401540497,robert-morris-colonials,Robert Morris,Colonials,Robert Morris,RMU,Robert Morris Colonials,Colonials,00214D,a21d2b
+teamId_2524,401549688,False,,,,,NONE,,,,,,,,,,2524,401549688,rockford-regents,Rockford,Regents,Rockford,ROCK,Rockford Regents,Regents,5a3f99,c4c6c8
+teamId_2528,401549621,False,,,,,NONE,,,,,,,,,,2528,401549621,rensselaer-engineers,Rensselaer,Engineers,Rensselaer,RPI,Rensselaer Engineers,Engineers,000000,
+teamId_2529,401540016,False,,,,,NONE,,,,,,,,,,2529,401540016,sacred-heart-pioneers,Sacred Heart,Pioneers,Sacred Heart,SHU,Sacred Heart Pioneers,Pioneers,a40012,c29472
+teamId_2532,401550871,False,,,,,NONE,,,,,,,,,,2532,401550871,salisbury-university-sea-gulls,Salisbury University,Sea Gulls,Salisbury,SAL,Salisbury University Sea Gulls,Sea Gulls,8b0e04,fdb913
+teamId_2534,401520348,True,2534,2638,False,True,Caesars Sportsbook (New Jersey),2534,2638,-4.0,SHSU -4.0,38.5,158,-190,-110.0,-110.0,2534,401520348,sam-houston-bearkats,Sam Houston,Bearkats,Sam Houston,SHSU,Sam Houston Bearkats,Bearkats,fe5000,000000
+teamId_2535,401540620,False,,,,,NONE,,,,,,,,,,2535,401540620,samford-bulldogs,Samford,Bulldogs,Samford,SAM,Samford Bulldogs,Bulldogs,005485,bc0023
+teamId_2542,401547051,False,,,,,NONE,,,,,,,,,,2542,401547051,savannah-state-tigers,Savannah State,Tigers,Savannah St,SAV,Savannah State Tigers,Tigers,280298,f78f1e
+teamId_2545,401540395,False,,,,,NONE,,,,,,,,,,2545,401540395,se-louisiana-lions,SE Louisiana,Lions,SE Louisiana,SELA,SE Louisiana Lions,Lions,215732,ffc72c
+teamId_2546,401540501,False,,,,,NONE,,,,,,,,,,2546,401540501,southeast-missouri-state-redhawks,Southeast Missouri State,Redhawks,SE Missouri,SEMO,Southeast Missouri State Redhawks,Redhawks,cc0000,080808
+teamId_2551,401540682,False,,,,,NONE,,,,,,,,,,2551,401540682,shaw-bears,Shaw,Bears,Shaw,SHAW,Shaw Bears,Bears,000000,
+teamId_2553,401550404,False,,,,,NONE,,,,,,,,,,2553,401550404,sewanee-tigers,Sewanee,Tigers,Sewanee,SEW,Sewanee Tigers,Tigers,000000,
+teamId_2557,401549727,False,,,,,NONE,,,,,,,,,,2557,401549727,coast-guard-bears,Coast Guard,Bears,Coast Guard,CGA,Coast Guard Bears,Bears,000000,
+teamId_2559,401545966,False,,,,,NONE,,,,,,,,,,2559,401545966,shippensburg-raiders,Shippensburg,Raiders,Shippensburg,SHIP,Shippensburg Raiders,Raiders,000000,
+teamId_2560,401541861,False,,,,,NONE,,,,,,,,,,2560,401541861,shorter-hawks,Shorter,Hawks,Shorter,SHOR,Shorter Hawks,Hawks,000000,
+teamId_2564,401547112,False,,,,,NONE,,,,,,,,,,2564,401547112,simpson-college-ia-storm,Simpson College (IA),Storm,Simpson IA,SCIA,Simpson College (IA) Storm,Storm,b20838,f0b310
+teamId_2567,401531342,True,2567,202,False,True,Caesars Sportsbook (New Jersey),2567,202,-21.0,SMU -21.0,56.5,900,-1600,-110.0,-110.0,2567,401531342,smu-mustangs,SMU,Mustangs,SMU,SMU,SMU Mustangs,Mustangs,354ca1,cc0035
+teamId_2568,401541793,False,,,,,NONE,,,,,,,,,,2568,401541793,southern-arkansas-muleriders,Southern Arkansas,Muleriders,S Arkansas,SA,Southern Arkansas Muleriders,Muleriders,000000,
+teamId_2569,401539998,True,,,False,True,Caesars Sportsbook (New Jersey),2428,2569,-14.5,NCCU -14.5,51.5,460,-650,-110.0,-110.0,2569,401539998,south-carolina-state-bulldogs,South Carolina State,Bulldogs,SC State,SCST,South Carolina State Bulldogs,Bulldogs,7d1315,104897
+teamId_2570,401545993,False,,,,,NONE,,,,,,,,,,2570,401545993,colorado-state-pueblo-thunderwolves,Colorado State-Pueblo,Thunderwolves,CO St Pueb,COLP,Colorado State-Pueblo Thunderwolves,Thunderwolves,000000,
+teamId_2571,401540443,False,,,,,NONE,,,,,,,,,,2571,401540443,south-dakota-state-jackrabbits,South Dakota State,Jackrabbits,S Dakota St,SDST,South Dakota State Jackrabbits,Jackrabbits,0033a0,ffd100
+teamId_2572,401531898,True,2026,2572,False,True,Caesars Sportsbook (New Jersey),2026,2572,-17.0,APP -17.0,55.5,600,-900,-110.0,-110.0,2572,401531898,southern-miss-golden-eagles,Southern Miss,Golden Eagles,Southern Miss,USM,Southern Miss Golden Eagles,Golden Eagles,FFAA3C,ffc423
+teamId_2579,401520359,True,245,2579,False,True,Caesars Sportsbook (New Jersey),245,2579,-16.5,TA&M -16.5,52.5,550,-800,-110.0,-110.0,2579,401520359,south-carolina-gamecocks,South Carolina,Gamecocks,South Carolina,SC,South Carolina Gamecocks,Gamecocks,73000a,ffffff
+teamId_2582,401540171,False,,,,,NONE,,,,,,,,,,2582,401540171,southern-jaguars,Southern,Jaguars,Southern,SOU,Southern Jaguars,Jaguars,004B97,ffc82d
+teamId_2583,401575335,False,,,,,NONE,,,,,,,,,,2583,401575335,southern-connecticut-state-owls,Southern Connecticut State,Owls,S Conn St,SCSU,Southern Connecticut State Owls,Owls,000000,
+teamId_2586,401540743,False,,,,,NONE,,,,,,,,,,2586,401540743,southwest-baptist-bearcats,Southwest Baptist,Bearcats,SW Baptist,SWB,Southwest Baptist Bearcats,Bearcats,000000,
+teamId_2587,401545845,False,,,,,NONE,,,,,,,,,,2587,401545845,southwest-minnesota-state-mustangs,Southwest Minnesota State,Mustangs,SW Minn State,SWMN,Southwest Minnesota State Mustangs,Mustangs,000000,
+teamId_2588,401550433,False,,,,,NONE,,,,,,,,,,2588,401550433,southwestern-university-pirates,Southwestern University,Pirates,Southwestern U,SU,Southwestern University Pirates,Pirates,000000,ffcd00
+teamId_2598,401540037,False,,,,,NONE,,,,,,,,,,2598,401540037,st-francis-pa-red-flash,St. Francis (PA),Red Flash,St Francis PA,SFPA,St. Francis (PA) Red Flash,Red Flash,a20012,
+teamId_2600,401550189,False,,,,,NONE,,,,,,,,,,2600,401550189,saint-johns-mn-johnnies,Saint John's (MN),Johnnies,St John's (MN),SJMN,Saint John's (MN) Johnnies,Johnnies,ce153e,7baed5
+teamId_2614,401544122,False,,,,,NONE,,,,,,,,,,2614,401544122,saint-vincent-bearcats,Saint Vincent,Bearcats,Saint Vincent,STVN,Saint Vincent Bearcats,Bearcats,000000,
+teamId_2617,401540217,False,,,,,NONE,,,,,,,,,,2617,401540217,stephen-f-austin-lumberjacks,Stephen F. Austin,Lumberjacks,SF Austin,SFA,Stephen F. Austin Lumberjacks,Lumberjacks,393996,bec0c2
+teamId_2619,401540576,False,,,,,NONE,,,,,,,,,,2619,401540576,stony-brook-seawolves,Stony Brook,Seawolves,Stony Brook,STBK,Stony Brook Seawolves,Seawolves,990000,
+teamId_2623,401540351,False,,,,,NONE,,,,,,,,,,2623,401540351,missouri-state-bears,Missouri State,Bears,Missouri St,MOST,Missouri State Bears,Bears,5F0000,e8e8e8
+teamId_2627,401540189,False,,,,,NONE,,,,,,,,,,2627,401540189,tarleton-state-texans,Tarleton State,Texans,Tarleton St,TAR,Tarleton State Texans,Texans,000000,
+teamId_2628,401525879,False,,,,,NONE,,,,,,,,,,2628,401525879,tcu-horned-frogs,TCU,Horned Frogs,TCU,TCU,TCU Horned Frogs,Horned Frogs,4d1979,f1f2f3
+teamId_2630,401540486,False,,,,,NONE,,,,,,,,,,2630,401540486,ut-martin-skyhawks,UT Martin,Skyhawks,UT Martin,UTM,UT Martin Skyhawks,Skyhawks,FF6700,102a5c
+teamId_2633,401520353,True,96,2633,True,False,Caesars Sportsbook (New Jersey),2633,96,3.5,TENN -3.5,51.0,-180,152,-110.0,-110.0,2633,401520353,tennessee-volunteers,Tennessee,Volunteers,Tennessee,TENN,Tennessee Volunteers,Volunteers,ff8200,58595b
+teamId_2634,401540496,False,,,,,NONE,,,,,,,,,,2634,401540496,tennessee-state-tigers,Tennessee State,Tigers,Tennessee St,TNST,Tennessee State Tigers,Tigers,171796,f0f0f0
+teamId_2635,401540497,False,,,,,NONE,,,,,,,,,,2635,401540497,tennessee-tech-golden-eagles,Tennessee Tech,Golden Eagles,Tennessee Tech,TNTC,Tennessee Tech Golden Eagles,Golden Eagles,5A4099,ffde00
+teamId_2636,401531398,True,2636,151,False,True,Caesars Sportsbook (New Jersey),2636,151,-18.5,UTSA -18.5,47.0,650,-1000,-110.0,-110.0,2636,401531398,utsa-roadrunners,UTSA,Roadrunners,UTSA,UTSA,UTSA Roadrunners,Roadrunners,002A5C,f47321
+teamId_2638,401520348,True,2534,2638,False,True,Caesars Sportsbook (New Jersey),2534,2638,-4.0,SHSU -4.0,38.5,158,-190,-110.0,-110.0,2638,401520348,utep-miners,UTEP,Miners,UTEP,UTEP,UTEP Miners,Miners,ff8200,041e42
+teamId_2639,401541050,False,,,,,NONE,,,,,,,,,,2639,401541050,texas-lutheran-bulldogs,Texas Lutheran,Bulldogs,Texas Lutheran,TXL,Texas Lutheran Bulldogs,Bulldogs,fdbe10,000000
+teamId_2640,401540171,False,,,,,NONE,,,,,,,,,,2640,401540171,texas-southern-tigers,Texas Southern,Tigers,Texas Southern,TXSO,Texas Southern Tigers,Tigers,6A0403,ebebeb
+teamId_2641,401525879,False,,,,,NONE,,,,,,,,,,2641,401525879,texas-tech-red-raiders,Texas Tech,Red Raiders,Texas Tech,TTU,Texas Tech Red Raiders,Red Raiders,000000,da291c
+teamId_2643,401540620,False,,,,,NONE,,,,,,,,,,2643,401540620,the-citadel-bulldogs,The Citadel,Bulldogs,The Citadel,CIT,The Citadel Bulldogs,Bulldogs,002b5c,f0f0f0
+teamId_2644,401544132,False,,,,,NONE,,,,,,,,,,2644,401544132,thiel-tomcats,Thiel,Tomcats,Thiel,THL,Thiel Tomcats,Tomcats,000000,
+teamId_2646,401541808,False,,,,,NONE,,,,,,,,,,2646,401541808,thomas-more-college-saints,Thomas More College,Saints,Thmas More,THO,Thomas More College Saints,Saints,000000,
+teamId_2649,401532434,False,,,,,NONE,,,,,,,,,,2649,401532434,toledo-rockets,Toledo,Rockets,Toledo,TOL,Toledo Rockets,Rockets,ffffff,ffd51d
+teamId_2651,401550152,False,,,,,NONE,,,,,,,,,,2651,401550152,trine-university-thunder,Trine University,Thunder,Trine,TRI,Trine University Thunder,Thunder,000000,
+teamId_2653,401531903,True,326,2653,True,False,Caesars Sportsbook (New Jersey),2653,326,7.0,TROY -7.0,53.0,-250,205,-110.0,-110.0,2653,401531903,troy-trojans,Troy,Trojans,Troy,TROY,Troy Trojans,Trojans,AE0210,88898c
+teamId_2654,401540743,False,,,,,NONE,,,,,,,,,,2654,401540743,truman-state-bulldogs,Truman State,Bulldogs,Truman State,TRUM,Truman State Bulldogs,Bulldogs,000000,
+teamId_2655,401531373,True,242,2655,True,False,Caesars Sportsbook (New Jersey),2655,242,10.0,TULN -10.0,55.0,-385,300,-110.0,-110.0,2655,401531373,tulane-green-wave,Tulane,Green Wave,Tulane,TULN,Tulane Green Wave,Green Wave,006547,468ac9
+teamId_2657,401547059,False,,,,,NONE,,,,,,,,,,2657,401547059,tuskegee-golden-tigers,Tuskegee,Golden Tigers,Tuskegee,TUSK,Tuskegee Golden Tigers,Golden Tigers,000000,
+teamId_2658,401541903,False,,,,,NONE,,,,,,,,,,2658,401541903,texas-am-kingsville-javelinas,Texas A&M-Kingsville,Javelinas,TX A&M-Kings,TXKI,Texas A&M-Kingsville Javelinas,Javelinas,000000,
+teamId_2667,401552451,False,,,,,NONE,,,,,,,,,,2667,401552451,ursinus-bears,Ursinus,Bears,Ursinus,URS,Ursinus Bears,Bears,98012e,fcb034
+teamId_2673,401541869,False,,,,,NONE,,,,,,,,,,2673,401541869,valdosta-state-blazers,Valdosta State,Blazers,Valdosta State,VAL,Valdosta State Blazers,Blazers,dd1a32,000000
+teamId_2674,401540459,False,,,,,NONE,,,,,,,,,,2674,401540459,valparaiso-beacons,Valparaiso,Beacons,Valparaiso,VAL,Valparaiso Beacons,Beacons,794500,
+teamId_2676,401540674,False,,,,,NONE,,,,,,,,,,2676,401540674,virginia-union-panthers,Virginia Union,Panthers,VA Union,VU,Virginia Union Panthers,Panthers,000000,
+teamId_2678,401540588,False,,,,,NONE,,,,,,,,,,2678,401540588,vmi-keydets,VMI,Keydets,VMI,VMI,VMI Keydets,Keydets,E52D37,eec52b
+teamId_2681,401540042,False,,,,,NONE,,,,,,,,,,2681,401540042,wagner-seahawks,Wagner,Seahawks,Wagner,WAG,Wagner Seahawks,Seahawks,00483A,ffffff
+teamId_2682,401540977,False,,,,,NONE,,,,,,,,,,2682,401540977,walsh-cavaliers,Walsh,Cavaliers,Walsh,WAL,Walsh Cavaliers,Cavaliers,000000,
+teamId_2685,401547097,False,,,,,NONE,,,,,,,,,,2685,401547097,wartburg-college-knights,Wartburg College,Knights,Wartburg,WAR,Wartburg College Knights,Knights,f5822b,000000
+teamId_2686,401550385,False,,,,,NONE,,,,,,,,,,2686,401550385,washington-jefferson-presidents,Washington & Jefferson,Presidents,Wash & Jeff,WJC,Washington & Jefferson Presidents,Presidents,000000,
+teamId_2687,401541987,False,,,,,NONE,,,,,,,,,,2687,401541987,washburn-ichabods,Washburn,Ichabods,Washburn,WASH,Washburn Ichabods,Ichabods,000000,
+teamId_2688,401541117,False,,,,,NONE,,,,,,,,,,2688,401541117,washington-and-lee-generals,Washington and Lee,Generals,Wash and Lee,WLEE,Washington and Lee Generals,Generals,000399,d8d8d8
+teamId_2692,401540256,False,,,,,NONE,,,,,,,,,,2692,401540256,weber-state-wildcats,Weber State,Wildcats,Weber St,WEB,Weber State Wildcats,Wildcats,18005a,ebebeb
+teamId_2695,401541845,False,,,,,NONE,,,,,,,,,,2695,401541845,west-alabama-tigers,West Alabama,Tigers,W Alabama,WES,West Alabama Tigers,Tigers,d31d33,ffffff
+teamId_2698,401541861,False,,,,,NONE,,,,,,,,,,2698,401541861,west-georgia-wolves,West Georgia,Wolves,W Georgia,WES,West Georgia Wolves,Wolves,0033a1,db1a21
+teamId_2699,401545768,False,,,,,NONE,,,,,,,,,,2699,401545768,west-liberty-hilltoppers,West Liberty,Hilltoppers,West Liberty,WLIB,West Liberty Hilltoppers,Hilltoppers,000000,
+teamId_2700,401552451,False,,,,,NONE,,,,,,,,,,2700,401552451,mcdaniel-college-green-terror,McDaniel College,Green Terror,McDaniel,MCD,McDaniel College Green Terror,Green Terror,00674d,f5cc2e
+teamId_2702,401547211,False,,,,,NONE,,,,,,,,,,2702,401547211,western-new-england-golden-bears,Western New England,Golden Bears,Western NE,WNE,Western New England Golden Bears,Golden Bears,000000,
+teamId_2703,401540987,False,,,,,NONE,,,,,,,,,,2703,401540987,western-new-mexico-mustangs,Western New Mexico,Mustangs,W New Mex,WES,Western New Mexico Mustangs,Mustangs,000000,
+teamId_2704,401541896,False,,,,,NONE,,,,,,,,,,2704,401541896,west-texas-am-buffaloes,West Texas A&M,Buffaloes,West Texas A&M,WTAM,West Texas A&M Buffaloes,Buffaloes,000000,
+teamId_2707,401545739,False,,,,,NONE,,,,,,,,,,2707,401545739,west-virginia-state-yellow-jackets,West Virginia State,Yellow Jackets,W Virginia St,WVST,West Virginia State Yellow Jackets,Yellow Jackets,000000,
+teamId_2710,401540449,False,,,,,NONE,,,,,,,,,,2710,401540449,western-illinois-leathernecks,Western Illinois,Leathernecks,W Illinois,WIU,Western Illinois Leathernecks,Leathernecks,4e1e8a,ffc90a
+teamId_2711,401532431,True,2199,2711,True,False,Caesars Sportsbook (New Jersey),2711,2199,3.0,WMU -3.0,48.0,-140,118,-110.0,-110.0,2711,401532431,western-michigan-broncos,Western Michigan,Broncos,W Michigan,WMU,Western Michigan Broncos,Broncos,532e1f,8b7f79
+teamId_2714,401545997,False,,,,,NONE,,,,,,,,,,2714,401545997,western-colorado-mountaineers,Western Colorado,Mountaineers,West Colorado,WCOL,Western Colorado Mountaineers,Mountaineers,000000,
+teamId_2717,401540613,False,,,,,NONE,,,,,,,,,,2717,401540613,western-carolina-catamounts,Western Carolina,Catamounts,W Carolina,WCU,Western Carolina Catamounts,Catamounts,492F91,bf9e70
+teamId_2721,401544093,False,,,,,NONE,,,,,,,,,,2721,401544093,whitworth-pirates,Whitworth,Pirates,Whitworth,WHIT,Whitworth Pirates,Pirates,930036,000000
+teamId_2723,401550427,False,,,,,NONE,,,,,,,,,,2723,401550427,wisconsin-river-falls-falcons,Wisconsin-River Falls,Falcons,Wis RF,WIS,Wisconsin-River Falls Falcons,Falcons,000000,
+teamId_2725,401558402,False,,,,,NONE,,,,,,,,,,2725,401558402,widener-university-pride,Widener University,Pride,Widener,WID,Widener University Pride,Pride,0056ba,fdc743
+teamId_2729,401540504,False,,,,,NONE,,,,,,,,,,2729,401540504,william-mary-tribe,William & Mary,Tribe,William & Mary,W&M,William & Mary Tribe,Tribe,103217,f6b220
+teamId_2731,401550299,False,,,,,NONE,,,,,,,,,,2731,401550299,williams-ephs,Williams,Ephs,Williams,WILL,Williams Ephs,Ephs,500082,ffbe0a
+teamId_2733,401544995,False,,,,,NONE,,,,,,,,,,2733,401544995,wilmington-oh-fightin-quakers,Wilmington (OH),Fightin' Quakers,Wilmington OH,WILM,Wilmington (OH) Fightin' Quakers,Fightin' Quakers,000000,
+teamId_2736,401540691,False,,,,,NONE,,,,,,,,,,2736,401540691,winston-salem-rams,Winston-Salem,Rams,Winston-Salem,WNSL,Winston-Salem Rams,Rams,bb0100,
+teamId_2738,401549781,False,,,,,NONE,,,,,,,,,,2738,401549781,wisconsin-eau-claire-blugolds,Wisconsin-Eau Claire,Blugolds,Wis EC,WIS,Wisconsin-Eau Claire Blugolds,Blugolds,000000,
+teamId_2740,401549781,False,,,,,NONE,,,,,,,,,,2740,401549781,wisconsin-la-crosse-eagles,Wisconsin-La Crosse,Eagles,Wis LC,WIS,Wisconsin-La Crosse Eagles,Eagles,000000,
+teamId_2741,401550247,False,,,,,NONE,,,,,,,,,,2741,401550247,wisconsin-lutheran-warriors,Wisconsin Lutheran,Warriors,Wis Luthrn,WIS,Wisconsin Lutheran Warriors,Warriors,006241,000000
+teamId_2743,401541136,False,,,,,NONE,,,,,,,,,,2743,401541136,wisconsin-stevens-point-pointers,Wisconsin-Stevens Point,Pointers,Wis Stevns,WIS,Wisconsin-Stevens Point Pointers,Pointers,000000,
+teamId_2744,401550427,False,,,,,NONE,,,,,,,,,,2744,401550427,wisconsin-stout-blue-devils,Wisconsin-Stout,Blue Devils,Wis Stout,WIS,Wisconsin-Stout Blue Devils,Blue Devils,000000,
+teamId_2745,401550423,False,,,,,NONE,,,,,,,,,,2745,401550423,wisconsin-whitewater-warhawks,Wisconsin-Whitewater,Warhawks,Wis Whtwtr,UWWH,Wisconsin-Whitewater Warhawks,Warhawks,000000,
+teamId_2746,401550290,False,,,,,NONE,,,,,,,,,,2746,401550290,wittenberg-tigers,Wittenberg,Tigers,Wittenberg,WIT,Wittenberg Tigers,Tigers,000000,
+teamId_2747,401540626,False,,,,,NONE,,,,,,,,,,2747,401540626,wofford-terriers,Wofford,Terriers,Wofford,WOF,Wofford Terriers,Terriers,533B23,f0f0f0
+teamId_2748,401541098,False,,,,,NONE,,,,,,,,,,2748,401541098,wooster-fighting-scots,Wooster,Fighting Scots,Wooster,WOO,Wooster Fighting Scots,Fighting Scots,000000,
+teamId_2749,401553866,False,,,,,NONE,,,,,,,,,,2749,401553866,wpi-engineers,WPI,Engineers,WPI,WPI,WPI Engineers,Engineers,000000,
+teamId_2751,401532607,True,68,2751,False,True,Caesars Sportsbook (New Jersey),68,2751,-4.5,BOIS -4.5,49.0,162,-195,-110.0,-110.0,2751,401532607,wyoming-cowboys,Wyoming,Cowboys,Wyoming,WYO,Wyoming Cowboys,Cowboys,492f24,ffc425
+teamId_2754,401540351,False,,,,,NONE,,,,,,,,,,2754,401540351,youngstown-state-penguins,Youngstown State,Penguins,Youngstown St,YSU,Youngstown State Penguins,Penguins,E51936,690717
+teamId_2755,401540145,False,,,,,NONE,,,,,,,,,,2755,401540145,grambling-tigers,Grambling,Tigers,Grambling,GRAM,Grambling Tigers,Tigers,ee8601,ffd10a
+teamId_2757,401544141,False,,,,,NONE,,,,,,,,,,2757,401544141,berry-college-vikings,Berry College,Vikings,Berry,BER,Berry College Vikings,Vikings,,
+teamId_2758,401541050,False,,,,,NONE,,,,,,,,,,2758,401541050,howard-payne-yellow-jackets,Howard Payne,Yellow Jackets,Howard Payne,HOWP,Howard Payne Yellow Jackets,Yellow Jackets,02215b,b5985b
+teamId_2771,401540037,False,,,,,NONE,,,,,,,,,,2771,401540037,merrimack-warriors,Merrimack,Warriors,Merrimack,MRMK,Merrimack Warriors,Warriors,000000,
+teamId_2776,401553866,False,,,,,NONE,,,,,,,,,,2776,401553866,salve-regina-seahawks,Salve Regina,Seahawks,Salve Regina,SAL,Salve Regina Seahawks,Seahawks,000000,
+teamId_2779,401549585,False,,,,,NONE,,,,,,,,,,2779,401549585,st-lawrence-saints,St. Lawrence,Saints,St Lawrence,USL,St. Lawrence Saints,Saints,000000,
+teamId_2781,401544058,False,,,,,NONE,,,,,,,,,,2781,401544058,brockport-golden-eagles,Brockport,Golden Eagles,Brockport,THE,Brockport Golden Eagles,Golden Eagles,000000,
+teamId_2782,401550059,False,,,,,NONE,,,,,,,,,,2782,401550059,suny-cortland-red-dragons,SUNY Cortland,Red Dragons,Cortland,COR,SUNY Cortland Red Dragons,Red Dragons,000000,
+teamId_2790,401544074,False,,,,,NONE,,,,,,,,,,2790,401544074,albion-britons,Albion,Britons,Albion,ALBI,Albion Britons,Britons,000000,
+teamId_2800,401544968,False,,,,,NONE,,,,,,,,,,2800,401544968,alma-college-scots,Alma College,Scots,Alma,ALM,Alma College Scots,Scots,000000,
+teamId_2802,401541080,False,,,,,NONE,,,,,,,,,,2802,401541080,bethel-mn-royals,Bethel (MN),Royals,Bethel (MN),BET,Bethel (MN) Royals,Royals,002d62,b59859
+teamId_2803,401540426,False,,,,,NONE,,,,,,,,,,2803,401540426,bryant-bulldogs,Bryant,Bulldogs,Bryant,BRY,Bryant Bulldogs,Bulldogs,000000,9f8343
+teamId_2804,401541845,False,,,,,NONE,,,,,,,,,,2804,401541845,chowan-hawks,Chowan,Hawks,Chowan,CHO,Chowan Hawks,Hawks,000000,
+teamId_2805,401547059,False,,,,,NONE,,,,,,,,,,2805,401547059,clark-atlanta-panthers,Clark Atlanta,Panthers,Clark Atl,CLA,Clark Atlanta Panthers,Panthers,000000,
+teamId_2808,401553858,False,,,,,NONE,,,,,,,,,,2808,401553858,delaware-valley-aggies,Delaware Valley,Aggies,Del Valley,DEL,Delaware Valley Aggies,Aggies,004c23,e6b71b
+teamId_2810,401547173,False,,,,,NONE,,,,,,,,,,2810,401547173,hardin-simmons-cowboys,Hardin-Simmons,Cowboys,Hardn-Simm,HAR,Hardin-Simmons Cowboys,Cowboys,5b2d83,fec52f
+teamId_2812,401550148,False,,,,,NONE,,,,,,,,,,2812,401550148,hope-flying-dutchmen,Hope,Flying Dutchmen,Hope,HOP,Hope Flying Dutchmen,Flying Dutchmen,000000,
+teamId_2815,401540496,False,,,,,NONE,,,,,,,,,,2815,401540496,lindenwood-lions,Lindenwood,Lions,Lindenwood,LIN,Lindenwood Lions,Lions,000000,
+teamId_2816,401540715,False,,,,,NONE,,,,,,,,,,2816,401540715,mckendree-bearcats,McKendree,Bearcats,McKendree,MCK,McKendree Bearcats,Bearcats,000000,
+teamId_2817,401545840,False,,,,,NONE,,,,,,,,,,2817,401545840,minnesota-state-moorhead-dragons,Minnesota State Moorhead,Dragons,Minn Moorhead,MNST,Minnesota State Moorhead Dragons,Dragons,000000,
+teamId_2818,401550198,False,,,,,NONE,,,,,,,,,,2818,401550198,montclair-state-red-hawks,Montclair State,Red Hawks,Montclr St,MON,Montclair State Red Hawks,Red Hawks,c20f2f,53585a
+teamId_2822,401547000,False,,,,,NONE,,,,,,,,,,2822,401547000,north-greenville-crusaders,North Greenville,Crusaders,N Greenvll,NG,North Greenville Crusaders,Crusaders,d91e39,000000
+teamId_2823,401541765,False,,,,,NONE,,,,,,,,,,2823,401541765,northwestern-oklahoma-state-rangers,Northwestern Oklahoma State,Rangers,NW Oklahoma St,NWOS,Northwestern Oklahoma State Rangers,Rangers,000000,
+teamId_2825,401540715,False,,,,,NONE,,,,,,,,,,2825,401540715,quincy-hawks,Quincy,Hawks,Quincy,QUI,Quincy Hawks,Hawks,000000,
+teamId_2827,401550198,False,,,,,NONE,,,,,,,,,,2827,401550198,rowan-owls,Rowan,Owls,Rowan,ROW,Rowan Owls,Owls,571b04,ffcf06
+teamId_2828,401550313,False,,,,,NONE,,,,,,,,,,2828,401550313,shenandoah-hornets,Shenandoah,Hornets,Shenandoah,SHEN,Shenandoah Hornets,Hornets,000000,
+teamId_2830,401545797,False,,,,,NONE,,,,,,,,,,2830,401545797,st-anselm-hawks,St. Anselm,Hawks,St Anselm,STA,St. Anselm Hawks,Hawks,000000,
+teamId_2832,401549679,False,,,,,NONE,,,,,,,,,,2832,401549679,st-norbert-green-knights,St. Norbert,Green Knights,St. Norbert,STNO,St. Norbert Green Knights,Green Knights,000000,
+teamId_2834,401547184,False,,,,,NONE,,,,,,,,,,2834,401547184,sul-ross-state-lobos,Sul Ross State,Lobos,Sul Ross State,SROS,Sul Ross State Lobos,Lobos,000000,
+teamId_2837,401540359,False,,,,,NONE,,,,,,,,,,2837,401540359,texas-am-commerce-lions,Texas A&M-Commerce,Lions,Texas A&M-Comm,TAMC,Texas A&M-Commerce Lions,Lions,000000,
+teamId_2838,401540977,False,,,,,NONE,,,,,,,,,,2838,401540977,tiffin-dragons,Tiffin,Dragons,Tiffin,TIFF,Tiffin Dragons,Dragons,000000,
+teamId_2839,401547018,False,,,,,NONE,,,,,,,,,,2839,401547018,tusculum-pioneers,Tusculum,Pioneers,Tusculum,TUSC,Tusculum Pioneers,Pioneers,f2682a,000000
+teamId_2842,401549709,False,,,,,NONE,,,,,,,,,,2842,401549709,uva-wise-highland-cavaliers,UVA Wise,Highland Cavaliers,UVA Wise,UVAW,UVA Wise Highland Cavaliers,Highland Cavaliers,e30000,000000
+teamId_2843,401552482,False,,,,,NONE,,,,,,,,,,2843,401552482,western-connecticut-state-wolves,Western Connecticut State,Wolves,W Conn St,WES,Western Connecticut State Wolves,Wolves,002857,ffffff
+teamId_2844,401545806,False,,,,,NONE,,,,,,,,,,2844,401545806,wayne-state-ne-wildcats,Wayne State (NE),Wildcats,Wayne State NE,WNST,Wayne State (NE) Wildcats,Wildcats,000000,
+teamId_2845,401550388,False,,,,,NONE,,,,,,,,,,2845,401550388,waynesburg-yellow-jackets,Waynesburg,Yellow Jackets,Waynesburg,WAYN,Waynesburg Yellow Jackets,Yellow Jackets,000000,
+teamId_2848,401541909,False,,,,,NONE,,,,,,,,,,2848,401541909,western-oregon-wolves,Western Oregon,Wolves,Western Oregon,WOR,Western Oregon Wolves,Wolves,000000,
+teamId_2849,401544122,False,,,,,NONE,,,,,,,,,,2849,401544122,westminster-pa-titans,Westminster (PA),Titans,Westminster PA,WPA,Westminster (PA) Titans,Titans,000000,
+teamId_2851,401545840,False,,,,,NONE,,,,,,,,,,2851,401545840,winona-state-warriors,Winona State,Warriors,Winona State,WIN,Winona State Warriors,Warriors,000000,
+teamId_2858,401545867,False,,,,,NONE,,,,,,,,,,2858,401545867,california-pa-vulcans,California (PA),Vulcans,PennWest Cal,CAL,California (PA) Vulcans,Vulcans,000000,
+teamId_2871,401558981,False,,,,,NONE,,,,,,,,,,2871,401558981,kean-university-cougars,Kean University,Cougars,Kean,KEA,Kean University Cougars,Cougars,092f56,ffffff
+teamId_2876,401547001,False,,,,,NONE,,,,,,,,,,2876,401547001,lincoln-mo-blue-tigers,Lincoln (MO),Blue Tigers,Lincoln (MO),LIMO,Lincoln (MO) Blue Tigers,Blue Tigers,000000,
+teamId_2882,401540998,False,,,,,NONE,,,,,,,,,,2882,401540998,unc-pembroke-braves,UNC Pembroke,Braves,UNC Pembroke,UNCP,UNC Pembroke Braves,Braves,000000,
+teamId_2884,401550082,False,,,,,NONE,,,,,,,,,,2884,401550082,nichols-bison,Nichols,Bison,Nichls Col,NIC,Nichols Bison,Bison,007b5f,000000
+teamId_2886,401541831,False,,,,,NONE,,,,,,,,,,2886,401541831,northwood-mi-timberwolves,Northwood (MI),Timberwolves,Northwood MI,NAR,Northwood (MI) Timberwolves,Timberwolves,000000,
+teamId_2888,401541786,False,,,,,NONE,,,,,,,,,,2888,401541786,ouachita-baptist-tigers,Ouachita Baptist,Tigers,Ouachita Bapt,OB,Ouachita Baptist Tigers,Tigers,000000,
+teamId_2891,401550211,False,,,,,NONE,,,,,,,,,,2891,401550211,ripon-red-hawks,Ripon,Red Hawks,Ripon,RIP,Ripon Red Hawks,Red Hawks,000000,
+teamId_2894,401544880,False,,,,,NONE,,,,,,,,,,2894,401544880,sioux-falls-cougars,Sioux Falls,Cougars,Siouxfalls,SIO,Sioux Falls Cougars,Cougars,000000,
+teamId_2896,401549792,False,,,,,NONE,,,,,,,,,,2896,401549792,southern-virginia-knights,Southern Virginia,Knights,So Virginia,SV,Southern Virginia Knights,Knights,000000,
+teamId_2900,401540526,False,,,,,NONE,,,,,,,,,,2900,401540526,st-thomas-minnesota-tommies,St. Thomas-Minnesota,Tommies,St Thomas (MN),STMN,St. Thomas-Minnesota Tommies,Tommies,000000,
+teamId_2909,401553018,False,,,,,NONE,,,,,,,,,,2909,401553018,westfield-state-owls,Westfield State,Owls,Westfield St,WSTF,Westfield State Owls,Owls,1b509e,000000
+teamId_2911,401540734,False,,,,,NONE,,,,,,,,,,2911,401540734,william-jewell-cardinals,William Jewell,Cardinals,William Jewell,WIJ,William Jewell Cardinals,Cardinals,000000,
+teamId_2913,401549815,False,,,,,NONE,,,,,,,,,,2913,401549815,brevard-college-tornados,Brevard College,Tornados,Brevard,BRE,Brevard College Tornados,Tornados,000000,
+teamId_2916,401540379,False,,,,,NONE,,,,,,,,,,2916,401540379,incarnate-word-cardinals,Incarnate Word,Cardinals,Incarnate Word,UIW,Incarnate Word Cardinals,Cardinals,000000,080808
+teamId_2919,401550211,False,,,,,NONE,,,,,,,,,,2919,401550211,monmouth-il-fighting-scots,Monmouth (IL),Fighting Scots,Monmouth (IL),MNM,Monmouth (IL) Fighting Scots,Fighting Scots,000000,
+teamId_2923,401552873,False,,,,,NONE,,,,,,,,,,2923,401552873,pomona-pitzer-sagehens,Pomona Pitzer,Sagehens,Pomona Pitzer,POM,Pomona Pitzer Sagehens,Sagehens,00549a,f7941e
+teamId_2927,401541793,False,,,,,NONE,,,,,,,,,,2927,401541793,southwestern-oklahoma-state-bulldogs,Southwestern Oklahoma State,Bulldogs,SW Okla St,SWOK,Southwestern Oklahoma State Bulldogs,Bulldogs,000000,
+teamId_2930,401553006,False,,,,,NONE,,,,,,,,,,2930,401553006,willamette-bearcats,Willamette,Bearcats,Willamette,WLME,Willamette Bearcats,Bearcats,960a2c,ab9e76
+teamId_2938,401549800,False,,,,,NONE,,,,,,,,,,2938,401549800,huntingdon-college-al-hawks,Huntingdon College (AL),Hawks,Huntingdon,HUNT,Huntingdon College (AL) Hawks,Hawks,000000,
+teamId_2940,401552869,False,,,,,NONE,,,,,,,,,,2940,401552869,livingstone-blue-bears,Livingstone,Blue Bears,Livingstone,LIV,Livingstone Blue Bears,Blue Bears,000000,
+teamId_2951,401549727,False,,,,,NONE,,,,,,,,,,2951,401549727,suny-maritime-privateers,SUNY Maritime,Privateers,SUNY Maritime,SUNY,SUNY Maritime Privateers,Privateers,000000,
+teamId_2963,401550385,False,,,,,NONE,,,,,,,,,,2963,401550385,case-western-reserve-spartans,Case Western Reserve,Spartans,Case Wstrn,CAS,Case Western Reserve Spartans,Spartans,000000,
+teamId_2964,401547097,False,,,,,NONE,,,,,,,,,,2964,401547097,central-college-dutch,Central College,Dutch,Central,CEN,Central College Dutch,Dutch,ea0029,c8c8c8
+teamId_2967,401550127,False,,,,,NONE,,,,,,,,,,2967,401550127,framingham-state-rams,Framingham State,Rams,Framingham,FRA,Framingham State Rams,Rams,000000,
+teamId_2968,401550177,False,,,,,NONE,,,,,,,,,,2968,401550177,gustavus-adolphus-golden-gusties,Gustavus Adolphus,Golden Gusties,Gust. Adolphus,GUS,Gustavus Adolphus Golden Gusties,Golden Gusties,000000,ebb700
+teamId_2969,401553013,False,,,,,NONE,,,,,,,,,,2969,401553013,misericordia-cougars,Misericordia,Cougars,Misericordia,MIS,Misericordia Cougars,Cougars,000000,
+teamId_2970,401549749,False,,,,,NONE,,,,,,,,,,2970,401549749,william-paterson-pioneers,William Paterson,Pioneers,Will Paterson,WLPT,William Paterson Pioneers,Pioneers,000000,f57b21
+teamId_2972,401553018,False,,,,,NONE,,,,,,,,,,2972,401553018,plymouth-state-panthers,Plymouth State,Panthers,Plymouth State,PLY,Plymouth State Panthers,Panthers,054e39,000000
+teamId_2974,401541009,False,,,,,NONE,,,,,,,,,,2974,401541009,shepherd-rams,Shepherd,Rams,Shepherd,SHEP,Shepherd Rams,Rams,000000,
+teamId_2977,401549719,False,,,,,NONE,,,,,,,,,,2977,401549719,trinity-ct-bantams,Trinity (CT),Bantams,Trinity CT,TRIN,Trinity (CT) Bantams,Bantams,032d58,fecd01
+teamId_2980,401550281,False,,,,,NONE,,,,,,,,,,2980,401550281,ohio-wesleyan-battling-bishops,Ohio Wesleyan,Battling Bishops,Ohio Wesleyan,OW,Ohio Wesleyan Battling Bishops,Battling Bishops,000000,
+teamId_2986,401545739,False,,,,,NONE,,,,,,,,,,2986,401545739,fairmont-state-falcons,Fairmont State,Falcons,Fairmnt St,FAI,Fairmont State Falcons,Falcons,000000,
+teamId_3066,401545824,False,,,,,NONE,,,,,,,,,,3066,401545824,concordia-st-paul-golden-bears,Concordia-St. Paul,Golden Bears,Cncrdia SP,CON,Concordia-St. Paul Golden Bears,Golden Bears,000000,
+teamId_3071,401550045,False,,,,,NONE,,,,,,,,,,3071,401550045,north-central-cardinals,North Central,Cardinals,N Central,NOR,North Central Cardinals,Cardinals,000000,
+teamId_3101,401540197,False,,,,,NONE,,,,,,,,,,3101,401540197,utah-tech-trailblazers,Utah Tech,Trailblazers,Utah Tech,UTU,Utah Tech Trailblazers,Trailblazers,000000,
+teamId_3110,401541061,False,,,,,NONE,,,,,,,,,,3110,401541061,suny-morrisville-mustangs,SUNY Morrisville,Mustangs,Morrisvlle,MOR,SUNY Morrisville Mustangs,Mustangs,000000,
+teamId_3112,401549749,False,,,,,NONE,,,,,,,,,,3112,401549749,christopher-newport-captains,Christopher Newport,Captains,Chris Nwpt,CHR,Christopher Newport Captains,Captains,000000,
+teamId_3162,401550066,False,,,,,NONE,,,,,,,,,,3162,401550066,alfred-state-college-pioneers,Alfred State College,Pioneers,Alfred St,ALF,Alfred State College Pioneers,Pioneers,000000,
+teamId_6353,401550224,False,,,,,NONE,,,,,,,,,,6353,401550224,lakeland-university-muskies,Lakeland University,Muskies,Lakeland,LAKE,Lakeland University Muskies,Muskies,,
+teamId_6845,401547128,False,,,,,NONE,,,,,,,,,,6845,401547128,nebraska-wesleyan-prairie-wolves,Nebraska Wesleyan,Prairie Wolves,NE Wesleyan,NEBW,Nebraska Wesleyan Prairie Wolves,Prairie Wolves,,
